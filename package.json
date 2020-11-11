@@ -1,0 +1,26 @@
+{
+  "name": "locobss-co2-data",
+  "version": "1.0.0",
+  "description": "Part of the LoCobSS project. Tool to generate the data required for the CO2 storytelling use case.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian-meier/LoCobSS-co2-data.git"
+  },
+  "author": "sebastian-meier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastian-meier/LoCobSS-co2-data/issues"
+  },
+  "homepage": "https://github.com/sebastian-meier/LoCobSS-co2-data#readme",
+  "dependencies": {
+    "@turf/distance": "^6.0.1",
+    "csv-parse": "^4.14.0",
+    "node-fetch": "^2.6.1",
+    "node-gzip": "^1.1.2",
+    "vptree": "^1.0.0"
+  }
+}

@@ -1,0 +1,6327 @@
+einwohner,plz,city
+"6347","73457",Essingen
+"26272","63322",R�dermark
+"11163","74189",Weinsberg
+"5667","97638",Mellrichstadt
+"4611","09326",Geringswalde
+"5495","02791",Oderwitz
+"1285","94541",Grattersdorf
+"3816","25866",Mildstedt
+"1367","91358",Kunreuth
+"9795","65385",R�desheim am Rhein
+"7164","48369",Saerbeck
+"9382","01983",Gro�r�schen
+"4273","78132",Hornberg
+"8007","99441",Lehnstedt u.a.
+"3116","73491",Neuler
+"9245","49584",F�rstenau
+"445","88379",Unterwaldhausen
+"4253","19079","Banzkow, Sukow"
+"10127","69488",Birkenau
+"4788","79674",Todtnau
+"1931","93473",Arnschwang
+"1515","02797",Oybin
+"2296","74394",Hessigheim
+"11824","69221",Dossenheim
+"1292","91468",Gutenstetten
+"42686","31275",Lehrte
+"8205","79588",Efringen-Kirchen
+"3821","09394",Hohndorf
+"13931","65520",Bad Camberg
+"6756","58769",Nachrodt-Wiblingwerde
+"4611","79258",Hartheim
+"5356","23626",Ratekau
+"2805","72514",Inzigkofen
+"8399","04651",Bad Lausick
+"6361","64584",Biebesheim am Rhein
+"597","38879",Wernigerode
+"13135","53937",Schleiden
+"15517","56729",Ettringen
+"2130","73268",Erkenbrechtsweiler
+"20729","24326",Ascheberg
+"2212","74251",Lehrensteinsfeld
+"3656","74420",Oberrot
+"23036","31319",Sehnde
+"2104","54614",Sch�necken
+"5208","63636",Brachttal
+"3056","86504",Merching
+"9131","77731",Willst�tt
+"11203","90562",Heroldsberg
+"25275","69181",Leimen
+"548","67811",Dielkirchen
+"2054","83708",Kreuth
+"6535","55481",Kirchberg u.a.
+"1828","74933",Neidenstein
+"4854","74918",Angelbachtal
+"6454","74223",Flein
+"6665","36460","Krayenberggemeinde, Frauensee"
+"1653","94566",Riedlh�tte
+"14621","65391",Lorch
+"8215","01468",Moritzburg
+"2035","91242",Ottensoos
+"52149","48527",Nordhorn
+"1635","67824",Feilbingert
+"11767","55252",Mainz-Kastel
+"2234","22962",Siek
+"7798","87463",Dietmannsried
+"1061","21529",Kr�ppelshagen-Fahrendorf
+"1627","74936",Siegelsbach
+"3413","83536",Gars a. Inn
+"862","84565",Oberneukirchen
+"10190","65558",Burgschwalbach
+"3824","73337",Bad �berkingen
+"15985","19258","Boizenburg, Gresse, Greven u.a."
+"36507","21423",Winsen
+"3436","82491",Grainau
+"5740","67373",Dudenhofen
+"2787","97246",Eibelstadt
+"1197","67816","Dreisen, Standenb�hl"
+"7079","94496",Ortenburg
+"10487","64668",Rimbach
+"6952","52459",Inden
+"13614","71540",Murrhardt
+"104429","47441",Moers
+"3898","97525",Schwebheim
+"9679","73540",Heubach
+"10273","72213",Altensteig
+"2030","67280",Ebertsheim
+"29123","56626",Andernach
+"32383","64546",M�rfelden-Walldorf
+"1981","54498",Piesport
+"1929","27257",Affinghausen und Sudwalde
+"1760","82401",Rottenbuch
+"1800","72667",Schlaitdorf
+"5804","82547",Eurasburg
+"10075","29313",Hamb�hren
+"2556","85459",Berglern
+"13507","66583",Spiesen-Elversberg
+"3448","82431",Kochel a. See
+"1888","89188",Merklingen
+"1266","92545",Niedermurach
+"2629","76774",Leimersheim
+"5594","36129",Gersfeld
+"5241","84375",Kirchdorf a. Inn
+"1562","57639",Oberdreis
+"3209","75392",Deckenpfronn
+"4275","97855",Triefenstein
+"6585","33039",Nieheim
+"2793","97656",Oberelsbach
+"13925","84405",Dorfen
+"978","84553",Halsbach
+"2166","87666",Pforzen
+"6533","08134","Langenwei�bach, Wildenfels"
+"1905","94264",Langdorf
+"742","56630",Kretz
+"10049","06556",Artern/Unstrut u.a.
+"779","17329","Krackow, Nadrensee"
+"1879","86937",Scheuring
+"5973","72351",Geislingen
+"3419","71576",Burgstetten
+"633","21770",Mittelstenahe
+"5226","87538",Fischen im Allg�u
+"1287","89197",Weidenstetten
+"5912","49456",Bakum
+"2608","85465",Langenpreising
+"5506","72184",Eutingen im G�u
+"2176","74939",Zuzenhausen
+"3032","67126",Hochdorf-Assenheim
+"8229","38527",Meine
+"4551","26553",Dornum
+"3392","92706",Luhe-Wildenau
+"1852","73497",Tannhausen
+"3192","64407",Fr�nkisch-Crumbach
+"9850","85635",H�henkirchen-Siegertsbrunn
+"2152","73107",Eschenbach
+"2495","77784",Oberharmersbach
+"1981","88481",Balzheim
+"15016","21698",Harsefeld
+"1073","86868",Mittelneufnach
+"114","25859",Hallig Hooge
+"13865","15926","Luckau, Waldrehna, Heideblick, F�rstlich Drehna"
+"4461","56348","Bornich, Patersberg"
+"23070","76297",Stutensee
+"2699","24257",Hohenfelde
+"4427","55457",Gensingen
+"2419","54558",Gillenfeld
+"9534","66851","Mittelbrunn, Queidersbach u.a."
+"3623","94436",Simbach
+"24511","33154",Salzkotten
+"5156","82487",Oberammergau
+"3743","84329",Wurmannsquick
+"11114","72119",Ammerbuch
+"4829","37445",Walkenried
+"3474","88364",Wolfegg
+"4197","29342",Wienhausen
+"6772","67125",Dannstadt-Schauernheim
+"143589","64283",Darmstadt
+"39921","21217",Seevetal
+"27392","88131",Lindau (Bodensee)
+"32421","28816",Stuhr
+"6121","09600","Wei�enborn, Obersch�na"
+"8283","73550",Waldstetten
+"11951","98553",Schleusingen u.a.
+"5263","34305",Niedenstein
+"1260","82409",Wildsteig
+"6678","86684",Holzheim
+"20039","74906",Bad Rappenau
+"3356","06688",Wei�enfels
+"692","25799",Wrohm
+"22005","36318",Schwalmtal
+"3714","68649",Gro�-Rohrheim
+"9423","99189",Gebesee
+"7729","17237",M�llenbeck
+"48135","08523",Plauen
+"4746","97353",Wiesentheid
+"987","37640",Golmbach
+"10798","07580","Ronneburg, Braunichswalde, Gro�enstein u.a."
+"41562","66424",Homburg
+"2895","91486",Uehlfeld
+"11558","76351",Linkenheim-Hochstetten
+"3365","95352",Marktleugast
+"7724","94081",F�rstenzell
+"1806","97727",Fuchsstadt
+"1948","53426","Schalkenbach, K�nigsfeld, Dedenbach"
+"2896","54309",Newel
+"13686","14621",Sch�nwalde
+"8467","49586","Merzen, Neuenkirchen"
+"16620","34537",Bad Wildungen
+"10757","85764",Oberschlei�heim
+"18182","88069",Tettnang
+"8663","14727",Premnitz
+"16791","59439",Holzwickede
+"4776","27449",Kutenholz
+"9439","85229",Markt Indersdorf
+"34509","45711",Datteln
+"15670","38154",K�nigslutter am Elm
+"10148","78244",Gottmadingen
+"1004","86872",Scherstetten
+"5436","49770","Herzlake, Dohren"
+"7818","47669",Wachtendonk
+"3841","82272",Moorenweis
+"3118","73117",Wangen
+"10697","88605","Me�kirch, Sauldorf"
+"1346","86694",Niedersch�nenfeld
+"8003","08248",Klingenthal/Sa.
+"1419","97496",Burgpreppach
+"31290","31303",Burgdorf
+"7986","31185",S�hlde
+"6258","37444",Braunlage
+"2567","91602",D�rrwangen
+"6904","53545","Linz am Rhein, Ockenfels"
+"2143","75335",Dobel
+"2777","85410",Haag a.d. Amper
+"493","29590",R�tzlingen
+"3352","21522","Hohnstorf (Elbe), Hittbergen"
+"2549","31634",Steimbke
+"1407","27498",Helgoland
+"9254","37130",Gleichen
+"5084","63920",Gro�heubach
+"10655","56317",Urbach
+"3254","79350",Sexau
+"13508","73207",Plochingen
+"1384","82499",Wallgau
+"37062","48231",Warendorf
+"3611","18320","Ahrenshagen-Daskow, Trinwillershagen u.a."
+"9102","71126",G�ufelden
+"9067","76831","Billigheim-Ingenheim, Birkweiler"
+"5105","93092",Barbing
+"6607","34289",Zierenberg
+"2372","83242",Reit im Winkl
+"2555","87776",Sontheim
+"1141","67814",Dannenfels
+"30450","27777",Ganderkesee
+"2476","97505",Geldersheim
+"2680","54343",F�hren
+"19226","48301",Nottuln
+"5848","79423",Heitersheim
+"1945","56335",Neuh�usel
+"12234","22946",Trittau
+"12910","09366",Stollberg/Erzgeb.
+"3290","17392",Spantekow
+"67878","46535",Dinslaken
+"2584","21398",Neetze
+"2978","72145",Hirrlingen
+"2084","74679",Wei�bach
+"4587","17258",Feldberger Seenlandschaft
+"3643","19339",Plattenburg
+"5770","25764",Wesselburen
+"16174","23568",L�beck Schlutup/St. Gertrud
+"40540","98693",Ilmenau
+"11847","57489",Drolshagen
+"6774","79848",Bonndorf im Schwarzwald
+"6467","72275",Alpirsbach
+"3740","35114",Haina
+"8951","06729",Elsteraue
+"1907","92552",Teunz
+"11904","06536","S�dharz, Berga"
+"2157","94139",Breitenberg
+"8490","84518",Garching a.d. Alz
+"895","92274",Gebenbach
+"8769","07586",Bad K�stritz
+"3377","19086",Plate
+"8212","04451",Borsdorf
+"5262","27327","Martfeld, Schwarme"
+"2827","56249",Herschbach
+"5025","78086",Brigachtal
+"10458","01728",Bannewitz
+"12028","77955",Ettenheim
+"9736","01900","Gro�r�hrsdorf, Bretnig-Hauswalde"
+"3614","23883",Sterley
+"14674","69198",Schriesheim
+"2600","87766",Memmingerberg
+"26246","66606",Sankt Wendel
+"780","25850","Behrendorf, Bondelum"
+"54386","45525",Hattingen
+"21390","52538","Gangelt, Selfkant"
+"146781","69115",Heidelberg
+"1500","54451",Irsch
+"2811","82065",Baierbrunn
+"14710","61267",Neu-Anspach
+"2533","38554",Weyhausen
+"5580","04880",Dommitzsch
+"4390","09423",Gelenau/Erzgeb.
+"4049","84547",Emmerting
+"11292","79331",Teningen
+"4776","01477",Arnsdorf b. Dresden
+"11529","98673","Eisfeld, Auengrund"
+"959","57645",Nister
+"4736","17459",Koserow
+"2692","26847",Detern
+"3288","31553","Auhagen, Sachsenhagen"
+"10577","08112",Wilkau-Ha�lau
+"1528","82438",Eschenlohe
+"1053","31627",Rohrsen
+"2524","38543",Hillerse
+"10631","29229","Celle, Wittbeck"
+"30838","27607",Geestland
+"6761","35285",Gem�nden
+"4843","37276",Meinhard
+"2659","56276",Gro�maischeid
+"12229","49610",Quakenbr�ck
+"153924","49074",Osnabr�ck
+"2140","57644",Hattert
+"6543","82398",Polling
+"6549","49451",Holdorf
+"1246","97845",Neustadt a. Main
+"1806","67475",Weidenthal
+"1416","72417",Jungingen
+"3711","29399",Wahrenholz
+"2255","72519",Veringenstadt
+"2435","76771",H�rdt
+"1833","72513",Hettingen
+"5480","36272",Niederaula
+"2410","24641",Sieversh�tten
+"7086","18196",Dummerstorf
+"8270","37242",Bad Sooden-Allendorf
+"2685","92369",Sengenthal
+"6551","36151",Burghaun
+"1113","01738",Dorfhain
+"5511","72138",Kirchentellinsfurt
+"4835","76764",Rheinzabern
+"2972","75449",Wurmberg
+"14338","48734",Reken
+"8032","90584",Allersberg
+"12095","35440",Linden
+"8652","15749",Mittenwalde
+"4054","97526",Sennfeld
+"4878","97653",Bischofsheim a.d. Rh�n
+"3832","24248",M�nkeberg
+"11267","90559",Burgthann
+"2442","36217",Ronshausen
+"856","21228",Harmstorf
+"6283","09353",Oberlungwitz
+"7357","18225",K�hlungsborn
+"16088","01979",Lauchhammer
+"900","94142",F�rsteneck
+"3653","76865",Insheim
+"1808","86480",Aletshausen
+"1847","96365",Nordhalben
+"2311","21644",Sauensiek
+"11178","46348",Raesfeld
+"4483","71563",Affalterbach
+"6164","66649",Oberthal
+"236","72299",W�rnersberg
+"11980","49757","Werlte, Vrees, Lahn"
+"8870","66620",Nonnweiler
+"3379","91093",He�dorf
+"4645","67591",Offstein
+"3653","88178",Heimenkirch
+"15270","28876",Oyten
+"8109","88422",Bad Buchau
+"7628","28879",Grasberg
+"630","25585","L�tjenwestedt, Tackesdorf"
+"5638","35516",M�nzenberg
+"4727","23684","Scharbeutz, S�sel"
+"73385","27749",Delmenhorst
+"2437","84381",Johanniskirchen
+"1368","94574",Wallerfing
+"2208","86579",Waidhofen
+"10296","37586",Dassel
+"9144","34434",Borgentreich
+"3758","97500",Ebelsbach
+"2457","63639",Fl�rsbachtal
+"12375","71397",Leutenbach
+"2366","54649",Waxweiler
+"11645","86956",Schongau
+"3385","97258",Ippesheim
+"2990","86678",Ehingen
+"1385","92697",Georgenberg
+"13592","64572",B�ttelborn
+"970","89440",Lutzingen
+"12064","03253",Doberlug-Kirchhain
+"14083","26441",Jever
+"4031","15320","Neutrebbin, Neuhardenberg"
+"4806","54533","Bettenfeld, Nieder�fflingen u.a."
+"586404","40210",D�sseldorf
+"6767","37247",Gro�almerode
+"28627","31832",Springe
+"3179","24857",Fahrdorf
+"9715","76857","Albersweiler, Silz u.a."
+"5407","17440","Kr�slin, Krummin, Lassan u.a."
+"12135","06198",Salzatal
+"3491","35117",M�nchhausen
+"6550","99830",Treffurt/Ifta
+"2701","84435",Lengdorf
+"64101","17033",Neubrandenburg
+"9203","63619",Bad Orb
+"5762","61239",Ober-M�rlen
+"1429","24369",Waabs
+"3545","83123",Amerang
+"5796","93197",Zeitlarn
+"14915","23909",Ratzeburg
+"1582","89437",Haunsheim
+"3269","39319",Jerichow
+"1853","56599",Leutesdorf
+"94263","33330",G�tersloh
+"35201","58675",Hemer
+"9029","25709","Kronprinzenkoog, Marne u.a."
+"7953","97702",M�nnerstadt
+"6512","56281",Emmelshausen
+"1107","34639",Schwarzenborn
+"636","79694",Utzenfeld
+"49582","67346",Speyer
+"1058","67819",Kriegsfeld
+"11523","09557",Fl�ha
+"4134","89362",Offingen
+"1256","55619",Hennweiler
+"1222","86747",Maihingen
+"1330","91720",Absberg
+"8803","34277",Fuldabr�ck
+"4872","79853",Lenzkirch
+"1349","89344",Aislingen
+"61457","45699",Herten
+"4183","83355",Grabenst�tt
+"10102","31542",Bad Nenndorf
+"2313","94151",Mauth
+"4892","31084",Freden (Leine)
+"20283","14943",Luckenwalde
+"5690","49453","Barver, Dickel, Hemsloh, Rehden, Wetschen, Wehrblecker Heide"
+"2115","90614",Ammerndorf
+"3335","25856",Hattstedt u.a.
+"6289","17179",Gnoien u.a.
+"50792","47877",Willich
+"3761","24613","Aukrug, Wiedenborstel"
+"15690","85748",Garching b. M�nchen
+"1632","97267",Himmelstadt
+"7311","21279","Hollenstedt, Drestedt u.a."
+"2548","55263",Wackernheim
+"2414","87772",Pfaffenhausen
+"5007","19417",Warin
+"1575","86577",Sielenbach
+"3494","09356",St. Egidien
+"13020","46342",Velen
+"9897","69509",M�rlenbach
+"1786","93185",Michelsneukirchen
+"2787","85419",Mauern
+"7357","93158",Teublitz
+"30368","49377",Vechta
+"1663","82389",B�bing
+"4764","94575",Windorf
+"19527","66822",Lebach
+"7437","83224",Grassau
+"3103","27330",Asendorf
+"3031","93102",Pfatter
+"511","21526",Hohenhorn
+"5254","84085",Langquaid
+"3848","79415",Bad Bellingen
+"1229","95237",Wei�dorf
+"3590","07952",Pausa-M�hltroff
+"38899","06667","Wei�enfels, St��en"
+"3835","54314",Zerf
+"2374","92269",Fensterbach
+"2901","36364",Bad Salzschlirf
+"9996","84513",T�ging a. Inn
+"12631","65474",Bischofsheim
+"2176","67378",Zeiskam
+"6262","19246",Zarrentin
+"13446","35606",Solms
+"44608","71229",Leonberg
+"4266","85617",A�ling
+"3585","08328",St�tzengr�n
+"9701","86420",Diedorf
+"14299","32689",Kalletal
+"4065","78136",Schonach im Schwarzwald
+"1904","56322",Spay
+"7721","97705",Burkardroth
+"1705","66907",Glan-M�nchweiler
+"5763","56651",Niederzissen
+"1904","72657",Altenriet
+"1005","97851",Rothenfels
+"8921","71106",Magstadt
+"27945","58300",Wetter (Ruhr)
+"975","38709",Wildemann
+"1849","95695",M�hring
+"21131","27356",Rotenburg
+"2869","96268",Mitwitz
+"4071","90613",Gro�habersdorf
+"693","54483",Kleinich
+"21144","61184",Karben
+"9750","35321",Laubach
+"4398","56579",Rengsdorf
+"4031","99891",Tabarz/ Th�r. Wald
+"928","83364",Neukirchen am Teisenberg
+"11410","49509",Recke
+"24891","32339",Espelkamp
+"62218","41539",Dormagen
+"3802","29389",Bad Bodenteich
+"23677","23611",Bad Schwartau
+"1878","31609",Balge
+"9643","84359",Simbach a. Inn
+"2438","97837",Erlenbach b. Marktheidenfeld
+"7826","36205",Sontra
+"11053","83064",Raubling
+"15913","39340",Haldensleben
+"13442","24214",Gettorf u.a.
+"1582","93099",M�tzing
+"721","29484",Langendorf
+"9135","72581",Dettingen an der Erms
+"14448","52224",Stolberg
+"5509","04779",Wermsdorf
+"9037","99439",Berlstedt
+"4365","01731",Kreischa
+"4527","31558",Hagenburg
+"6081","85238",Petershausen
+"3169","93087",Alteglofsheim
+"3222","97776",Eu�enheim
+"6876","67685",Weilerbach u.a.
+"3373","56584",Anhausen
+"7099","66359",Bous
+"12180","21481",Lauenburg/Elbe
+"2563","38464",Gro� Tw�lpstedt
+"2045","35583",Wetzlar Garbeinheim
+"1164","86479",Aichen
+"4471","95152",Selbitz
+"10714","56218",M�lheim-K�rlich
+"9253","04680",Colditz
+"2336","69251",Gaiberg
+"2290","24999",Wees
+"2751","85131",Pollenfeld
+"4138","21781",Cadenberge
+"3056","55624",Rhaunen
+"7239","36115","Hilders, Ehrenberg"
+"918","29496",Waddeweitz
+"1217","86486",Bonstetten
+"3257","91595",Burgoberbach
+"5761","83703",Gmund a. Tegernsee
+"705","84555",Jettenbach
+"3624","31618",Liebenau
+"22073","75365",Calw
+"4577","78250",Tengen
+"5175","97232",Giebelstadt
+"11988","23858",Reinfeld (Holstein)
+"19464","37269",Eschwege
+"3123","75389",Neuweiler
+"3294","07343",Wurzbach
+"3458","08261",Sch�neck/Vogtl.
+"44878","53773",Hennef (Sieg)
+"1011","56864",Bad Bertrich
+"10810","34587",Felsberg
+"8715","21521",Aum�hle
+"4179","53505","Altenahr, Berg, Kalenborn, Kirchsahr"
+"11699","90552",R�thenbach an der Pegnitz
+"1593","21380",Artlenburg
+"0","60306","Frankfurt am Main, Opernturm"
+"1389","22969",Witzhave
+"741","78601",Mahlstetten
+"44901","71032",B�blingen
+"1006","79289",Horben
+"1848","73577",Ruppertshofen
+"5409","97509",Kolitzheim
+"11355","17139",Malchin
+"15740","98646",Hildburghausen
+"12574","77948",Friesenheim
+"639","29475",Gorleben
+"1658","97724",Burglauer
+"5445","29574",Ebstorf
+"20627","39387",Oschersleben (Bode)
+"13626","39261",Zerbst/Anhalt
+"11602","75196",Remchingen
+"1616","21445",Wulfsen
+"1944","24329",Grebin
+"3683","79801",Hohentengen am Hochrhein
+"722","25887",Winnert
+"7278","77871",Renchen
+"1687","09437","B�rnichen, Gornau"
+"2057","97789",Oberleichtersbach
+"5242","07987",Mohlsdorf-Teichwolframsdorf
+"8259","31174",Schellerten
+"2294","56323","Waldesch, H�nenfeld"
+"8622","55286",W�rrstadt
+"8590","38704",Liebenburg
+"5374","09633",Halsbr�cke
+"2371","77791",Berghaupten
+"15188","68642",B�rstadt
+"3172","87545",Burgberg im Allg�u
+"30940","47495",Rheinberg
+"35011","50389",Wesseling
+"6960","76872",Steinweiler
+"9673","06343",Mansfeld
+"2344","95508",Kulmain
+"3490","67593","Westhofen, Bermersheim"
+"5136","36211",Alheim
+"1094","31711",Luhden
+"1424","54579",�xheim
+"883","67748",Odenbach
+"1647","54669",Bollendorf
+"67513","99423",Weimar
+"3494","06711",Zeitz
+"2626","79288",Gottenheim
+"12804","89542",Herbrechtingen
+"12240","91217",Hersbruck
+"7827","67292",Kirchheimbolanden
+"3286","82346",Andechs
+"1074","21730",Balje
+"3711","77977",Rust
+"3788","93183",Kallm�nz
+"12409","37318","Arenshausen, Uder u.a."
+"10538","93142",Maxh�tte-Haidhof
+"16455","66839",Schmelz
+"49071","59192",Bergkamen
+"6072","07338",Kaulsdorf
+"4269","09474",Crottendorf
+"2579","64756",Mossautal
+"1814","97904",Dorfprozelten
+"3039","38321",Denkte
+"21627","23701","Eutin, S�sel"
+"1002","97792",Riedenberg
+"4699","87493",Lauben
+"4407","88273",Fronreute
+"7599","82275",Emmering
+"12299","63607",W�chtersbach
+"6893","15374",M�ncheberg
+"3983","98590",Schwallungen
+"52363","76530",Baden-Baden
+"3287","67166",Otterstadt
+"7356","97990",Weikersheim
+"6053","65388",Schlangenbad
+"19696","57482",Wenden
+"2289","56340",Osterspai
+"8693","75378",Bad Liebenzell
+"23797","55411",Bingen am Rhein
+"1077","29479",Jameln
+"1475","83735",Bayrischzell
+"2382","84567",Erlbach
+"1944","87737",Boos
+"3311","89349",Burtenbach
+"1229","91469",Hagenb�chach
+"24889","49393",Lohne
+"26010","71384",Weinstadt
+"1699","83567",Unterreit
+"3815","84088",Neufahrn i. NB
+"2475","56333",Winningen
+"2275","67158",Ellerstadt
+"4253","88436",Eberhardzell
+"7488","94419",Reisbach
+"9257","99438",Bad Berka u.a.
+"2316","25946",Amrum
+"10846","74348",Lauffen am Neckar
+"5575","55437",Ockenheim
+"1840","07349",Lehesten
+"171058","23552",L�beck
+"3108","78567",Fridingen an der Donau
+"1724","63934",R�llbach
+"4254","73095",Albershausen
+"2448","73571",G�ggingen
+"1876","96157",Ebrach
+"2354","23866",Nahe
+"3729","83253",Rimsting
+"5472","91459",Markt Erlbach
+"8794","17509",Lubmin
+"1956","72227",Egenhausen
+"12517","23769",Fehmarn
+"10655","75334",Straubenhardt
+"10872","09405","Zschopau, Gornau"
+"25559","74172",Neckarsulm
+"12182","35435",Wettenberg
+"17422","32805",Horn-Bad Meinberg
+"5696","99759",Sollstedt
+"8023","06385",Aken (Elbe)
+"4517","73485",Unterschneidheim
+"2701","88317",Aichstetten
+"24847","57462",Olpe
+"4627","19075",Pampow
+"4439","88430",Rot an der Rot
+"305786","53111",Bonn
+"8463","93155",Hemau
+"24535","77855",Achern (Abweichung Exklaven)
+"12058","38685",Langelsheim
+"2347","92287",Schmidm�hlen
+"3000","83674",Gai�ach
+"12347","59514",Welver
+"8861","91275",Auerbach i.d. OPf.
+"9817","01458",Ottendorf-Okrilla
+"4481","54346",Mehring
+"6931","97337",Dettelbach
+"98905","07743",Jena
+"16670","21509",Glinde
+"2011","91475",Lonnerstadt
+"43621","70734",Fellbach
+"5197","92670",Windischeschenbach
+"7845","49593",Bersenbr�ck
+"984","73347",M�hlhausen im T�le
+"1812","93499",Zandt
+"6021","96123",Litzendorf
+"9908","32289",R�dinghausen
+"786","25786",Dellstedt
+"5435","31600",Uchte
+"5368","31595",Steyerberg
+"3249","78667",Villingendorf
+"1541","74865",Neckarzimmern
+"6463","84140",Gangkofen
+"26970","86343",K�nigsbrunn
+"12101","59399",Olfen
+"4724","96260",Weismain
+"5735","02999",Lohsa
+"10479","26835","Hesel, Neukamperfehn u.a."
+"4245","08539",Rosenbach
+"2286","88451",Dettingen an der Iller
+"11334","67304",Eisenberg (Pfalz)
+"3791","86450",Altenm�nster
+"2051","89610",Oberdischingen
+"2149","17099","Friedland, Galenbeck, Datzetal"
+"2089","90616",Neuhof a.d.Zenn
+"1653","31633",Leese
+"1959","54331",Pellingen
+"2124","72534",Hayingen
+"1072","86974",Apfeldorf
+"5390","71154",Nufringen
+"17038","83043",Bad Aibling
+"4724","89173",Lonsee
+"6787","95473",Creu�en
+"5263","23948",Kl�tz
+"869","79685",H�g-Ehrsberg
+"15838","53424",Remagen
+"5639","35102",Lohra
+"7906","83093",Bad Endorf
+"4006","97950",Gro�rinderfeld
+"2566","23999",Insel Poel
+"13803","63512",Hainburg
+"932","97779",Geroda
+"912","29396",Sch�new�rde
+"754","78595",Hausen ob Verena
+"4611","19249",L�btheen
+"12377","38486","Kl�tze, Apenburg-Winterfeld"
+"6401","26969",Butjadingen
+"3734","72666",Neckartailfingen
+"1490","85119",Ernsgaden
+"5736","04828","Bennewitz, Machern"
+"7273","25554",Wilster
+"8505","63814",Mainaschaff
+"1545","88718",Daisendorf
+"45534","32257",B�nde
+"5331","08427",Fraureuth
+"3969","85402",Kranzberg
+"6194","74632",Neuenstein
+"1641","86857",Hurlach
+"3717","55450",Langenlonsheim
+"5289","79790",K�ssaberg
+"3518","57577",Hamm (Sieg)
+"921","31636",Linsburg
+"5121","39279","Loburg, Leitzkau"
+"515","07427",Schwarzburg
+"896","54539",�rzig
+"655","25864",L�wenstedt
+"6773","18195","Tessin, Grammow u.a."
+"57088","25335",Elmshorn
+"1835","07924",Ziegenr�ck
+"2526","14728",Rhinow
+"1655","67297",Marnheim
+"802","29591",R�mstedt
+"1997","67700",Niederkirchen
+"6259","74532",Ilshofen
+"30323","59457",Werl
+"2539","53579",Erpel
+"1536","89355",Gundremmingen
+"5512","90599",Dietenhofen
+"16795","16278",Angerm�nde
+"12790","84307",Eggenfelden
+"23152","99947",Bad Langensalza
+"7410","58849",Herscheid
+"3354","95703",Pl��berg
+"3724","67146",Deidesheim
+"3021","73119",Zell unter Aichelberg
+"15913","94474",Vilshofen an der Donau
+"3422","35649",Bischoffen
+"2109","74426",B�hlerzell
+"6425","69250",Sch�nau
+"4905","74235",Erlenbach
+"6097","99986","Vogtei, Kammerforst u.a."
+"3208","74395",Mundelsheim
+"18406","85375",Neufahrn b. Freising
+"1514","96176",Pfarrweisach
+"19340","31675",B�ckeburg
+"7788","76761",R�lzheim
+"3623","14793",Ziesar
+"4183","02788",Zittau
+"14682","06917",Jessen (Elster)
+"6355","72818",Trochtelfingen
+"3056","56305",Puderbach
+"31268","61118",Bad Vilbel
+"10405","15834",Rangsdorf
+"2343","69437",Neckargerach
+"8395","24229",D�nischenhagen
+"7668","54568",Gerolstein
+"1912","95707",Thiersheim
+"59138","59423",Unna
+"34235","66482",Zweibr�cken
+"5533","56283","Wildenbungert, Gondershausen, N�rtershausen u.a."
+"52338","59227",Ahlen
+"3955","66969",Lemberg
+"6318","72501",Gammertingen
+"3120","74245",L�wenstein
+"1886","92265",Edelsfeld
+"3870","85416",Langenbach
+"21066","26169",Friesoythe
+"3119","97772",Wildflecken
+"5225","75242",Neuhausen
+"2999","79263",Simonswald
+"2631","92259",Neukirchen b. Sulzbach-Rosen
+"1318","67167",Erpolzheim
+"2239","56341",Kamp-Bornhofen-Filsen
+"7795","04746",Hartha
+"9858","71404",Korb
+"14551","01558",Gro�enhain
+"4858","38471",R�hen
+"585","21772",Stinstedt
+"11951","73441",Bopfingen
+"3708","97486",K�nigsberg i. Bay.
+"3153","67483",Edesheim
+"1299","24793","Bargstedt, Brammer, Oldenb�ttel"
+"808","24409",Stolteb�ll
+"7713","08626",Adorf
+"9109","58339",Breckerfeld
+"2925","92540",Altendorf
+"18259","17309",Pasewalk u.a.
+"9158","54441","Ayl, Trassem u.a."
+"3141","86567",Hilgertshausen-Tandern
+"2083","93180",Deuerling
+"5948","99887",Georgenthal/ Th�r. Wald
+"26243","88239",Wangen im Allg�u
+"8798","96117",Memmelsdorf
+"7968","77830",B�hlertal
+"9013","49406","Barnstorf, Eydelstedt, Drentwede"
+"7805","55283",Nierstein
+"6804","07774",Dornburg-Camburg u.a.
+"3149","34630",Gilserberg
+"994","18565",Hiddensee
+"23422","57250",Netphen
+"38125","06618",Naumburg
+"11022","83714",Miesbach
+"24755","29410",Salzwedel
+"5153","72813",St. Johann
+"4274","38729","Hahausen, Lutter, Wallmoden"
+"6233","88477",Schwendi
+"35898","25524",Itzehoe
+"4129","88441",Mittelbiberach
+"4794","18337",Marlow
+"11017","49492",Westerkappeln
+"18327","06493","Ballenstedt, Harzgerode"
+"750","31710",Buchholz
+"6474","01824",K�nigstein/S�chs.Schw.
+"21612","46459",Rees
+"2490","86570",Inchenhofen
+"3424","95138",Bad Steben
+"41932","41564",Kaarst
+"18193","31157",Sarstedt
+"2520","78739",Hardt
+"5603","73666",Baltmannsweiler
+"1992","88636",Illmensee
+"553","67756",Hinzweiler
+"2126","98559",Oberhof
+"6263","53577",Neustadt (Wied)
+"22784","49733",Haren
+"4055","78733",Aichhalden
+"2507","79292",Pfaffenweiler
+"16853","83435",Bad Reichenhall
+"2747","87488",Betzigau
+"413","82447",Spatzenhausen
+"486609","90402",N�rnberg
+"3654","92289",Ursensollen
+"2808","56329",Sankt Goar
+"7997","04769",M�geln
+"4170","09355",Gersdorf
+"1966","24879",Idstedt
+"13095","27383",Schee�el
+"8055","08141",Reinsdorf
+"2609","54421",Reinsfeld
+"12212","14806",Belzig
+"3624","82284",Grafrath
+"4016","37639",Bevern
+"5589","97999",Igersheim
+"11525","71116",G�rtringen
+"2189","93351",Painten
+"7709","75438",Knittlingen
+"1558","94368",Perkam
+"2570","24398",D�rphof
+"10968","04610",Meuselwitz
+"566458","45127",Essen
+"681","89361",Landensberg
+"1103","91367",Wei�enohe
+"1619","75339",H�fen an der Enz
+"4085","04687",Trebsen/Mulde
+"175780","66111",Saarbr�cken
+"17565","54329",Konz
+"23912","35510",Butzbach
+"8661","53945",Blankenheim
+"57851","40764",Langenfeld
+"1180","38381",Jerxheim
+"9195","08315",Lauter-Bernsbach
+"25754","91207",Lauf an der Pegnitz
+"1617","88179",Oberreute
+"8611","24220",Flintbek
+"4184","88480",Achstetten
+"1771","91607",Gebsattel
+"15725","06333","Hettstedt, Endorf"
+"4226","85256",Vierkirchen
+"1094","91635",Windelsbach
+"24223","61381",Friedrichsdorf
+"3158","91235",Velden/Hartenstein
+"58826","65428",R�sselsheim
+"15543","06456",Arnstein
+"14960","66564",Ottweiler
+"27693","23843",Bad Oldesloe
+"1743","24644",Timmaspe
+"16744","82152",Planegg/Krailling
+"26248","32469",Petershagen
+"17942","66787",Wadgassen
+"5282","74585",Rot am See
+"785","24863",B�rm
+"2924","09544",Neuhausen/Erzgeb.
+"31306","01587",Riesa
+"17373","95615",Marktredwitz
+"1527","24992",J�rl
+"2870","17322","Blankensee, Grambow u.a."
+"5122","79780",St�hlingen
+"2185","93491",Stamsried
+"1747","53507",Dernau
+"15462","96465",Neustadt b. Coburg
+"909","67817",Imsbach
+"4536","09232",Hartmannsdorf
+"2129","82405",Wessobrunn
+"6565","89165",Dietenheim
+"1467","94372",Rattiszell
+"1779","25572",Sankt Margarethen
+"4727","89346",Bibertal
+"570","21371",Tosterglope
+"2598","83139",S�chtenau
+"5367","14789","Wusterwitz, Rosenau, Bensdorf"
+"18598","79650",Schopfheim
+"1885","77794",Lautenbach
+"6261","97469",Gochsheim
+"2301","24803",Erfde
+"7372","71287",Weissach
+"783","67757",Kreimbach-Kaulbach
+"3124","78737",Fluorn-Winzeln
+"6537","71735",Eberdingen
+"7036","27318","Hoya, Hoyerhagen, Hilgermissen"
+"4354","55471",Tiefenbach u.a.
+"4232","53578",Windhagen
+"4858","91338",Igensdorf
+"9066","69493",Hirschberg an der Bergstra�e
+"2901","84579",Unterneukirchen
+"1046","54349",Trittenheim
+"4845","93105",Tegernheim
+"21782","15345","Lichtenow, Altlandsberg u.a."
+"22428","48691",Vreden
+"33535","85435",Erding
+"64640","36037",Fulda
+"912","67599",Gundheim
+"29593","47918",T�nisvorst
+"2684","79737",Herrischried
+"1014","25576",Brokdorf
+"2306","25873",Rantrum
+"8668","74360",Ilsfeld
+"5027","17495",Karlsburg
+"13107","65468",Trebur
+"1633","24800",Elsdorf-Westerm�hlen
+"4005","01909","Gro�harthau, Frankenthal"
+"3872","07955",Auma-Weidatal
+"1952","94163",Saldenburg
+"13299","34212",Melsungen
+"1774","88448",Attenweiler
+"8436","08233",Treuen
+"9522","88326",Aulendorf
+"15316","93309",Kelheim
+"1329","25797",W�hrden
+"10868","21435",Stelle
+"23481","14776",Brandenburg/Havel
+"2911","79589",Binzen
+"326","83546",Gars am Inn
+"3","33333",Bertelsmann
+"8714","85622",Feldkirchen
+"3730","86947",Weil
+"1658","95367",Trebgast
+"30982","15517",F�rstenwalde/ Spree
+"2149","88529",Zwiefalten
+"1228","86488",Breitenthal
+"1676","91637",W�rnitz
+"3241","85659",Forstern
+"2520","49637",Menslage
+"5651","23619",Zarpen
+"24266","66557",Illingen
+"6556","66709",Weiskirchen
+"2403","97262",Hausen b. W�rzburg
+"28652","33397",Rietberg
+"8769","55288",Armsheim
+"7968","87459",Pfronten
+"1030","97848",Rechtenbach
+"8668","63825","Sch�llkrippen, Blankenbach"
+"12527","94405",Landau a.d. Isar
+"4273","35519",Rockenberg
+"1180","29416",Kuhfelde
+"5156","83451",Piding
+"945","29582",Hanstedt
+"3273","54655",Kyllburg
+"7955","95119",Naila
+"4486","74838",Limbach
+"2418","88527",Unlingen
+"869","67701",Schallodenbach
+"8306","90571","Schwaig b. N�rnberg, Behringersdorfer Forst"
+"3091","74746",H�pfingen
+"8653","97332",Volkach
+"7264","95463",Bindlach
+"887","95515",Plankenfels
+"22513","74613",�hringen
+"5053","21702",Ahlerstedt
+"7021","72820",Sonnenb�hl
+"5783","08359",Breitenbrunn/Erzgeb.
+"12328","49740",Hasel�nne
+"1484","91738",Pfofeld
+"10696","24376",Kappeln
+"14800","04420",Markranst�dt
+"10028","84508",Burgkirchen an der Alz
+"3561","86657",Bissingen
+"3133","17126",Jarmen
+"5351","86453",Dasing
+"4004","94339",Leiblfing
+"1401","29485",Lemgow
+"4248","82340",Feldafing
+"7265","86462",Langweid a. Lech
+"2763","75447",Sternenfels
+"11837","25474",Ellerbek
+"1211","24622",Gnutz
+"3499","72664",Kohlberg
+"6790","23992",Neukloster
+"8911","46354",S�dlohn
+"13809","37213",Witzenhausen
+"2982","87742",Apfeltrach
+"15434","56653",Wehr
+"7450","95466","Weidenberg, Kirchenpingarten"
+"5526","35088",Battenberg
+"4298","06311",Helbra
+"9038","37539",Bad Grund
+"4746","56593",Horhausen (Westerwald)
+"41070","25421",Pinneberg
+"54341","40667",Meerbusch
+"940","86980",Ingenried
+"19308","32602",Vlotho
+"2234","25926",Ladelund
+"4102","56856",Zell (Mosel)
+"542660","28195",Bremen
+"3927","73116",W�schenbeuren
+"1871","87789",Woringen
+"4531","91096",M�hrendorf/Mark
+"10043","48341",Altenberge
+"34520","66740",Saarlouis
+"10890","63329",Egelsbach
+"2278","94527",Aholming
+"19722","35708",Haiger
+"1517","92548",Schwarzach b. Nabburg
+"1661","75059",Zaisenhausen
+"12366","25899",Nieb�ll
+"8849","79215","Elzach, Biederbach"
+"6147","94107",Untergriesbach
+"52288","32105",Bad Salzuflen
+"5374","23898",Sandesneben u.a.
+"1533","72539",Pfronstetten
+"3018","79364",Malterdingen
+"4570","82291",Mammendorf
+"1113","67735",Mehlbach
+"7043","76855",Annweiler am Trifels
+"5118","34317",Habichtswald
+"9323","89331",Burgau
+"9290","71409",Schwaikheim
+"9047","39628",Bismark
+"747","24401",B�el
+"1527","25860",Horstedt
+"46574","67227",Frankenthal (Pfalz)
+"1374","84187",Weng
+"4543","07957",Langenwetzendorf
+"471","25579",Fitzbek
+"3888","66882",H�tschenhausen
+"3610","91332",Heiligenstadt i. OFr.
+"2716","93104",S�nching
+"4697","66989","H�hein�d, Petersberg u.a."
+"5525","91578",Leutershausen
+"31102","68623",Lampertheim
+"7502","63796",Kahl am Main
+"18238","58762",Altena
+"7062","98701",Gro�breitenbach
+"2577","24640",Schmalfeld
+"20773","68766",Hockenheim
+"2823","25795",Weddingstedt
+"9348","27321","Thedinghausen, Emtinghausen"
+"6197","27801",D�tlingen
+"2220","55627",Merxheim
+"1862","87787",Wolfertschwenden
+"2552","74429",Sulzbach-Laufen
+"2317","24327",Blekendorf
+"18777","09306",Rochlitz
+"9465","04821",Brandis
+"3946","14554",Seddiner See
+"3826","77886",Lauf
+"2941","86473",Ziemetshausen
+"2799","74864",Fahrenbach
+"15219","82418",Murnau a. Staffelsee
+"4309","35792",L�hnberg
+"1612","96275",Marktzeuln
+"8593","07426",K�nigsee-Rottenbach u.a.
+"2089","38551",Ribbesb�ttel
+"155931","14467",Potsdam
+"18969","51570",Windeck
+"5598","61209",Echzell
+"74819","44575",Castrop-Rauxel
+"2638","91729",Haundorf
+"2590","97285","R�ttingen, Tauberrettersheim"
+"3466","24806",Hohn
+"3209","84558",Kirchweidach
+"12836","56244","Freilingen, Freirachdorf u.a."
+"4713","49699",Lindern (Oldenburg)
+"3698","26844",Jemgum
+"10220","31860",Emmerthal
+"3199","84577",T��ling
+"11927","69502",Hemsbach
+"4428","84160",Frontenhausen
+"2977","75249",Kieselbronn
+"5849","79241",Ihringen
+"4738","06308","Klostermansfeld, Benndorf"
+"1359","73499",W�rt
+"1750","94357",Konzell
+"1376","87782",Unteregg
+"4636","38368","Rennau, Querenhorst, Mariental, Grasleben"
+"1626","84103",Postau
+"3165","88453",Erolzheim
+"6651","49626","Berge, Bippen"
+"12051","65589",Hadamar
+"8186","78247",Hilzingen
+"1162","67169",Kallstadt
+"3457","95502",Himmelkron
+"3967","04749",Ostrau
+"1502","86701",Rohrenfels
+"4233","56581",Melsbach
+"3096","35327",Ulrichstein
+"1843","83377",Vachendorf
+"12806","46519",Alpen
+"2821","55424",M�nster-Sarmsheim
+"8500","79725",Laufenburg (Baden)
+"1379","66503",Dellfeld
+"13504","66287",Quierschied
+"13814","27616",Beverstedt
+"5167","92676",Eschenbach i.d. OPf.
+"6048","85625",Glonn
+"38704","53721",Siegburg
+"2899","94262",Kollnburg
+"7791","66706",Perl
+"150586","41460",Neuss
+"4266","26901","Lorup, Rastdorf"
+"1881","38553",Wasb�ttel
+"5872","73460",H�ttlingen
+"4728","75443",�tisheim
+"12077","88255",Baienfurt
+"995","91289",Schnabelwaid
+"2386","95503",Hummeltal
+"7083","72285",Pfalzgrafenweiler
+"8234","16818","Fehrbellin, Temnitzquell, M�rkisch Linden u.a."
+"1488","26907",Walchum
+"4854","21769",Lamstedt
+"1266","29365",Sprakensehl
+"10277","66625",Nohfelden
+"8099","99755",Ellrich
+"3607","71159",M�tzingen
+"4040","91322",Gr�fenberg
+"5845","73463",Westhausen
+"7488","26219",B�sel
+"3373","67742",Lauterecken u.a.
+"3524","96191",Viereth-Trunstadt
+"14219","54634",Bitburg
+"729","29593",Schwienau
+"5910","74229",Oedheim
+"3904","84559",Kraiburg a. Inn
+"3884","72186",Empfingen
+"17207","23968","Barnekow, G�gelow u.a."
+"11251","91550",Dinkelsb�hl
+"563","26579",Baltrum
+"1260","38473",Tiddische
+"1323","54534",Gro�littgen
+"2397","56859","Bullay, Alf, Zell"
+"3186","56659",Burgbrohl
+"49182","27472",Cuxhaven
+"4722","88145",Hergatz
+"4834","17348",Woldegk
+"3442","96155",Buttenheim
+"3646","88281",Schlier
+"2197","49779","Oberlangen, Niederlangen"
+"10281","53498","Bad Breisig, Waldorf, G�nnersdorf"
+"15115","76889",Klingenm�nster u.a.
+"72819","48429",Rheine
+"2185","82399",Raisting
+"10312","39590",Tangerm�nde
+"12245","35075",Gladenbach
+"2069","97794",Rieneck
+"1287","95688",Friedenfels
+"6105","85247",Schwabhausen
+"4152","21406","Melbeck, Barnstedt"
+"24785","90513",Zirndorf
+"6794","34471",Volkmarsen
+"6411","35641",Sch�ffengrund
+"3094","25488",Holm
+"3547","31691","Helpsen, Seggebruch"
+"13622","45884",Gelsenkirchen Rotthausen
+"32431","07407",Rudolstadt
+"805","97511",L�lsfeld
+"1965","56850",Enkirch u.a.
+"5972","01987",Schwarzheide N.L.
+"1395","94532",Au�ernzell
+"4133","67271",Kindenheim
+"21203","65812",Bad Soden am Taunus
+"5510","07613","Crossen, Heideland u.a."
+"5492","93176",Beratzhausen
+"11629","79395",Neuenburg am Rhein
+"982","92555",Trausnitz
+"2922","19260",Vellahn
+"3248","54429",Schillingen
+"14753","16540",Hohen Neuendorf
+"3093","97953",K�nigheim
+"1697","37297",Berkatal
+"1087","86709",Wolferstadt
+"4721","66996","Fischbach, Erfweiler u.a."
+"1204","88370",Ebenweiler
+"2825","06279","Schraplau, Farnst�dt"
+"64220","56564",Neuwied
+"23656","59348",L�dinghausen
+"1053","66506",Ma�weiler
+"5245","73098",Rechberghausen
+"10209","31547",Rehburg-Loccum
+"5603","94110",Wegscheid
+"6372","99820",H�rselberg-Hainich
+"27534","51503",R�srath
+"13517","34253",Lohfelden
+"7130","74357",B�nnigheim
+"8299","52445",Titz
+"6280","86554",P�ttmes
+"1175","97279",Prosselsheim
+"2492","98554",Benshausen
+"20435","17235",Neustrelitz
+"2514","55559",Bretzenheim
+"7355","79219",Staufen im Breisgau
+"1929","89180",Bergh�len
+"21567","64560",Riedstadt
+"2345","86707","Westendorf, K�hlenthal"
+"4513","74579",Fichtenau
+"18918","48291",Telgte
+"6791","89343",Jettingen-Scheppach
+"4212","94127",Neuburg a. Inn
+"3544","91625",Schnelldorf
+"2835","25365",Klein Offenseth-Sparrieshoop
+"16265","25469",Halstenbek
+"31670","79362",Forchheim
+"5132","35759",Driedorf
+"0","60310",Frankfurt am Main (Taunusturm)
+"51747","38300",Wolfenb�ttel
+"1318","22956",Gr�nwohld
+"2454","98667",Schleusegrund
+"3869","78559",Gosheim
+"1086","86739",Ederheim
+"4570","34593",Kn�llwald
+"2379","54528",Salmtal
+"788","87494",R�ckholz
+"6570","89420",H�chst�dt a.d. Donau
+"2908","96346",Wallenfels
+"2704","38372",B�ddenstedt
+"107868","56068",Koblenz
+"1351","86866",Mickhausen
+"2894","24647",Wasbek
+"1554","96184",Rentweinsdorf
+"3179","91623",Sachsen b. Ansbach
+"327101","33602",Bielefeld
+"4927","27245","Bahrenborstel, Barenburg, Kirchdorf"
+"24729","03238",Finsterwalde
+"15649","73240",Wendlingen am Neckar
+"954","91471",Illesheim
+"2554","96194",Walsdorf
+"986","24239",Achterwehr
+"2769","85117",Eitensheim
+"3887","67731",Otterbach
+"7166","99713",Ebeleben
+"6433","66919",Obernheim-Kirchenarnbach u.a.
+"45509","48599",Gronau
+"1276","56133","Fachbach, Exklave Lahnstein"
+"3944","54673",Neuerburg u.a.
+"895","87785",Winterrieden
+"2918","49777",Stavern
+"1587","82288",Kottgeisering
+"1735","55571",Odernheim am Glan
+"15368","66701",Beckingen
+"20762","15370","Fredersdorf-Vogelsdorf, Petershagen"
+"9678","79585",Steinen
+"2081","93497",Willmering
+"12578","93073",Neutraubling
+"6055","64683",Einhausen
+"40666","31515",Wunstorf
+"3117","83417",Kirchansch�ring
+"9940","85290",Geisenfeld
+"30253","49565",Bramsche
+"3164","85258",Weichs
+"8380","63599",Biebergem�nd
+"16156","34355",Staufenberg
+"120030","38440",Wolfsburg
+"73762","58507",L�denscheid
+"19475","53343",Wachtberg
+"26237","01968",Senftenberg
+"1469","67152",Ruppertsberg
+"3724","21436",Marschacht
+"3274","95168",Marktleuthen
+"12199","58809",Neuenrade
+"1390","86879",Wiedergeltingen
+"22087","26655",Westerstede
+"46020","15230",Frankfurt/ Oder
+"2264","93482",Pemfling
+"6005","96120",Bischberg
+"5432","64404",Bickenbach
+"7577","26831",Bunde
+"9741","37627",Stadtoldendorf u.a.
+"4105","86459",Gessertshausen
+"11011","73642",Welzheim
+"5967","04827",Machern
+"2435","95236",Stammbach
+"2492","67471",Elmstein
+"12753","26639",Wiesmoor
+"9284","22927",Gro�hansdorf
+"4348","89604",Allmendingen
+"1305","67749",Offenbach-Hundheim
+"2217","38829",Harsleben
+"845","37633",Dielmissen
+"3498","23715",Bosau
+"2356","86698",Oberndorf a.Lech
+"5449","93339",Riedenburg
+"1153","83257",Gstadt a. Chiemsee
+"3155","88368",Bergatreute
+"1621","93349",Mindelstetten
+"3198","29358",Eicklingen
+"12113","55469",Simmern/Hunsr�ck u.a.
+"20131","39307","Genthin, Hohenseeden, Zabakuck u.a."
+"13616","35614",A�lar
+"503235","04103",Leipzig
+"2676","21409",Embsen
+"1648","82279",Eching a. Ammersee
+"4568","99634",Strau�furt
+"1569","94347",Ascha
+"9652","21640",Horneburg
+"6519","19399",Goldberg
+"11035","01683",Nossen
+"2077","86742",Fremdingen
+"4940","34320",S�hrewald
+"9848","83071",Stephanskirchen
+"18913","39291","M�ckern, Schermen, Nedlitz u.a."
+"3858","78579",Neuhausen ob Eck
+"8917","49545",Tecklenburg
+"3848","84098",Hohenthann
+"19907","38723",Seesen
+"930","24364",Holzdorf
+"44642","78224",Singen
+"1535","87496",Untrasried
+"7792","56235",Ransbach-Baumbach
+"2895","86482",Aystetten
+"1294","87650",Baisweil
+"8314","19395",Plau am See
+"3124","55776","Berglangenbach, Ruschberg u.a."
+"7015","66871",Pfeffelbach
+"46386","21680",Stade
+"1830","37249",Neu-Eichenberg
+"3040","98666","Biberau, Masserberg"
+"1662","84089",Aiglsbach
+"3528","99991","Gro�engottern, Heroldishausen"
+"6109","16552",Schildow
+"166948","45468",M�lheim an der Ruhr
+"5250","84371",Triftern
+"13471","52379",Langerwehe
+"1416","54574",Birresborn
+"5808","07639",Bad Klosterlausnitz
+"5566","65614",Beselich
+"12954","64653",Lorsch
+"3450","83246",Unterw�ssen
+"12350","59469",Ense
+"1427","95698",Neualbenreuth
+"36738","21244",Buchholz in der Nordheide
+"1338","83561",Ramerberg
+"3735","34479",Breuna
+"6406","97225",Zellingen
+"96364","58452",Witten
+"5579","57612",Birnbach
+"2540","79856",Hinterzarten
+"3792","36469",Tiefenort
+"19392","72116",M�ssingen
+"8789","48493",Wettringen
+"11853","72172",Sulz am Neckar
+"2028","85309",P�rnbach
+"4957","77960",Seelbach
+"3396","89364",Rettenbach
+"5796","01816",Bad Gottleuba-Berggie�h�bel
+"3359","84082",Laberweinting
+"20953","58730",Fr�ndenberg/Ruhr
+"5568","18239",Satow
+"17732","77743",Neuried
+"5043","87480",Weitnau
+"1656","89435",Finningen
+"11790","06386",Osternienburger Land
+"4408","53619",Rheinbreitbach
+"7233","31188",Holle
+"4523","97348",R�delsee
+"9641","36110",Schlitz
+"8019","31191",Algermissen
+"2176","86492",Egling a.d. Paar
+"3213","82064",Stra�lach-Dingharting
+"2793","94539",Grafling
+"4651","38458",Velpke
+"4269","94336",Hunderdorf
+"3021","91086",Aurachtal
+"1799","92262",Birgland
+"2453","84183",Niederviehbach
+"1221","91483",Oberscheinfeld
+"6577","36369",Lautertal
+"3513","01848",Hohnstein
+"7120","57627",Hachenburg
+"6922","83700",Rottach-Egern
+"11763","14547",Beelitz
+"10820","74193",Schwaigern
+"5228","03058",Neuhausen/Spree
+"3826","96484",Meeder
+"2214","55568",Staudernheim
+"8489","76870",Kandel
+"37915","25436",Uetersen
+"12465","82380",Pei�enberg
+"22437","16348",Wandlitz
+"1585","99102","Rockhausen, Klettbach"
+"4779","86643",Rennertshofen
+"2924","74597",Stimpfach
+"65358","32049",Herford
+"474","72369",Zimmern unter der Burg
+"4761","98530","Suhl, Marisfeld, Rohr u.a."
+"5195","56242",Selters (Westerwald)
+"3880","86687",Kaisheim
+"4821","31559","Haste, Hohnhorst"
+"18481","69190",Walldorf
+"1452","72364",Obernheim
+"3098","89195",Staig
+"31287","39326",Wolmirstedt u.a.
+"14251","88410",Bad Wurzach
+"13329","61250",Usingen
+"955","54487",Wintrich
+"2062","73575",Leinzell
+"8449","23623",Ahrensb�k
+"4598","66903",Altenkirchen
+"5480","37194","Bodenfelde, Wahlsburg"
+"31023","70806",Kornwestheim
+"5547","08352",Raschau
+"31995","49124",Georgsmarienh�tte
+"4250","56598",Rheinbrohl
+"1424","94571",Schaufling
+"5717","74869",Schwarzach
+"4930","72510",Stetten am kalten Markt
+"3907","88279",Amtzell
+"2391","96160",Geiselwind
+"5794","02979","Spreetal, Elsterheide"
+"1660","79805",Eggingen
+"3060","94161",Ruderting
+"6486","99192","Nesse-Apfelst�dt, Nottleben"
+"7636","83527",Haag i. OB
+"2044","74549",Wolpertshausen
+"18109","71711","Steinheim, Murr"
+"7502","63925",Laudenbach
+"6673","77836",Rheinm�nster
+"7175","21271","Hanstedt, Asendorf"
+"2565","67753",Rothselberg u.a.
+"3355","17424",Ostseebad Heringsdorf
+"1236","91622",R�gland
+"2362","37647","Brev�rde, Polle, Vahlbruch"
+"6159","24963",Tarp
+"2051","67489",Kirrweiler (Pfalz)
+"5339","77971",Kippenheim
+"22197","72250",Freudenstadt
+"1590","97259",Greu�enheim
+"4065","94124",B�chlberg
+"5797","64589",Stockstadt am Rhein
+"1504","87654",Friesenried
+"46713","76437",Rastatt
+"879","93348",Kirchdorf
+"5892","02997",Wittichenau
+"10908","88161",Lindenberg im Allg�u
+"2882","79254",Oberried
+"3310","89186",Illerrieden
+"10035","35444",Biebertal
+"3775","24629",Kisdorf
+"6463","83329",Waging a. See
+"4288","84427",Sankt Wolfgang
+"1869","91239",Henfenfeld
+"4890","88263",Horgenzell
+"3919","87474",Buchenberg
+"1137","94579",Zenting
+"12692","26736",Krummh�rn
+"8290","55257",Budenheim
+"4935","71296",Heimsheim
+"7056","15754",Heidesee
+"7727","97453",Schonungen
+"7590","54595",Pr�m
+"20881","83646","Bad T�lz, Wackersberg"
+"2481","56204",Hillscheid
+"8784","23738",Lensahn
+"2218","04934",Hohenleipisch
+"4334","56132",Bad Ems Umland
+"1646","91614",M�nchsroth
+"24865","09212",Limbach-Oberfrohna
+"4045","21395",Tespe
+"6020","92249",Vilseck
+"12957","93138",Lappersdorf
+"5919","54472","Monzelfeld, Hochscheid u.a."
+"5351","85445",Oberding
+"22085","15537",Erkner
+"1489","21388",Soderstorf
+"19057","04626","Schm�lln, Altkirchen, N�bdenitz u.a."
+"3120","18374",Zingst a. Dar�
+"1997","38707","Altenau, Schulenberg"
+"34081","49716",Meppen
+"18598","23923",Sch�nberg
+"8","70629",Stuttgart/Leinfelden-Echterdingen
+"2456","56428",Dernbach (Westerwald)
+"5631","86447",Aindling
+"3949","93199",Zell
+"2049","97903",Collenberg
+"9521","21354",Bleckede
+"11070","16548",Glienicke/Nordbahn
+"42549","77933",Lahr/Schwarzwald
+"15773","38871","Ilsenburg, Nordharz"
+"3942","69256",Mauer
+"7998","59964",Medebach
+"8382","48619",Heek
+"5048","56858",Peterswald-L�ffelscheid u.a.
+"1842","91805",Polsingen
+"8601","14558",Nuthetal
+"55061","73033",G�ppingen
+"3921","78661",Dietingen
+"1230","84546",Egglkofen
+"3998","95182",D�hlau
+"912","25855",Haselund
+"3307","76848",Wilgartswiesen
+"651","21524",Brunstorf
+"750","89619",Unterstadion
+"15711","61462",K�nigstein im Taunus
+"42131","76646",Bruchsal
+"1329","53533","Antweiler, Aremberg, Dorsel, Eichenbach, Aremberg, Fuchshofen und M�sch"
+"2428","75395",Ostelsheim
+"3780","24852","Eggebek, Langstedt, Sollerup, S�derhackstedt"
+"10631","90587",Veitsbronn
+"7512","63811",Stockstadt am Main
+"8386","93149",Nittenau
+"3194","94253",Bischofsmais
+"20551","84032","Landshut, Altdorf"
+"5967","95469",Speichersdorf
+"5289","82544",Egling
+"1488","86571",Langenmosen
+"4569","95482",Gefrees
+"1981","15864",Wendisch Rietz
+"12843","25541",Brunsb�ttel
+"40898","72108",Rottenburg am Neckar
+"36125","02977",Hoyerswerda
+"41590","87600",Kaufbeuren
+"116038","74072",Heilbronn
+"17696","31848",Bad M�nder am Deister
+"10341","26446",Friedeburg
+"3772","74921",Helmstadt-Bargen
+"7374","78554",Aldingen
+"3413","24991",Gro�solt
+"9714","03185",Peitz
+"2956","23779",Neukirchen
+"3665","02748",Bernstadt a. d. Eigen
+"1743","78586",Deilingen
+"3283","79361",Sasbach am Kaiserstuhl
+"5592","34298",Helsa
+"124973","85049",Ingolstadt
+"10114","18507",Grimmen
+"3326","95176",Konradsreuth
+"4139","88367",Hohentengen
+"5716","71149",Bondorf
+"17486","97616",Bad Neustadt an der Saale
+"4607","82386",Huglfing
+"1629","38275",Haverlah
+"21005","33775",Versmold
+"14894","32139",Spenge
+"6901","82347",Bernried
+"762","24864","Brodersby, Goltoft"
+"6031","99330",Gr�fenroda
+"2225","72297",Seewald
+"3963","69257",Wiesenbach
+"3533","88142",Wasserburg (Bodensee)
+"1061","24643",Struvenh�tten
+"13976","01689",Weinb�hla
+"1741","89434",Blindheim
+"3295","24808",Jevenstedt
+"2691","57580",Gebhardshain
+"7574","85609",Aschheim
+"9429","03096",Burg/Spreewald u.a.
+"21278","51789",Lindlar
+"2337","93096",K�fering
+"2203","04618",Langenleuba-Niederhain
+"7087","29699",Bomlitz
+"5774","73776",Altbach
+"5208","79777",�hlingen-Birkendorf
+"11091","85560",Ebersberg
+"2443","84107",Weihmichl
+"3440","95158",Kirchenlamitz
+"30209","61231",Bad Nauheim
+"1281","87749",Hawangen
+"4960","96242",Sonnefeld
+"3163","84378",Dietersburg
+"290106","68159",Mannheim
+"5194","61279",Gr�venwiesbach
+"731","91740",R�ckingen
+"35411","38855","Wernigerode, Nordharz"
+"2660","89297",Roggenburg
+"6929","63834",Sulzbach am Main
+"3242","77978",Schuttertal
+"53025","50259",Pulheim
+"6497","72474",Winterlingen
+"43729","59174",Kamen
+"10646","07629",Hermsdorf
+"13751","52457",Aldenhoven
+"1337","95683",Ebnath
+"1882","82493",Kr�n
+"3669","83543",Rott a. Inn
+"1734","83486",Ramsau b. Berchtesgaden
+"38652","76275",Ettlingen
+"4217","26899",Rhede (Ems)
+"4242","86663",Asbach-B�umenheim
+"3462","18375",Prerow a. Dar�
+"4778","72141",Walddorfh�slach
+"8505","89555",Steinheim am Albuch
+"845","29578",Eimke
+"3871","65399",Kiedrich
+"4300","97299",Zell a. Main
+"48734","32545",Bad Oeynhausen
+"4942","75050",Gemmingen
+"4304","26903",Surwold
+"3909","34596",Bad Zwesten
+"10466","49832","Andervenne, Beesten, Freren, Messingen, Thuine"
+"604","86745",Hohenaltheim
+"4378","89561",Dischingen
+"2729","25489",Haseldorf
+"1314","92724",Trabitz
+"1879","95505",Immenreuth
+"2983","88287",Gr�nkraut
+"8527","54340",Leiwen u.a.
+"12998","59955",Winterberg
+"6258","39249",Barby
+"14170","06237",Leuna
+"26862","53474",Bad Neuenahr-Ahrweiler
+"3904","78147",V�hrenbach
+"2395","84186",Vilsheim
+"67367","63739",Aschaffenburg
+"13279","63768",H�sbach
+"6020","71155",Altdorf
+"41112","32657",Lemgo
+"4159","07950","Zeulenroda-Triebes, Wei�endorf"
+"10703","69483",Wald-Michelbach
+"10887","26524","Hage, Halbemond u.a."
+"7908","21717",Fredenbeck
+"51533","71332",Waiblingen
+"4518","86465",Welden
+"4908","86845",Gro�aitingen
+"10304","97440",Werneck
+"1774","31622",Heemsen
+"3834","56271",Kleinmaischeid
+"5957","53572","Bruchhausen, Unkel"
+"4063","94136",Thyrnau
+"6820","37589",Kalefeld
+"2133","08648",Bad Brambach
+"451","24638",Schmalensee
+"6504","17091",Rosenow
+"1221","87669",Rieden am Forggensee
+"12626","38678","Clausthal-Zellerfeld, Oberschulenberg"
+"9838","35457",Lollar
+"3308","76474",Au am Rhein
+"12730","29308",Winsen (Aller)
+"2400","86931",Prittriching
+"2470","95709",Tr�stau
+"1937","95686",Fichtelberg
+"11953","32699",Extertal
+"1862","56843",Irmenach
+"8849","19067",Leezen
+"43637","31535",Neustadt am R�benberge
+"10598","36396",Steinau an der Stra�e
+"5216","74589",Satteldorf
+"9894","83209","Prien a. Chiemsee, Herrenchiemssee"
+"6506","48612",Horstmar
+"9584","74196",Neuenstadt am Kocher
+"858","97785",Mittelsinn
+"6103","84533",Marktl
+"3388","92444",R�tz
+"936","38279",Sehlde
+"5332","79418",Schliengen
+"705","88631",Beuron
+"2082","79367",Weisweil
+"4595","71573",Allmersbach im Tal
+"13117","35423",Lich
+"2605","97295","Waldbrunn, Irtenberger Wald"
+"1651","86733",Alerheim
+"4091","88487",Mietingen
+"2721","91732",Merkendorf
+"11910","27729","Hambergen, Holste u.a."
+"2105","18469",Velgast
+"5725","18190",Sanitz
+"7182","66976",Rodalben
+"4155","93346",Ihrlerstein
+"3131","97286",Winterhausen
+"4715","37284",Waldkappel
+"10775","65620",Waldbrunn
+"568","78598",K�nigsheim
+"19529","21493",Fuhlenhagen
+"2091","08147",Crinitzberg
+"6462","94428",Eichendorf
+"7015","27809",Lemwerder
+"668327","60311",Frankfurt am Main
+"12020","59510",Lippetal
+"14903","51519",Odenthal
+"4113","88693",Deggenhausertal
+"6496","96247",Michelau i. OFr.
+"6497","67806","Rockenhausen, Bisterschied u.a."
+"10077","47652",Weeze
+"16313","63762",Gro�ostheim
+"16388","58566",Kierspe
+"9044","93437",Furth i. Wald
+"10545","72800",Eningen
+"783","24366",Loose
+"4548","34477",Twistetal
+"5861","84152",Mengkofen
+"8679","52393",H�rtgenwald
+"34365","04668",Grimma
+"1303","89431",B�chingen a.d. Brenz
+"5396","72135",Dettenhausen
+"106852","91052",Erlangen
+"4151","94526",Metten
+"2526","97775",Burgsinn
+"5983","78652",Dei�lingen
+"3430","97645",Ostheim v.d. Rh�n
+"27002","71364",Winnenden
+"12275","78549",Spaichingen
+"1336","38530",Didderse
+"5713","97711",Ma�bach
+"1314","27246",Borstel
+"2967","49638",Nortrup
+"2310","56253",Treis-Karden
+"199198","27628",Hagen
+"7214","73553","Alfdorf, Schillinghof"
+"7361","24232",Sch�nkirchen
+"3956","04931","M�hlberg, Bad Liebenwerda"
+"1178","24878","Jagel, Lottorf"
+"15455","56154",Boppard
+"14789","71120",Grafenau
+"2848","79297",Winden im Elztal
+"3946","09509",Pockau-Lengefeld (Pockau)
+"4980","29413","D�hre, Diesdorf, Wallstawe"
+"5496","83666",Waakirchen
+"21132","58540",Meinerzhagen
+"2102","79807",Lottstetten
+"4067","24616",Brokstedt
+"10568","15738",Zeuthen
+"1431","82290",Landsberied
+"2285","78357",M�hlingen
+"944","24367",Osterby
+"6829","35094",Lahntal
+"43381","86854",Amberg
+"2514","72516",Scheer
+"5122","95488",Eckersdorf
+"4373","88444",Ummendorf
+"4671","18198","St�below, Kritzmow"
+"3136","56462",H�hn
+"4398","63924","Kleinheubach, R�denau"
+"40871","26603",Aurich
+"12435","36142",Tann
+"961","67473",Lindenberg
+"2129","79871",Eisenbach
+"33269","65510","H�nstetten, Idstein"
+"4328","07389",Ranis
+"7339","84069",Schierling
+"2679","56307",D�rrholz
+"11432","49835",Wietmarschen
+"6035","02953","Bad Muskau, Gro� D�ben, Gablenz"
+"4550","86850",Fischach
+"6180","72649",Wolfschlugen
+"2097","21516","Woltersdorf, M�ssen u.a."
+"5713","86653",Monheim
+"3085","35110",Frankenau
+"2672","97906",Faulbach
+"10550","71696",M�glingen
+"6032","96237",Ebersdorf b. Coburg
+"18440","70825",Korntal-M�nchingen
+"1117","23777",Heringsdorf
+"2553","85254",Sulzemoos
+"4492","49635",Badbergen
+"16734","51588",N�mbrecht
+"11556","76676",Graben-Neudorf
+"2805","85122",Hitzhofen
+"12037","71732",Tamm
+"849","56594",Willroth
+"2500","79591",Eimeldingen
+"6367","39596","Goldbeck, Arneburg u.a."
+"1196","95682",Brand
+"34096","14532",Kleinmachnow
+"39292","73525",Stadt Schw�bisch Gm�nd
+"7163","02699",K�nigswartha
+"1613","82442",Saulgrub
+"1528","66917",Wallhalben u.a.
+"11221","98634",Wasungen
+"1615","54589",Stadtkyll
+"11515","49824","Ringe, Laar, Emlichheim"
+"3785","24977",Langballig
+"1882","88484",Gutenzell-H�rbel
+"15424","07570","Weida, Harth-P�llnitz, W�nschendorf"
+"21716","04758",Oschatz
+"6422","84079",Bruckberg
+"6554","94333",Geiselh�ring
+"7155","64686",Lautertal (Odenwald)
+"16221","79713",Bad S�ckingen
+"2311","63931",Kirchzell
+"5577","96250",Ebensfeld
+"5188","71560",Sulzbach an der Murr
+"2373","74930",Ittlingen
+"1316","25491",Hetlingen
+"3645","92283",Lauterhofen
+"6446","83088",Kiefersfelden
+"11387","33824",Werther (Westf.)
+"3611","63637",Jossgrund
+"39510","91522",Ansbach
+"9668","75323",Bad Wildbad
+"8328","84524",Neu�tting
+"2129","63826",Geiselbach
+"17793","61476",Kronberg im Taunus
+"11930","08132",M�lsen
+"1313","96154",Burgwindheim
+"2109","73566",Bartholom�
+"4284","79261",Gutach im Breisgau
+"1946","86738",Deiningen
+"1336","82390",Eberfing
+"6516","86424",Dinkelscherben
+"1449","85665",Moosach
+"11345","57537","Wissen, H�vels u.a."
+"3809","94577",Winzer
+"9223","49196",Bad Laer
+"13107","17389",Anklam
+"7522","91567",Herrieden
+"9231","85598",Baldham
+"742","29481",Karwitz
+"14056","53804",Much
+"2626","54531",Manderscheid
+"6991","23743",Gr�mitz
+"4937","35767",Breitscheid
+"2298","24994",Medelby
+"11419","66271",Kleinblittersdorf
+"2401","71577",Gro�erlach
+"7421","31863",Coppenbr�gge
+"1513","91099",Poxdorf
+"10787","76547",Sinzheim
+"6553","95336",Mainleus
+"3706","87733",Markt Rettenbach
+"9973","14548",Schwielowswee
+"6910","74736",Hardheim
+"1707","73275",Ohmden
+"1406","86922",Eresing
+"40172","14612",Falkensee
+"255301","41061",M�nchengladbach
+"7166","16766",Kremmen
+"3495","87647",Unterthingau
+"2639","91090",Effeltrich
+"4739","85649",Brunnthal
+"2073","93194",Walderbach
+"5125","55597",W�llstein
+"6993","01768",Glash�tte
+"9825","64579",Gernsheim
+"2483","09249",Taura b. Burgst�dt
+"516","38322",Hedeper
+"4372","24966",S�rup
+"43869","70794",Filderstadt
+"6830","38179",Schw�lper
+"3907","36466","Dermbach, Wiesenthal"
+"4130","96253",Untersiemau
+"13377","74182",Obersulm
+"1051","24876",Hollingstedt
+"1611","91355",Hiltpoltstein
+"1633","54455",Serrig
+"5056","79244",M�nstertal
+"2185","25497",Prisdorf
+"1845","25879",Stapel
+"5368","97900",K�lsheim
+"8877","31552","Apelern, Rodenberg"
+"1895","21729",Freiburg (Elbe)
+"20236","63486",Bruchk�bel
+"1624","54646",Bettingen
+"34367","36251","Bad Hersfeld, Ludwigsau"
+"1027","25376",Borsfleth
+"5302","95478",Kemnath
+"37357","45721",Haltern am See
+"6978","94099",Ruhstorf a.d. Rott
+"5395","57635",Weyerbusch
+"16302","64354",Reinheim
+"15639","76307",Karlsbad
+"922","97852",Schollbrunn
+"1151","89352",Ellzee
+"8318","54570","Pelm, Neroth u.a."
+"4004","24354","Kosel, Rieseby u.a."
+"1025","86981",Kinsau
+"71720","35037",Marburg
+"25871","85716",Unterschlei�heim
+"3684","19309",Lenzen
+"733","78603",Renquishausen
+"3678","97947",Gr�nsfeld
+"0","82475",Garmisch-Partenkirchen (Schneefernerhaus)
+"3342","92284",Poppenricht
+"5085","86732",Oettingen i. Bay.
+"3348","72660",Beuren
+"2802","85111",Adelschlag
+"5073","19372",Spornitz
+"13142","91315",H�chstadt a.d.Aisch
+"7451","73773",Aichwald
+"2938","69436",Sch�nbrunn
+"22297","03149",Forst/ Lausitz
+"5468","95659",Arzberg
+"5119","37355",Niederorschel u.a.
+"3785","02736","Beiersdorf, Oppach"
+"23868","33428",Harsewinkel
+"5705","73265",Dettingen unter Teck
+"19063","86720",N�rdlingen
+"1452","54459",Wiltingen
+"4953","09468",Geyer
+"12490","01609","Gr�ditz, W�lknitz, R�deraue"
+"6891","83104",Tuntenhausen
+"6915","91320",Ebermannstadt
+"3779","08645",Bad Elster
+"110517","42853",Remscheid
+"56945","88045",Friedrichshafen
+"13542","02727",Ebersbach-Neugersdorf
+"12576","52441",Linnich
+"27093","01662",Mei�en
+"3870","74924",Neckarbischofsheim
+"5467","26556","Westerholt, Schweindorf u.a."
+"4334","25923","S�derl�gum, Braderup u.a."
+"16008","82377",Penzberg
+"8340","99885","Luisenthal, Ohrdruf, Wolfis"
+"4099","87668",Rieden
+"5615","85296",Rohrbach
+"3779","99958","Gro�vargula, Tonna"
+"5116","39359","R�tzlingen, Wegenstedt, Calv�rde, B�ddensell u.a."
+"5506","09419",Thum
+"2166","86477",Adelsried
+"1316","84189",Wurmsham
+"1126","97528",Sulzdorf a.d. Lederhecke
+"14424","76703",Kraichtal
+"6736","31199",Diekholzen
+"50743","49477",Ibbenb�ren
+"23130","09337","Callenberg, Hohenstein-Ernstthal, Bernsdorf"
+"1733","73114",Schlat
+"2367","24251",Osdorf
+"4003","97514",Oberaurach
+"7896","74199",Untergruppenbach
+"978","91592",Buch a. Wald
+"1203","23821",Rohlstorf
+"1349","86494",Emersacker
+"2126","31693",Hespe
+"9013","97204",H�chberg
+"9109","64665",Alsbach-H�hnlein
+"3574","18510",Wittenhagen
+"4537","17429","Benz, Heringsdorf u.a."
+"19802","04552",Borna
+"41551","48308",Senden
+"5945","16567",M�hlenbecker Land
+"3100","25582",Hohenaspe
+"2698","94258",Frauenau
+"1954","54427",Kell am See
+"3662","36275",Kirchheim (Hessen)
+"2359","94256",Drachselsried
+"13132","88074",Meckenbeuren
+"766","97283",Riedenheim
+"19416","51766",Engelskirchen
+"10771","35619",Braunfels
+"74097","45964",Gladbeck
+"12545","47647",Kerken
+"934","86986",Schwabbruck
+"7438","92348",Berg b.Neumarkt i.d.OPf.
+"507","92549",Stadlern
+"16334","19288",Ludwigslust
+"3348","67482",Venningen
+"14564","69242",M�hlhausen
+"4478","94133",R�hrnbach
+"795","92700",Kaltenbrunn
+"6352","75236",K�mpfelbach
+"13901","30974",Wennigsen (Deister)
+"6505","97769",Bad Br�ckenau
+"2063","55422","Bacharach, Breitscheid"
+"3556","85104",Pf�rring
+"713","94158",Philippsreut
+"7260","35452",Heuchelheim
+"17655","69254",Malsch
+"16528","93413",Cham
+"2297","04861",Torgau
+"2949","67578",Gimbsheim
+"5991","78187",Geisingen
+"3563","82057",Icking
+"9063","35789",Weilm�nster
+"6705","49219",Glandorf
+"8672","57610",Altenkirchen (Westerwald)
+"7417","06925",Annaburg
+"1219","91249",Weigendorf
+"27766","86633",Neuburg an der Donau
+"10157","17358",Torgelow
+"4621","77972",Mahlberg
+"9095","17373",Ueckerm�nde
+"4049","87640",Biessenhofen
+"7993","77736",Zell am Harmersbach
+"4770","95131",Schwarzenbach a. Wald
+"2229","95485",Warmensteinach
+"2711","26904",B�rger
+"3438","93458",Eschlkam
+"1395","96166",Kirchlauter
+"76972","46282",Dorsten
+"4182","17255",Wesenberg
+"3229","23628","Krummesse, Klempau"
+"4104","29649",Wietzendorf
+"15387","26215",Wiefelstede
+"2801","94157",Perlesreut
+"1524","29581",Gerdau
+"1506","24896","Treia, Ahrenvi�lfeld"
+"448","37635",L�erdissen
+"10282","18356",Barth
+"1552","91804",M�rnsheim
+"1620","95511",Mistelbach
+"10597","66646",Marpingen
+"628","94359",Loitzendorf
+"2853","74427",Fichtenberg
+"3882","17506",G�tzkow
+"7311","72229",Rohrdorf
+"4903","35099",Burgwald
+"1570","66999",Hinterweidenthal
+"1147","01762",Hartmannsdorf-Reichenau
+"44445","76829",Landau in der Pfalz
+"2259","09243",Niederfrohna
+"11151","73635",Rudersberg
+"2419","74677",D�rzbach
+"6979","06429",Nienburg (Saale)
+"11686","66802",�berherrn
+"8479","92334",Berching
+"26074","59379",Selm
+"3636","89426",Wittislingen
+"1268","97256",Geroldshausen
+"1769","74937",Spechbach
+"15099","26919",Brake
+"2618","92271",Freihung
+"648","25882",Tetenb�ll
+"6816","15898",Neuzelle
+"2363","73579",Schechingen
+"22051","38667","Bad Harzburg, Torfhaus"
+"3726","06721","Meineweh, Osterfeld"
+"15467","95100",Selb
+"5433","97340",Marktbreit
+"1682","55496",Argenthal
+"17520","53902",Bad M�nstereifel
+"4121","83413",Fridolfing
+"4904","34314",Espenau
+"6494","56457",Westerburg
+"476","25858",H�gel
+"28541","77815",B�hl
+"2758","54456",Tawern
+"2337","49844",Bawinkel
+"2440","29565",Wriedel
+"10896","88682",Salem
+"1233","86511",Schmiechen
+"1974","93095",Hagelstadt
+"19080","51580",Reichshof
+"3959","18569",Gingst
+"19888","21629",Neu Wulmstorf
+"2300","07927",Hirschberg
+"1175","97517",Rannungen
+"1064","89365",R�fingen
+"5526","75387",Neubulach
+"7564","02779",Gro�sch�nau
+"2060","24866",Busdorf
+"1305","26486",Wangerooge
+"682","38375",R�bke
+"1085","82392",Habach
+"4425","88094",Oberteuringen
+"8718","09385",Lugau/Erzgeb.
+"1310","24891","Struxdorf, Schnarup-Thumby"
+"2261","82396",P�hl
+"7747","87634",Oberg�nzburg
+"4809","97230",Estenfeld
+"34903","32791",Lage
+"1488","92447",Schwarzhofen
+"552","24869",D�rpstedt
+"8575","36137",Gro�enl�der
+"4647","55444",Seibersbach
+"777","67718",Schmalenberg
+"1567","29369",Ummern
+"3830","84166",Adlkofen
+"6417","09619","Dorfchemnitz, Mulda, Sayda"
+"9171","95643",Tirschenreuth
+"1844","77773",Schenkenzell
+"12877","48324",Sendenhorst
+"1554","25992",List
+"4073","35112",Fronhausen
+"5954","64859",Eppertshausen
+"9881","88512",Mengen
+"6309","48361",Beelen
+"8334","55765",Birkenfeld u.a.
+"1004","89446",Ziertheim
+"2403","04938",Uebigau-Wahrenbr�ck
+"3470","66987",Thaleischweiler-Fr�schen
+"2138","97799",Zeitlofs
+"2198","79865",Grafenhausen
+"6089","55413",Weiler bei Bingen
+"23258","38350",Helmstedt
+"8747","55546",Hackenheim
+"4462","72131",Ofterdingen
+"25625","42579",Heiligenhaus
+"5297","97483",Eltmann
+"6743","25761",B�sum
+"5525","83730",Fischbachau
+"6602","67480",Edenkoben
+"3521","34326",Morschen
+"32017","41352",Korschenbroich
+"7158","76332",Bad Herrenalb
+"5903","92345",Dietfurt a.d. Altm�hl
+"2205","63829",Krombach
+"3629","88483",Burgrieden
+"8850","99326","Stadtilm, Ilmtal"
+"2868","83457",Bayerisch Gmain
+"946","29494",Trebel
+"3801","06578",Bilzingsleben Kannawurf Oldisleben
+"15637","18209","Bad Doberan, Bartenshagen-Parkentin u.a."
+"5728","53557",Bad H�nningen
+"4536","83358",Seeon-Seebruck
+"26742","09244",Lichtenau
+"18327","71263",Weil der Stadt
+"6546","57614",Steimel
+"646","29473",G�hrde
+"5736","63839",Kleinwallstadt
+"33852","06217",Merseburg
+"866","97778",Fellen
+"5053","94244",Teisnach
+"19485","06502","Thale, Blankenburg"
+"6510","48366",Laer
+"7567","74226",Nordheim
+"4690","25693","Sankt Michaelisdonn,Gudendorf,Volsemenhusen,Trennewurth"
+"10432","74831",Gundelsheim
+"3086","35116",Hatzfeld
+"2419","66862",Kindsbach
+"9070","98587",Steinbach-Hallenberg
+"10154","31246",Lahstedt
+"985","94252",Bayerisch Eisenstein
+"2094","91634",Wilburgstetten
+"3000","76476",Bischweier
+"3903","56642",Kruft
+"1629","97255","Gelchsheim, Sonderhofen"
+"7424","66640",Namborn
+"3072","87665",Mauerstetten
+"918","21782",B�lkau
+"1628","38274",Elbe
+"1756","97795",Schondra
+"2897","55590",Meisenheim
+"2166","91463",Dietersheim
+"5137","98660",Themar
+"31266","22880",Wedel
+"2782","91639",Wolframs-Eschenbach
+"5471","06388","S�dliches Anhalt, K�then"
+"65952","59555",Lippstadt
+"15864","36088",H�nfeld
+"8953","39179",Barleben
+"10592","72401",Haigerloch
+"2794","91589",Aurach
+"14634","01744",Dippoldiswalde
+"12514","56410",Montabaur
+"3780","82383",Hohenpei�enberg
+"1004","95364",Ludwigschorgast
+"12302","84184",Tiefenbach
+"1272","67699",Schneckenhausen
+"3183","88634",Herdwangen-Sch�nach
+"8234","56575",Wei�enthurm
+"1925","76773",Kuhardt
+"209686","79098",Freiburg im Breisgau
+"2689","86561",Aresing
+"857","89607",Emerkingen
+"3033","72477",Schwenningen
+"1110","85599",Parsdorf/Hergolding
+"2966","67246",Dirmstein
+"1359","29471",Gartow
+"2895","92546",Schmidgaden
+"3685","96487",D�rfles-Esbach
+"1358","24881",N�bel
+"4430","99448",Kranichfeld u.a.
+"816","29576",Barum
+"1081","25788",Delve
+"2261","54332",Wasserliesch
+"13674","39606","Osterburg, Altm�rkische H�he"
+"6968","26122",Oldenburg
+"21825","24211",Preetz
+"3195","78359",Orsingen-Nenzingen
+"5314","67165",Waldsee
+"1819","38387",S�llingen
+"1298","24363",Holtsee
+"1097","37299",Wei�enborn
+"4237","15837",Baruth
+"6039","74379",Ingersheim
+"2164","57648",Unnau
+"1825","79274",St. M�rgen
+"11940","47661",Issum
+"5126","18236","Kr�pelin, Carinerland"
+"1511","21259",Otter
+"2302","92726",Waidhaus
+"1054","96151",Breitbrunn
+"8059","65604",Elz
+"1417","97907",Hasloch
+"786","67732",Hirschhorn
+"2336","78606",Seitingen-Oberflacht
+"948","93483",P�sing
+"8166","24594",Hohenwestedt
+"20177","33803",Steinhagen
+"31886","63128",Dietzenbach
+"911","53508",Mayscho�
+"3728","56645",Nickenich
+"3329","16868",Wusterhausen
+"4534","72669",Unterensingen
+"7285","90596",Schwanstetten
+"29803","21502",Geesthacht
+"3988","87637",Seeg
+"2724","27339",Riede
+"7170","55291",Saulheim
+"10322","23847",Lasbek
+"945","21274",Undeloh
+"23040","82538",Geretsried
+"19850","76287",Rheinstetten
+"3257","93107",Thalmassing
+"16216","35274",Kirchhain
+"9766","71277",Rutesheim
+"1267","56254",M�den
+"28711","02763",Zittau u.a.
+"4596","56759",Kaisersesch
+"4690","96257",Redwitz a.d. Rodach
+"12364","82041",Oberhaching
+"7171","85232",Bergkirchen
+"5662","92533",Wernberg-K�blitz
+"9298","72124",Pliezhausen
+"11687","31177",Harsum
+"1183","78148",G�tenbach
+"10745","14656",Brieselang
+"847","54616",Winterspelt
+"2001","92727",Waldthurn
+"9122","89275",Elchingen
+"13773","36179",Bebra
+"9316","61194",Niddatal
+"3154","96279",Weidhausen b. Coburg
+"10574","77723",Gengenbach
+"757","29579",Emmendorf
+"2737","54584",J�nkerath
+"7512","79787",Lauchringen
+"79216","67547",Worms
+"6321","29646",Bispingen
+"10489","21514",Br�then
+"834","56769",Retterath
+"10845","74211",Leingarten
+"3567","96337",Ludwigsstadt
+"2537","95359",Kasendorf
+"38283","01705",Freital
+"11001","71701",Schwieberdingen
+"1388","91481",M�nchsteinach
+"4305","02959",Schleife
+"22197","41363",J�chen
+"1687","86977",Burggen
+"11931","61191",Rosbach v.d. H�he
+"3511","21789",Wingst
+"7732","16547",Birkenwerder
+"11741","29378",Wittingen
+"1392","25996",Wenningstedt-Braderup (Sylt)
+"7006","26759",Hinte
+"1471","24805",Hamdorf
+"8100","83313",Siegsdorf
+"2725","86989",Steingaden
+"2053","91241",Kirchensittenbach
+"6512","94121",Salzweg
+"5951","78655",Dunningen
+"5526","36452",Kaltennordheim
+"6906","21379","Scharnebeck, Echem, L�dersburg, Rullstorf"
+"851","83676",Jachenau
+"1044","56869",Mastershausen
+"13754","49170",Hagen am Teutoburger Wald
+"1905","73102",Birenbach
+"2488","34632",Jesberg
+"30797","57223",Kreuztal
+"2898","37293",Herleshausen
+"1771","26465",Langeoog
+"14753","71394",Kernen im Remstal
+"6765","79730",Murg
+"6082","36145",Hofbieber
+"15386","83607",Holzkirchen
+"27355","61169",Friedberg (Hessen)
+"24400","78628",Rottweil
+"3626","72517",Sigmaringendorf
+"1476","24360",Barkelsby
+"6092","94094",Rotthalm�nster
+"2556","25718",Friedrichskoog
+"14323","27367","Sottrum, Ree�um, B�tersen u.a."
+"12097","06774",Muldestausee
+"2301","21776",Wanna
+"9438","95111",Rehau
+"14968","74336",Brackenheim
+"4581","97241","Bergtheim, Oberpleichfeld"
+"9744","15745",Wildau
+"2620","08543",P�hl
+"4716","93098",Mintraching
+"10365","06679",Hohenm�lsen
+"618","21527",Kollow
+"1303","87755",Kirchhaslach
+"7644","66892",Bruchm�hlbach-Miesau
+"1395","03246",Crinitz
+"23766","64521",Gro�-Gerau
+"11192","77866",Rheinau
+"35264","48282",Emsdetten
+"7512","19306",Neustadt-Glewe
+"7301","91325",Adelsdorf
+"4685","67157",Wachenheim an der Weinstra�e
+"18920","27793",Wildeshausen
+"15516","41379",Br�ggen
+"1194","93189",Reichenbach
+"4941","56294",M�nstermaifeld
+"2412","72293",Glatten
+"3528","71157",Hildrizhausen
+"3165","25566",L�gerdorf
+"1851","07919","Kirschkau, Pausa-M�hltroff"
+"1357","07429","D�schnitz, Sitzendorf, Rohrbach"
+"14940","97753",Karlstadt
+"3692","82490",Farchant
+"11898","76448",Durmersheim
+"6914","78476",Allensbach
+"2182","24887","Silberstedt, Schwittschau"
+"15622","07646",Stadtroda u.a.
+"37333","47475",Kamp-Lintfort
+"4854","66497",Contwig
+"13182","85586",Poing
+"2276","93468",Miltach
+"2559","94542",Haarbach
+"3813","07922",Tanna
+"1366","79875",Dachsberg
+"15142","48455",Bad Bentheim
+"3094","25885",Wester-Ohrstedt
+"1801","49599",Voltlage
+"4494","19303",D�mitz
+"4487","24850",Schuby
+"698","78594",Gunningen
+"2342","54523","Hetzerath, Dierscheid, Heckenm�nster"
+"9061","56130",Bad Ems
+"1654","91601",Domb�hl
+"26931","53340",Meckenheim
+"3807","78573",Wurmlingen
+"5387","97228",Rottendorf
+"6573","16767",Leegebruch
+"4563","78256",Stei�lingen
+"3579","84163",Marklkofen
+"10290","94065",Waldkirchen
+"7677","73084",Salach
+"3503","03249",Sonnewalde
+"3002","97502",Euerbach
+"4749","71729",Erdmannhausen
+"4842","85301",Schweitenkirchen
+"585895","70173",Stuttgart
+"836","29488",L�bbow
+"4377","24619",B�rnh�ved
+"10908","04617","Rositz, Starkenberg, Treben"
+"3065","36286",Neuenstein (Hessen)
+"1603","86564",Brunnen
+"7959","73252",Lenningen
+"6570","34549",Edertal
+"1718","94354",Haselbach
+"23714","73479",Ellwangen (Jagst)
+"46115","89518",Heidenheim an der Brenz
+"6740","96135",Stegaurach
+"5353","55599",Gau-Bickelheim
+"3191","36282",Hauneck
+"23256","24109",Melsdorf
+"1595","92277",Hohenburg
+"9842","15913",Straupitz
+"3360","74248",Ellhofen
+"13663","75056",Sulzfeld
+"675","25584",Holstenniendorf
+"25396","27432",Bremerv�rde
+"862","63871",Heinrichsthal
+"11537","48727",Billerbeck
+"13897","15907",L�bben (Spreewald)
+"15504","85737",Ismaning
+"2302","34633",Ottrau
+"44125","61440",Oberursel (Taunus)
+"33553","77694",Kehl
+"5386","79837","St. Blasien, Ibach"
+"33366","82256",F�rstenfeldbruck
+"692","79592",Fischingen
+"27365","16816",Neuruppin
+"3937","94518",Spiegelau
+"4357","54316",Pluwig
+"1583","96489",Niederf�llbach
+"5844","63856",Bessenbach
+"3476","88515",Langenenslingen
+"832","89177",Ballendorf
+"5666","16835",Lindow u.a.
+"1406","24816",Hamweddel
+"28610","79576",Weil am Rhein
+"1115","89353",Gl�tt
+"1789","56826",Lutzerath
+"17787","40721","Hilden, D�sseldorf"
+"1279","55777",Berschweiler bei Baumholder
+"8301","27386","Bothel, Kirchwalsede u.a."
+"6618","15936",Dahme u.a.
+"4539","67691",Hochspeyer
+"10641","06901",Kemberg
+"1761","89613",Oberstadion
+"7388","27389","Fintel, Lauenbr�ck u.a."
+"5988","99834",Gerstungen
+"2597","96269",Gro�heirath
+"1819","21739",Dollern
+"289342","76131",Karlsruhe
+"9565","01734",Rabenau
+"1029","55629",Seesbach
+"3612","91792",Ellingen
+"267780","86150",Augsburg
+"8080","37181",Hardegsen
+"6341","57539",F�rthen
+"2071","78665",Frittlingen
+"754","86700",Otting
+"8641","06785",Oranienbaum-W�rlitz
+"3208","24238",Selent
+"7741","96129",Strullendorf
+"4857","07616",B�rgel u.a.
+"1449","92721",St�rnstein
+"2240","31613",Wietzen
+"10338","25821","Bredstedt, Breklum u.a."
+"8126","39624",Kalbe
+"6753","87471",Durach
+"1327","86681",F�nfstetten
+"21671","19322","Wittenberge, R�hst�dt"
+"42952","69469",Weinheim
+"11116","99894",Leinatal
+"848","25593",Reher
+"9742","75203",K�nigsbach-Stein
+"1843","95697",Nagel
+"4931","55487",Sohren
+"4668","54413",Gusenburg
+"5124","97461",Hofheim i. UFr.
+"17751","56112",Lahnstein
+"14865","94060",Pocking
+"1805","94557",Niederalteich
+"8271","06632","Freyburg, Balgst�dt"
+"17661","09661","Hainichen, Rossau, Striegistal"
+"7016","25358",Horst
+"77670","24534",Neum�nster
+"3107","97274",Leinach
+"10809","53501",Grafschaft
+"13382","46514",Schermbeck
+"1677","24885",Sieverstedt
+"2736","02956",Rietschen
+"6516","67308",Albisheim (Pfrimm)
+"12374","31234",Edemissen
+"2105","09390",Gornsdorf
+"38426","48683",Ahaus
+"6970","48739",Legden
+"4926","91336",Heroldsbach
+"2508","91719",Heidenheim
+"12090","93133",Burglengenfeld
+"3231","93186",Pettendorf
+"21345","84478",Waldkraiburg
+"2221","55592",Rehborn
+"2245","54453",Nittel
+"5634","52396",Heimbach
+"16445","76768",Berg
+"9228","19217","Rehna, Carlow u.a."
+"48619","31224",Peine
+"1474","95691",Hohenberg a.d. Eger
+"2455","69518",Abtsteinach
+"10261","35447",Reiskirchen
+"2558","63933",M�nchberg
+"2065","73344",Gruibingen
+"1678","84106",Volkenschwand
+"11076","85080",Gaimersheim
+"5146","86668",Karlshuld
+"5579","21394","Kirchgellersen, Westergellersen, S�dergellersen"
+"12411","67112",Mutterstadt
+"1335","55432",Niederburg
+"847","87773",Ple�
+"9173","55276",Oppenheim
+"1665","51598",Friesenhagen
+"2805","72584",H�lben
+"2557","79291",Merdingen
+"3403","01990",Ortrand
+"2277","97350",Mainbernheim
+"24456","35104",Lichtenfels
+"48199","14770",Brandenburg/ Havel
+"23086","71686",Remseck am Neckar
+"3741","21407",Deutsch Evern
+"4009","84323",Massing
+"9827","85774",Unterf�hring
+"1106","87659",Hopferau
+"1623","67681",Sembach
+"13948","85567",Grafing b. M�nchen
+"2781","86507",Oberottmarshausen
+"7224","37186",Moringen
+"1221","79879",Wutach
+"7955","06464",Seeland
+"1640","78589",D�rbheim
+"3335","89358",Kammeltal
+"1981","94160",Ringelai
+"9692","97209",Veitsh�chheim
+"4543","36157",Ebersburg
+"2571","95189",K�ditz
+"1511","24797","Breiholz, Tackesdorf-Nord"
+"49270","50374",Erftstadt
+"1560","97909",Stadtprozelten
+"1245","92717",Reuth b. Erbendorf
+"54732","52249",Eschweiler
+"6799","29559",Wrestedt
+"5077","75233",Tiefenbronn
+"6523","31749",Auetal
+"1161","87763",Lautrach
+"2025","92278",Illschwang
+"1122","91236",Alfeld
+"1171","96188",Stettfeld
+"1319","29367",Steinhorst
+"952","24817",Tetenhusen
+"25706","30966",Hemmingen
+"6407","91330",Eggolsheim
+"3258","94560",Offenberg
+"3453","53562",Sankt Katharinen (Landkreis Neuwied)
+"2326","91091",Gro�enseebach
+"2126","67278",Bockenheim an der Weinstra�e
+"1990","87648",Aitrang
+"7327","92353",Postbauer-Heng
+"5230","56299",Ochtendung
+"3631","78259",M�hlhausen-Ehingen
+"1610","95361",K�dnitz
+"406","72356",Dautmergen
+"4355","38542",Leiferde
+"17796","21255","Tostedt, Kakenstorf u.a."
+"3027","83737",Irschenberg
+"5123","98663",Bad Colberg-Heldburg
+"4315","57567",Daaden
+"2270","75399",Unterreichenbach
+"12124","52156",Monschau
+"9314","73655",Pl�derhausen
+"2388","84568",Pleiskirchen
+"9547","72631",Aichtal
+"16951","04435",Schkeuditz
+"33224","01445",Radebeul
+"40982","66953",Pirmasens
+"4919","69427",Mudau
+"3070","08496",Neumark
+"5928","77833",Ottersweier
+"237446","09111",Chemnitz
+"2254","79283",Bollschweil
+"3071","24802",Emkendorf
+"6369","02747",Herrnhut
+"1771","29584",Himbergen
+"10186","57629","Malberg, Norken, H�chstenbach u.a."
+"9015","31008",Elze
+"5408","01623",Lommatzsch
+"56273","24937",Flensburg
+"2488","23946",Boltenhagen
+"1972","73099",Adelberg
+"1402","24250",Nettelsee
+"2956","54313",Zemmer
+"10645","48346",Ostbevern
+"6639","94072",Bad F�ssing
+"5190","04862",Mockrehna
+"2475","23869",Elmenhorst
+"21870","76744",W�rth
+"3283","49597",Rieste
+"11750","17109",Demmin
+"2808","38828",Wegeleben
+"21297","37115",Duderstadt
+"5451","96264",Altenkunstadt
+"5226","09623",Frauenstein
+"13406","16866","Gumtow, Kyritz u.a."
+"745","82488",Ettal
+"2491","91362",Pretzfeld
+"3657","94356",Kirchroth
+"22088","82008",Unterhaching
+"6571","37139",Adelebsen
+"13549","06179",Teutschenthal
+"4326","72181",Starzach
+"850","54529",Spangdahlem
+"27524","42799",Leichlingen
+"4641","66978",Clausen
+"4625","36277",Schenklengsfeld
+"6624","55435",Gau-Algesheim
+"2773","72511",Bingen
+"4485","39439",G�sten
+"15475","15236","Treplin, Jacobsdorf, Frankfurt (Oder)"
+"3883","74676",Niedernhall
+"98974","38226",Salzgitter
+"4620","17252",Mirow
+"916","23719",Glasau
+"1611","31626",Ha�bergen
+"3407","84095",Furth
+"998","21444",Vierh�fen
+"23883","35683",Dillenburg
+"1546","93101",Pfakofen
+"8291","47589",Uedem
+"13678","68535",Edingen-Neckarhausen
+"4462","16556",Borgsdorf
+"5437","89597",Munderkingen
+"5150","56745",Bell
+"13426","49191",Belm
+"35827","63477",Maintal
+"5700","87544",Blaichach
+"18587","72379",Hechingen
+"47393","55543",Bad Kreuznach
+"24579","53604",Bad Honnef
+"11982","25704",Meldorf
+"6086","72639",Neuffen
+"5191","66914",Waldmohr
+"9386","08294",L��nitz
+"1752","21438",Brackel
+"2476","86497",Horgau
+"17348","66773",Schwalbach
+"12786","18246",B�tzow u.a.
+"2261","95491",Ahorntal
+"19792","76726",Germersheim
+"2858","78609",Tuningen
+"14121","30989",Gehrden
+"1647","83132",Pittenhart
+"13525","91257",Pegnitz
+"11523","31241",Ilsede
+"3335","21382",Brietlingen
+"17404","88348","Bad Saulgau, Allmannsweiler"
+"11686","14552",Michendorf
+"8586","55767","Br�cken, Oberbrombach u.a."
+"7056","89284",Pfaffenhofen a.d. Roth
+"6321","91227",Leinburg
+"7057","55294",Bodenheim
+"2855","97846",Partenstein
+"5923","78199",Br�unlingen
+"2921","83112",Frasdorf
+"46468","52134",Herzogenrath
+"4823","87487",Wiggensbach
+"3751","67307",G�llheim
+"4450","18230","Rerik, Bastorf, Biendorf"
+"5801","56841",Traben-Trarbach
+"23156","30952",Ronnenberg
+"1135","86877",Walkertshofen
+"14525","39517",Tangerh�tte u.a.
+"3330","25770",Hemmingstedt
+"12620","47551",Bedburg-Hau
+"5004","96479",Weitramsdorf
+"5657","06485","Quedlinburg, Ballenstedt"
+"3393","83349",Palling
+"1726","87674",Ruderatshofen
+"12095","91555",Feuchtwangen
+"6051","91575",Windsbach
+"3604","94344",Wiesenfelden
+"4050","08541",Neuensalz
+"1844","82296",Sch�ngeising
+"11255","09217",Burgst�dt
+"5418","23972","Dorf Mecklenburg, L�bow u.a."
+"6871","71549",Auenwald
+"6568","49448",Lemf�rde u.a.
+"9087","75210",Keltern
+"1064","31719",Wiedensahl
+"5402","82343",P�cking
+"9536","83404",Ainring
+"1941","06638",Karsdorf
+"731","66504",Bottenbach
+"10113","39615","Seehausen, Werben, Leppin u.a."
+"505","82432",Walchensee
+"8236","23845",Seth
+"12216","76661",Philippsburg
+"7036","01737",Tharandt u.a.
+"8939","17039","Sponholz, Neunkirchen u.a."
+"12210","57518",Betzdorf
+"1247","29476",Gusborn
+"14427","49143",Bissendorf
+"4689","91180",Heideck
+"13666","26629",Gro�efehn
+"1528","94379",Sankt Englmar
+"653","29478",H�hbeck
+"25052","89584","Ehingen (Donau), Lauterach"
+"4988","72589",Westerheim
+"1557","27248",Ehrenburg
+"722","37643",Negenborn
+"1524","07557","Gera, Zedlitz u.a."
+"2360","86565",Gachenbach
+"5141","91186",B�chenbach
+"5097","19374","Doms�hl, Mestlin, Obere Warnow u.a."
+"3385","85447",Fraunberg
+"1006","89176",Asselfingen
+"2560","96164",Kemmern
+"4737","76473",Iffezheim
+"1051","23746",Kellenhusen
+"4504","15938",Gol�en
+"10338","75038",Oberderdingen
+"8660","67574",Osthofen
+"48411","88212",Ravensburg
+"6832","39646",Oebisfelde
+"9880","52385",Nideggen
+"5034","36208",Wildeck
+"4929","91452",Wilhermsdorf
+"1976","93470",Lohberg
+"7327","16798",F�rstenberg
+"21285","29614",Soltau
+"7781","75382",Althengstett
+"3752","77974",Mei�enheim
+"810","24870",Ellingstedt
+"5785","56637",Plaidt
+"2322","54536",Kr�v
+"3667","24972","Steinberg, Steinbergkirche"
+"12832","24582",Bordesholm
+"2886","94437",Mamming
+"5755","87739",Breitenbrunn
+"4896","79798",Jestetten
+"40296","40789",Monheim am Rhein
+"1543","91487",Vestenbergsgreuth
+"3347","94538",F�rstenstein
+"1677","87671",Ronsberg
+"1010","31619",Binnen
+"11094","86641",Rain
+"55474","53879",Euskirchen
+"4701","74423",Obersontheim
+"1187","31718",Pollhagen
+"522","25999",Kampen (Sylt)
+"1680","24358",Ascheffel
+"2561","31637",Rodewald
+"320","67587",Wintersheim
+"6646","65611",Brechen
+"2664","91809",Wellheim
+"1499","67161",G�nnheim
+"4404","87466",Oy-Mittelberg
+"155035","44623",Herne
+"22185","57258",Freudenberg
+"3307","97236",Randersacker
+"5235","96142",Hollfeld
+"1157","22965",Todendorf
+"7881","99768",Harztor
+"19805","55595",Hargesheim
+"7280","55262",Heidesheim am Rhein
+"6701","29553",Bienenb�ttel
+"1101","86514",Ustersbach
+"5123","82234",We�ling
+"6011","79669",Zell im Wiesental
+"9755","65329",Hohenstein
+"21248","37339",Worbis
+"1945","24247",Mielkendorf
+"13315","65451",Kelsterbach
+"19569","51515",K�rten
+"16363","86399",Bobingen
+"2957","09247",R�hrsdorf
+"2064","95197",Schauenstein
+"644","86703",R�gling
+"6795","93336",Altmannstein
+"2355","95517",Emtmannsberg
+"857","89294",Oberroth
+"52269","67433",Neustadt an der Weinstra�e
+"8072","06347",Gerbstedt
+"5632","72221",Haiterbach
+"1410","94553",Mariaposching
+"1350","84091",Attenhofen
+"20765","75031",Eppingen
+"5767","77876",Kappelrodeck
+"7510","31592",Stolzenau
+"3724","24395",Gelting
+"1214","79294",S�lden
+"5070","19412",Br�el
+"5063","97723",Oberthulba
+"1044","31702",L�dersfeld
+"4591","91443",Scheinfeld
+"6663","91166",Georgensgm�nd
+"9247","78120",Furtwangen im Schwarzwald
+"1149","92445",Neukirchen-Balbini
+"6457","92655",Grafenw�hr
+"4905","35756",Mittenaar
+"923","29361",H�fer
+"3660","78253",Eigeltingen
+"2465","96152",Burghaslach
+"1290","86987",Schwabsoien
+"2406","24819",Todenb�ttel
+"756","88374",Ho�kirch
+"11700","94051",Hauzenberg
+"12966","88630",Pfullendorf
+"5375","39356","Weferlingen, Behnsdorf, Belsdorf u.a."
+"1584","86685",Huisheim
+"25265","85521",Ottobrunn/Riemerling
+"1691","54619",�ttfeld
+"8833","93152",Nittendorf
+"9572","73235",Weilheim an der Teck
+"1289","97244",B�tthard
+"7063","27804",Berne
+"2925","27337",Blender
+"3145","91245",Simmelsdorf
+"8971","18299","Laage, Wardow u.a."
+"6817","08228",Rodewisch
+"11836","34233","Kassel, Fuldatal"
+"2245","89429",Bachhagel
+"12095","79194","Gundelfingen, Heuweiler"
+"12515","35410",Hungen
+"10592","48720",Rosendahl
+"3729","89290",Buch
+"55073","50354",H�rth
+"844","56828",Alflen
+"2728","94551",Lalling
+"2207","97277",Neubrunn
+"8519","96103",Hallstadt
+"4639","97342",Obernbreit
+"3075","09629",Reinsberg
+"2566","54344",Kenn
+"5013","29456",Hitzacker (Elbe)
+"229214","06108",Halle/ Saale
+"5409","56377",Nassau
+"4387","91088",Bubenreuth
+"827","66507",Reifenberg
+"2302","79282",Ballrechten-Dottingen
+"7538","18184","Roggentin, Broderstorf u.a."
+"8712","47665",Sonsbeck
+"7848","77749",Hohberg
+"3860","02794","Leutersdorf, Spitzkunnersdorf"
+"1578","91737",Ornbau
+"5581","78194",Immendingen
+"12323","91413",Neustadt a.d.Aisch
+"1118","96277",Schneckenlohe
+"5268","84155",Bodenkirchen
+"2220","91244",Reichenschwand
+"5460","72296",Schopfloch
+"14315","87629",F�ssen
+"24647","39638",Gardelegen
+"1016","38379",Wolsdorf
+"190795","34117",Kassel
+"14805","84030","Ergolding, Landshut"
+"5145","72414",Rangendingen
+"20926","36433",Bad Salzungen
+"7716","97447",Gerolzhofen
+"9623","83661",Lenggries
+"1345","86944",Unterdie�en
+"1146","67729",Sippersfeld
+"9845","52399",Merzenich
+"44415","72458",Albstadt
+"8073","08309",Eibenstock
+"12374","88416",Ochsenhausen
+"11436","26670",Uplengen
+"5176","91224",Pommelsbrunn
+"96380","67655",Kaiserslautern
+"8172","54550",Daun
+"1186","22959",Linau
+"11320","74731",Walld�rn
+"4763","73494",Rosenberg
+"1789","67317",Altleiningen
+"2294","83367",Petting
+"26333","64711",Erbach
+"8397","06542",Allstedt
+"1439","87760",Lachen
+"6946","95652",Waldsassen
+"8677","49536",Lienen
+"5469","89558",B�hmenkirch
+"7556","04643",Geithain
+"5206","25832",T�nning
+"6897","91171",Greding
+"8057","94234",Viechtach
+"31866","52428",J�lich
+"2878","85664",Hohenlinden
+"225421","18055",Rostock
+"8204","93173",Wenzenbach
+"3334","63549",Ronneburg
+"35644","32457",Porta Westfalica
+"777","31717",Nordsehl
+"1176","31708",Ahnsen
+"11004","49205",Hasbergen
+"2981","74547",Unterm�nkheim
+"5228","72829",Engstingen
+"3478","19065",Pinnow
+"6346","27324","Eystrup, Hassel u.a."
+"3350","24988",Oeversee
+"23702","29664","Walsrode, Ostenholz"
+"1144","56823",B�chel
+"8728","36367",Wartenberg
+"3037","74424",B�hlertann
+"5896","15299",M�llrose
+"2809","24623",Gro�enaspe
+"2306","78141",Sch�nwald im Schwarzwald
+"7621","88085",Langenargen
+"1753","92281",K�nigstein
+"5725","08491","Netzschkau, Limbach"
+"2359","57586",Weitefeld
+"2471","54310",Ralingen
+"5143","23974","Neuburg-Steinhausen, Hornstorf"
+"7485","39444",Hecklingen
+"2164","66509",Rieschweiler-M�hlbach
+"4421","74232",Abstatt
+"12741","38268",Lengede
+"9325","64732",Bad K�nig
+"7428","66909",Herschweiler-Pettersheim
+"18434","23879",M�lln
+"1574","24809",N�bbel
+"1671","86574",Petersdorf
+"9085","23774",Heiligenhafen
+"15552","71691",Freiberg am Neckar
+"6144","54411","Deuselbach, Hermeskeil, Rorodt"
+"8277","66629",Freisen
+"12119","33181",W�nnenberg
+"2620","15755",Teupitz
+"4274","53506","Ahrbr�ck, Heckenbach, H�nningen, Kesseling, Rech"
+"2207","85667",Oberpframmern
+"2144","67734",Katzweiler
+"2239","54347",Neumagen-Dhron
+"743","21646",Halvesbostel
+"2214","97650",Fladungen
+"975","93343",Essing
+"1261","83137",Schonstett
+"19700","73054",Eislingen/Fils
+"4036","55425",Waldalgesheim
+"972","79599",Wittlingen
+"22061","97980",Bad Mergentheim
+"6984","35096",Weimar (Lahn)
+"10848","76863",Herxheim
+"13922","87509",Immenstadt im Allg�u
+"1888","95692",Konnersreuth
+"11843","22885",Barsb�ttel
+"6369","84066",Mallersdorf-Pfaffenberg
+"9258","14959",Trebbin
+"32479","15890",Eisenh�ttenstadt
+"7024","99195","Gro�rudestedt, Schlo�vippach u.a."
+"10356","04603","Nobitz, G�hren, Windischleuba"
+"8463","89335",Ichenhausen
+"869","97788",Neuendorf
+"19648","28790",Schwanewede
+"4507","78576",Emmingen-Liptingen
+"17817","79189",Bad Krozingen
+"9666","32832",Augustdorf
+"4850","97297",Waldb�ttelbrunn
+"8013","71546",Aspach
+"15506","26826",Weener
+"36541","40723",Hilden
+"4200","78351",Bodman-Ludwigshafen
+"4092","55237",Flonheim
+"41947","01796","Pirna, Struppen, Dohma"
+"28916","04720","D�beln, Gro�weitzschen u.a."
+"3026","85132",Schernfeld
+"12804","38162",Cremlingen
+"418","67754",E�weiler
+"9784","90574",Ro�tal
+"9487","68794",Oberhausen-Rheinhausen
+"2440","67295",Bolanden
+"1365","74862",Binau
+"1180","86483",Balzhausen
+"2551","09487",Schlettau
+"116833","89073",Ulm
+"12518","76684",�stringen
+"13067","91161",Hilpoltstein
+"4393","25842","Langenhorn, Ockholm u.a."
+"17256","52372",Kreuzau
+"4948","96199",Zapfendorf
+"36404","70771",Leinfelden-Echterdingen
+"3884","27333","Schweringen, Warpe, B�cken"
+"8898","04703",Leisnig
+"1562","29575",Altenmedingen
+"2835","25492",Heist
+"2435","73667",Kaisersbach
+"4575","73560",B�bingen an der Rems
+"3253","89359",K�tz
+"3641","79359",Riegel Kaiserstuhl
+"1683","88147",Achberg
+"4020","65623",Hahnst�tten u.a.
+"5687","39345","Haldensleben, Flechtingen, B�lstringen u.a."
+"1686","97957",Wittighausen
+"5473","95183",Feilitzsch
+"11404","86971",Peiting
+"830","67147",Forst an der Weinstra�e
+"11707","01936",K�nigsbr�ck u.a.
+"5490","87490",Haldenwang
+"2362","91599",Dentlein a. Forst
+"12774","93326",Abensberg
+"10580","65830",Kriftel
+"4069","02782",Seifhennersdorf
+"13120","89264",Wei�enhorn
+"4482","66994",Dahn
+"5620","66901",Sch�nenberg-K�belberg
+"9068","03205","Calau, Bronkow"
+"1660","94348",Atting
+"1721","83487",Marktschellenberg
+"4938","98547",Viernau u.a.
+"2377","74542",Braunsbach
+"112","25863",Langene�
+"4071","74257",Untereisesheim
+"4933","04519",Rackwitz
+"17879","99880",Waltershausen
+"12269","31171",Nordstemmen
+"2440","84109",W�rth a.d. Isar
+"32223","99310",Arnstadt
+"7657","18258",Schwaan u.a.
+"61779","41515",Grevenbroich
+"1695","25578","D�geling, Neuenbrook"
+"2595","25486",Alveslohe
+"8175","29320",Hermannsburg
+"2443","86753",M�ttingen
+"59354","83022",Rosenheim
+"3115","83362",Surberg
+"1837","87679",Westendorf
+"1539","86502",Laugna
+"2238","77793",Gutach (Schwarzwaldbahn)
+"4320","16559",Liebenwalde
+"5340","68804",Altlu�heim
+"1945","95355",Presseck
+"1405","97516",Oberschwarzach
+"27947","41844",Wegberg
+"304912","48143",M�nster
+"1025","89608",Griesingen
+"20253","86551",Aichach
+"3540","88524",Uttenweiler
+"3827","88697",Bermatingen
+"2646","88450",Berkheim
+"9660","94327",Bogen
+"14409","15378",R�dersdorf
+"1046","72358",Dormettingen
+"2952","34327",K�rle
+"13993","86825",Bad W�rishofen
+"2128","21442",Toppenstedt
+"25144","26506",Norden
+"3955","74239",Hardthausen am Kocher
+"17148","72189",V�hringen
+"2086","72226",Simmersfeld
+"3272","56330",Kobern-Gondorf
+"1390","25725","Schafstedt, Weidenhof, Bornholt"
+"1330","31621",Pennigsehl
+"5491","76707",Hambr�cken
+"2784","83125",Eggst�tt
+"20259","37603",Holzminden
+"10546","89415",Lauingen (Donau)
+"27","64757",Unter-Hainbrunn
+"895","86940",Schwifting
+"6738","35091",C�lbe
+"5101","78479",Reichenau
+"1844","87677",St�ttwang
+"2909","75397",Simmozheim
+"4172","25774",Lunden
+"3500","77781",Biberach
+"5017","72505",Krauchenwies
+"1385","29465",Schnega
+"2595","83131",Nu�dorf a. Inn
+"2892","09638",Lichtenberg/Erzgeb.
+"3382","38319",Remlingen
+"1153","73345",Hohenstadt/Drackenstein
+"9711","65594",Runkel
+"12822","97941",Tauberbischofsheim
+"5295","76767",Hagenbach
+"1684","92551",Stulln
+"12982","09618","Brand-Erbisdorf, Gro�hartmannsdorf"
+"2033","67724","Gundersweiler, Gonbach u.a."
+"4853","91790",Nennslingen
+"1251","23747",Dahme
+"17735","91781",Wei�enburg i. Bay.
+"21259","09350",Lichtenstein
+"5435","38539",M�den (Aller)
+"4478","07985",Elsterberg
+"1124","91610",Insingen
+"4304","55774",Baumholder
+"19940","65439",Fl�rsheim am Main
+"1397","95701",Pechbrunn
+"1928","24351",Damp
+"2788","97294",Unterpleichfeld
+"936","67585",Dorn-D�rkheim
+"2781","78262",Gailingen am Hochrhein
+"7009","71554",Weissach im Tal
+"7027","49419",Wagenfeld
+"5164","64395",Brensbach
+"4257","37281",Wanfried
+"1452","95509",Marktschorgast
+"9979","87452",Altusried
+"21561","99610",S�mmerda
+"236435","52062",Aachen
+"8786","61197",Florstadt
+"16523","84174",Eching
+"1856","95369",Untersteinach
+"11058","36124",Eichenzell
+"3928","18551",Sagard
+"3560","63877",Sailauf
+"5515","16359",Biesenthal
+"4547","23911",Ziethen
+"8616","09569",Oederan
+"7916","72280",Dornstetten
+"22160","79761",Waldshut-Tiengen
+"2464","24860",B�klund u.a.
+"5551","72144",Du�lingen
+"11633","61137",Sch�neck
+"3445","73266",Bissingen an der Teck
+"11809","04683",Naunhof
+"9825","16244",Schorfheide
+"913","24625",Gro�harrie
+"63570","57290",Neunkirchen
+"14512","34560",Fritzlar
+"16221","66687",Wadern
+"37147","98527",Suhl
+"5338","04463",Gro�p�sna
+"1318","86748",Marktoffingen
+"8122","97320",Albertshofen
+"5876","31195",Lamspringe
+"1672","29353",Ahnsbeck
+"1463","65629",Niederneisen
+"7486","72290",Lo�burg
+"1007","93492",Treffelstein
+"900","38378",Warberg
+"19417","88339",Bad Waldsee
+"22","64754",Badisch Sch�llenbach
+"6467","84149",Velden
+"1014","94536",Eppenschlag
+"827","67311",Tiefenthal
+"6309","38550",Isenb�ttel
+"12718","17166","Dahmen, Gro� Wokern, Teterow"
+"26457","24943","Flensburg, Tastrup"
+"2924","97725",Elfershausen
+"10089","72469",Me�stetten
+"3756","86938",Schondorf a. Ammersee
+"3658","83684",Tegernsee
+"1051","86704",Tagmersheim
+"4281","18461","Franzburg, Richtenberg, u.a."
+"9040","64850",Schaafheim
+"23680","14974",Ludwigsfelde
+"100088","03042",Cottbus
+"1714","84101",Obers��bach
+"38734","73230",Kirchheim unter Teck
+"7575","36266",Heringen
+"3041","82496",Oberau
+"7651","14979",Gro�beeren
+"19054","08107",Kirchberg
+"8476","68549",Ilvesheim
+"3422","78662",B�singen
+"26108","79312",Emmendingen
+"2465","54341",Fell
+"1061","24244",Felm
+"4284","79733",G�rwihl
+"1245","37216","Witzenhausen, Gutsbezirk"
+"5991","99842",Ruhla
+"13706","35216",Biedenkopf
+"2627","83128",Halfing
+"6555","89340",Leipheim
+"31552","94469",Deggendorf
+"10180","67459",B�hl-Iggelheim
+"9209","85399",Hallbergmoos
+"7787","54298","Welschbillig, Igel, Aach"
+"646","88377",Riedhausen
+"13125","63526",Erlensee
+"1496","54484",Maring-Noviand
+"5122","17449",Karlshagen
+"3389","74252",Massenbachhausen
+"2074","21785",Neuhaus (Oste)
+"1527","93479",Grafenwiesen
+"10837","94209",Regen
+"6675","83727",Schliersee
+"7586","63840",Hausen
+"10058","61449",Steinbach (Taunus)
+"4156","17398",Ducherow
+"14504","65479",Raunheim
+"22281","01454","Radeberg, Wachau"
+"6883","48624",Sch�ppingen
+"1006001","50667",K�ln
+"2175","85658",Egmating
+"5110","02929",Rothenburg/O.L.
+"3467","84180",Loiching
+"5298","31089",Duingen
+"19770","53819",Neunkirchen-Seelscheid
+"4157","85464",Finsing
+"1220","83129",H�slwang
+"9748","92245",K�mmersbruck
+"3432","14798",Havelsee
+"13155","32839",Steinheim
+"37735","65719",Hofheim am Taunus
+"8290","57555",Mudersbach
+"7269","85088",Vohburg a.d. Donau
+"10018","38176",Wendeburg
+"19154","06268","Querfurt, Obhausen, M�cheln u.a."
+"3556","53560","Vettelschlo�, Kretzhaus (Linz am Rhein)"
+"1423","25373",Ellerhoop
+"18776","53783",Eitorf
+"11475","65375",Oestrich-Winkel
+"18705","83278",Traunstein
+"836","67680",Neuhemsbach
+"1640","74639",Zweiflingen
+"4957","66484",Battweiler u.a.
+"11104","77790",Steinach
+"1998","93471",Arnbruck
+"1334","94568",Sankt Oswald
+"4747","24975",Husby
+"41022","39576",Stendal
+"14034","19348","Perleberg, Berge u.a."
+"6724","08115",Lichtentanne
+"6829","49838",Lengerich u.a.
+"57264","77652",Offenburg
+"10454","53809",Ruppichteroth
+"7728","88433",Schemmerhofen
+"1483","23717",Kasseedorf
+"159015","51371",Leverkusen
+"7733","89423",Gundelfingen a.d. Donau
+"2433","67596",Dittelsheim-He�loch
+"8746","92339",Beilngries
+"1186","84550",Feichten a.d. Alz
+"1143","91596",Burk
+"1937","25587",M�nsterdorf
+"3742","86853",Langerringen
+"2944","56316",Raubach
+"1520","86978",Hohenfurch
+"23200","39288",Burg
+"38969","41836",H�ckelhoven
+"774","23818",Neueng�rs
+"6701","56761",D�ngenheim
+"10834","53547","Breitscheid, Dattenberg, Hausen, H�mmerich, Kasbach-Ohlenberg, Ro�bach u.a."
+"488294","47051",Duisburg
+"28591","59846",Sundern
+"15700","08606",Oelsnitz
+"55504","17489",Greifswald
+"11421","21706",Drochtersen
+"1817","72359",Dotternhausen
+"4444","90607",R�ckersdorf
+"5029","92442",Wackersdorf
+"26485","46499",Hamminkeln
+"1340","86756",Reimlingen
+"1686","88149",Nonnenhorn
+"32230","37574","Einbeck, Kreiensen"
+"3380","74544",Michelbach an der Bilz
+"5359","91278",Pottenstein
+"7908","73450",Neresheim
+"27670","65779",Kelkheim
+"35107","26871",Papenburg
+"10631","54597",Pronsfeld
+"806","89189",Neenstetten
+"2400","86860",Jengen
+"4531","96179",Rattelsdorf
+"5107","35287",Am�neburg
+"852","37649",Heinsen
+"3970","06722","Droy�ig, Wetterzeube"
+"15215","48317",Drensteinfurt
+"10390","01855",Sebnitz
+"1636","67319",Wattenheim
+"10224","27374",Visselh�vede
+"43357","16515","Oranienburg, M�hlenbecker Land"
+"4900","74670",Forchtenberg
+"6381","75433",Maulbronn
+"14886","73061",Ebersbach an der Fils
+"9157","54439",Saarburg
+"1616","85113",B�hmfeld
+"1192","21261",Welle
+"2608","25596",Wacken
+"46272","53332",Bornheim
+"22163","82319",Starnberg
+"38886","30880",Laatzen
+"1141","38559","Wagenhoff, Ringelah"
+"3972","16307",Gartz (Oder)
+"12677","93333",Neustadt a.d. Donau
+"11671","35428",Langg�ns
+"30902","31582",Nienburg/Weser
+"1201","25881","Tating, Westerhever, T�mlauer Koog"
+"1032","95365",Rugendorf
+"7240","79774",Albbruck
+"18845","29640","Schneverdingen, Heimbuch"
+"3329","08262",Muldenhammer
+"1326","23860",Klein Wesenberg
+"3757","74594",Kre�berg
+"5425","91183",Abenberg
+"12729","34466",Wolfhagen
+"2812","85126",M�nchsm�nster
+"17389","35415",Pohlheim
+"9952","56288",Kastellaun
+"21116","72202",Nagold
+"2657","74254",Offenau
+"23623","08371",Glauchau
+"6534","84556",Kastl
+"1405","95694",Mehlmeisel
+"5566","98631",Grabfeld
+"3933","34323",Malsfeld
+"6560","75245",Neulingen
+"4110","18516",Rakow
+"2036","47627",Kevelaer-Kervenheim
+"3646","25563",Wrist
+"8314","49632",Essen (Oldenburg)
+"2176","86865",Markt Wald
+"3136","94550",K�nzing
+"9090","79346",Endingen am Kaiserstuhl
+"23958","55218",Ingelheim am Rhein
+"24701","09456","Annaberg-Buchholz, Mildenau"
+"1293","23829",Wittenborn
+"14425","63579",Freigericht
+"1661","77796",M�hlenbach
+"4912","85405",Nandlstadt
+"2831","26487","Blomberg, Neuschoo"
+"1800","66500",Hornbach
+"7665","66879",Steinwenden u.a.
+"9867","72636",Frickenhausen
+"9495","49179",Ostercappeln
+"8","27499",Neuwerk
+"41765","52222",Stolberg (Rhld.)
+"57343","50321",Br�hl
+"10227","27308",Kirchlinteln
+"2559","74927",Eschelbronn
+"4002","63916",Amorbach
+"4915","17168","J�rdenstorf, Prebberede u.a."
+"5985","26349",Jade
+"4243","99994",Schlotheim
+"6095","04571",R�tha
+"3854","83539",Pfaffing
+"892","82297",Steindorf
+"42719","99734",Nordhausen
+"10250","19386","L�bz, Passow"
+"1334","78266",B�singen am Hochrhein
+"2932","79692",Kleines Wiesental
+"6316","75446",Wiernsheim
+"11717","35232",Dautphetal
+"9830","64569",Nauheim
+"3674","85134",Stammham
+"50015","51643",Gummersbach
+"54523","58706",Menden
+"1321","90619",Trautskirchen
+"35880","48653",Coesfeld
+"5721","79235",Vogtsburg im Kaiserstuhl
+"8102","29451",Dannenberg
+"3581","78083",Dauchingen
+"2620","73111",Lauterstein
+"3172","83250",Marquartstein
+"2459","99831",Creuzburg
+"4239","74582",Gerabronn
+"6985","99628","Buttst�dt, Gro�brembach, Kleinbrembach"
+"6999","67133",Maxdorf
+"12719","35781",Weilburg
+"15346","48465","Engden, Isterberg, Sch�ttorf u.a."
+"9064","99334","Elleben, Wachsenburg"
+"9945","64739",H�chst i. Odw.
+"1014","86679",Ellgau
+"935","67727",Lohnsfeld
+"948","97494",Bundorf
+"1485","21787",Oberndorf
+"73994","22844",Norderstedt
+"3088","94269",Rinchnach
+"27528","75015",Bretten
+"2065","89616",Rottenacker
+"6860","31867","Pohle, Lauenau, Messenkamp, H�lsede etc"
+"66358","73430",Aalen
+"1749","67368",Westheim (Pfalz)
+"9118","36391",Sinntal
+"17291","07381",P��neck
+"39804","32584",L�hne
+"5927","74834",Elztal
+"5326","16247",Joachimsthal u.a.
+"7262","96106",Ebern
+"6081","76467",Bietigheim
+"10534","26842",Ostrhauderfehn
+"6789","93161",Sinzing
+"5590","72411",Bodelshausen
+"1255","78600",Kolbingen
+"9604","71101",Sch�naich
+"1741","73104",B�rtlingen
+"50757","30851",Langenhagen
+"3038","94569",Stephansposching
+"11454","59909",Bestwig
+"11055","27243","Harpstedt, Gro� Ippener, Colnrade u.a."
+"3120","79809",Weilheim
+"19639","88471",Laupheim
+"13446","63628",Bad Soden-Salm�nster
+"3079","21737",Wischhafen
+"23555","34497",Korbach
+"2314","87662",Kaltental
+"4836","74858",Aglasterhausen
+"8611","04910",Elsterwerda
+"3390","84431",Heldenstein
+"2307","91484",Sugenheim
+"12523","66894",Bechhofen
+"20052","63674",Altenstadt
+"2758","94363",Oberschneiding
+"84867","45768",Marl
+"70651","96047",Bamberg
+"4304","95460",Bad Berneck im Fichtelgebirge
+"41462","41334",Nettetal
+"13749","79639",Grenzach-Wyhlen
+"3069","82407",Wielenbach
+"1645","86923",Finning
+"5259","17379",Ferdinandshof u.a.
+"2445","08324",Bockau
+"6810","56237",Nauort
+"3541","97359",Schwarzach a. Main
+"2255","15746",Gro� K�ris
+"1627","26845",Nortmoor
+"1446","83553",Frauenneuharting
+"3505","67744","Medard, Rathskirchen u.a."
+"2179","78267",Aach
+"960","82436",Eglfing
+"4206","56368",Katzenelnbogen
+"12708","82166",Gr�felfing
+"29646","53797",Lohmar
+"1746","31623",Drakenburg
+"5295","74372",Sersheim
+"7345","85250",Altom�nster
+"3950","86660",Tapfheim
+"926","78591",Durchhausen
+"4199","83533",Edling
+"39558","21614",Buxtehude
+"1885","55618",Simmertal
+"8572","25938",F�hr
+"47588","79539",L�rrach
+"1069","82404",Sindelsdorf
+"18321","67098",Bad D�rkheim
+"30532","33129",Delbr�ck
+"6481","66869",Kusel
+"5834","25479",Ellerau
+"914","25370",Seester
+"2300","96274",Itzgrund
+"15478","53919",Weilerswist
+"10787","86405",Meitingen
+"21","25867",Oland
+"1710","87779",Trunkelsberg
+"1850","38470",Parsau
+"7228","19294",Neu Kali�
+"8577","01773",Altenberg
+"1360","89293",Kellm�nz a.d. Iller
+"4537","35796",Weinbach
+"1472","83379",Wonneberg
+"20259","66763",Dillingen/Saar
+"8086","72127",Kusterdingen
+"8255","35080",Bad Endbach
+"7729","49696",Molbergen
+"1647","49849",Wilsum
+"4281","99707",Kyffh�userland
+"10179","56743",Mendig
+"9390","23812",Wahlstedt
+"12585","91757",Treuchtlingen
+"3509","78337",�hningen
+"1935","77787",Nordrach
+"3785","67678",Mehlingen
+"12210","66693",Mettlach
+"1554","54450",Freudenburg
+"1323","91801",Markt Berolzheim
+"9427","48351",Everswinkel
+"912","86943",Thaining
+"14832","37170",Uslar
+"38818","66333",V�lklingen
+"837","91728",Gnotzheim
+"8965","52391",Vettwei�
+"2274","67281",Kirchheim an der Weinstra�e
+"1191","82444",Schlehdorf
+"8892","95233",Helmbrechts
+"5191","74366",Kirchheim am Neckar
+"88707","52349",D�ren
+"4499","96149",Breiteng��bach
+"875","55756",Herrstein
+"15737","64342",Seeheim-Jugenheim
+"1634","38468",Ehra-Lessien
+"1847","84576",Teising
+"7954","97464",Niederwerrn
+"4137","96126",Maroldsweisach
+"10377","66299",Friedrichsthal
+"2335","79427",Eschbach
+"4763","09328",Lunzenau
+"1066","55497","Ellern (Hunsr�ck), Schnorbach"
+"9255","49424",Goldenstedt
+"5253","82067",Sch�ftlarn
+"1769","86928",Hofstetten
+"8653","17094",C�lpin
+"28985","45731",Waltrop
+"4155","35239",Steffenberg
+"36710","74523",Schw�bisch Hall
+"7284","63538",Gro�krotzenburg
+"9880","24217",Sch�nberg (Holstein)
+"11279","97762",Hammelburg
+"9121","38315",Schladen-Werla
+"1490","82287",Jesenwang
+"2782","31628",Landesbergen
+"6384","56812",Cochem
+"5848","77756",Hausach
+"3027","74399",Walheim
+"2263","77776",Bad Rippoldsau-Schapbach
+"36653","66386",Sankt Ingbert
+"3902","74374",Zaberfeld
+"1946","83373",Taching a. See
+"3411","87484",Nesselwang
+"1490","82395",Obers�chering
+"1894","97523",Schwanfeld
+"938","55626",Bundenbach
+"4116","78355",Hohenfels
+"8017","39221","Welsleben, Biere, Eickendorf u.a."
+"5403","85452",Moosinning
+"5376","17419",Seebad Ahlbeck
+"4890","95339",Neuenmarkt
+"2343","79804",Dogern
+"3008","92729",Weiherhammer
+"8851","06184",Kabelsketal
+"35048","06406",Bernburg (Saale)
+"2271","95195",R�slau
+"4295","18556",Dranske
+"3869","86672",Thierhaupten
+"30869","88400",Biberach an der Ri�
+"11283","49744",Geeste
+"4936","85395",Attenkirchen
+"36581","53859",Niederkassel
+"3504","21755",Hechthausen
+"7146","02894","Reichenbach, Vierkirchen"
+"6983","35236",Breidenbach
+"13101","26683",Saterland
+"1362","87767",Niederrieden
+"10628","26892","D�rpen, Lehe, u.a."
+"23205","49134",Wallenhorst
+"3016","06809","Roitzsch, Petersroda"
+"34263","71522",Backnang
+"5064","67251",Freinsheim
+"17740","66571",Eppelborn
+"2057","91365",Weilersbach
+"1588","89350",D�rrlauingen
+"640","24404","Maasholm, Schleim�nde"
+"1469","86489",Deisenhausen
+"4073","14662",Friesack
+"8375","18442",Niepars
+"10791","36119",Neuhof
+"3297","73565",Spraitbach
+"3993","75394",Oberreichenbach
+"30831","07318",Saalfeld/Saale
+"12518","39240","Calbe, Rosenburg u.a."
+"8165","31073","Gr�nenplan, Delligsen"
+"1366","38479",Tappenbeck
+"2065","84169",Altfraunhofen
+"15962","27612",Loxstedt
+"11146","15518","Briesen, Rauen u.a."
+"7592","01471",Radeburg
+"1536","24259",Westensee
+"4509","88097",Eriskirch
+"3586","91456",Diespeck
+"1263","95191",Leupoldsgr�n
+"780","25721",Eggstedt
+"18099","28865",Lilienthal
+"22244","07973",Greiz
+"619","24646",Warder
+"3115","88285",Bodnegg
+"6568","98596",Brotterode-Trusetal
+"1650","87651",Bidingen
+"94732","58636",Iserlohn
+"16013","38159",Vechelde
+"1550","72582",Grabenstetten
+"2064","24242",Felde
+"51567","38640",Goslar
+"13836","29303","Bergen, Lohheide u.a."
+"1495","82497",Unterammergau
+"4276","92253",Schnaittenbach
+"40343","02625",Bautzen
+"124371","97070",W�rzburg
+"4390","09514",Pockau-Lengefeld (Lengefeld)
+"1736","25377","Kollmar, Pagensand"
+"5148","96342",Stockheim
+"26376","52499",Baesweiler
+"6780","01594","Riesa, Stauchitz, Hirschstein"
+"5502","83342",Tacherting
+"26546","57368",Lennestadt
+"4152","72147",Nehren
+"4516","29348",Eschede
+"11148","98544",Zella-Mehlis
+"7686","37441",Bad Sachsa
+"1929","56346",Sankt Goarshausen u.a.
+"1104","85116",Egweil
+"998","89441",Medlingen
+"5497","85253",Erdweg
+"9780","48488",Emsb�ren
+"4831","08118",Hartenstein
+"18407","58791",Werdohl
+"10510","08239",Bergen
+"10710","24976",Handewitt
+"60455","46483",Wesel
+"93243","08056",Zwickau
+"14839","29633",Munster
+"5434","86655",Harburg
+"17619","53913",Swisttal
+"3228","37290",Mei�ner
+"9404","31683",Obernkirchen
+"18642","70839",Gerlingen
+"423","38382",Beierstedt
+"2946","98669",Veilsdorf
+"72361","53840",Troisdorf
+"6559","14947",Nuthe-Urstromtal
+"10027","34270",Schauenburg
+"2398","36414",Unterbreizbach
+"9274","61273",Wehrheim
+"5015","02957","Krauschwitz, Wei�kei�el"
+"2427","56656",Brohl-L�tzing
+"18045","85757",Karlsfeld
+"15189","72488",Sigmaringen
+"9184","06571","Ro�leben-Wiehe, Gehofen"
+"9130","27313",D�rverden
+"1649","24996",Sterup
+"1318","93359",Wildenberg
+"4485","86456",Gablingen
+"13587","54636",Rittersdorf u.a.
+"2605","83122",Samerberg
+"30941","45739",Oer-Erkenschwick
+"18891","82024",Taufkirchen
+"3404","18347",Dierhagen
+"4238","67256",Weisenheim am Sand
+"13987","90542",Eckental
+"2783","35768",Siegbach
+"13696","26197",Gro�enkneten
+"9816","21357","Bardowick, Wittorf, Barum"
+"3557","89428",Syrgenstein
+"86983","40878",Ratingen
+"6206","72654",Neckartenzlingen
+"1800","87758",Kronburg
+"11011","54497",Morbach
+"2886","96178",Pommersfelden
+"9496","35325",M�cke
+"7719","76456",Kuppenheim
+"4360","54668",Ferschweiler
+"21861","08468",Reichenbach/Vogtl.
+"19710","59320",Ennigerloh
+"3785","79410",Badenweiler
+"7174","68799",Reilingen
+"5144","37632","Holzen, Eschershausen, Eimen"
+"12213","37235",Hessisch Lichtenau
+"25413","25746",Heide u.a.
+"2534","91346",Wiesenttal
+"3128","37296",Ringgau
+"8267","83317",Teisendorf
+"46485","48249",D�lmen
+"10034","17153",Stavenhagen
+"3001","95179",Geroldsgr�n
+"1939","29393",Gro� Oesingen
+"2707","83564",Soyen
+"3969","06425","Alsleben/Saale, Pl�tzkau"
+"7647","66877",Ramstein-Miesenbach
+"3035","96181",Rauhenebrach
+"1680","97250",Erlabrunn
+"8269","53940",Hellenthal
+"5480","89567",Sontheim an der Brenz
+"19921","57319",Bad Berleburg
+"1228","21369",Nahrendorf
+"5996","09627",Bobritzsch
+"24667","17268","Templin, Boitzenburg u.a."
+"2711","93462",Lam
+"113174","63065",Offenbach am Main
+"1407","93188",Pielenhofen
+"30267","39218",Sch�nebeck
+"1765","91723",Dittenheim
+"2165","35119",Rosenthal
+"816","29587",Natendorf
+"3417","97956",Werbach
+"4834","36355",Grebenhain
+"6124","63911",Klingenberg a. Main
+"4460","23863",Bargfeld-Stegen
+"4403","94342",Stra�kirchen
+"27351","86899",Landsberg a. Lech
+"16936","48712",Gescher
+"2110","26849",Filsum
+"24508","57439",Attendorn
+"11577","94486",Osterhofen
+"6798","02994",Bernsdorf
+"5529","76709",Kronau
+"3606","03229","Altd�bern, Luckaitztal"
+"16077","78333",Stockach
+"6143","85640",Putzbrunn
+"115865","37073",G�ttingen
+"5377","04567",Kitzscher
+"7094","56337",Eitelborn
+"3326","21723",Hollern-Twielenfleth
+"6316","16306","Biesendahlshof, Berkholz-Meyenburg"
+"5091","09577",Niederwiesa
+"1692","94167",Tettenweis
+"2912","55768",Hoppst�dten-Weiersbach
+"10769","57520","Emmerzhausen, Niederdreisbach, Steinebach"
+"598","86491",Ebershausen
+"30661","99510",Apolda
+"2883","83549",Eiselfing
+"8133","36404","Vacha, Unterbreizbach"
+"554","24899",Wohlde
+"15970","33818",Leopoldsh�he
+"1907","83558",Maitenbeth
+"6277","61276",Weilrod
+"20881","63654",B�dingen
+"3466","67316",Carlsberg
+"1417","94166",Stubenberg
+"14422","54518","Niersbach, Sehlem, Plein u.a."
+"1279","24890",Stolk
+"3603","64753",Brombachtal
+"7653","84056",Rottenburg a.d. Laaber
+"5668","94330",Aiterhofen
+"2137","92260",Ammerthal
+"2831","91629",Weihenzell
+"60798","50126",Bergheim
+"5643","84326",Falkenberg
+"16876","63667",Nidda
+"5595","08321",Zschorlau
+"2064","07778",Neueng�nna u.a.
+"5810","78658",Zimmern ob Rottweil
+"2024","24620",B�neb�ttel
+"3027","94365",Parkstetten
+"1508","25599",Wewelsfleth
+"8701","36103",Flieden
+"25503","06295",Eisleben
+"4073","96145",Se�lach
+"2198","91735",Muhr a. See
+"20815","72555",Metzingen
+"4572","55271",Stadecken-Elsheim
+"49670","50226",Frechen
+"4038","96332",Pressig
+"2427","86508",Rehling
+"24238","52531",�bach-Palenberg
+"5972","91717",Wassertr�dingen
+"6198","25767",Albersdorf
+"6168","55576",Sprendlingen
+"38058","21465",Reinbek
+"748","87736",B�hen
+"7717","76694",Forst
+"21247","66440",Blieskastel
+"12482","41569",Rommerskirchen
+"228201","39104",Magdeburg
+"3334","15528",Spreenhagen
+"4164","04565",Regis-Breitingen
+"1110","91465",Ergersheim
+"997","91726",Gerolfingen
+"4910","85293",Reichertshausen
+"2644","71297",M�nsheim
+"4348","95349",Thurnau
+"39116","04509","Delitzsch, Krostitz u.a."
+"1021","38476",Barwedel
+"37233","52146",W�rselen
+"2721","94267",Prackenbach
+"86852","63450",Hanau
+"1574","86559",Adelzhausen
+"1654","31556",W�lpinghausen
+"2298","91722",Arberg
+"2860","83126",Flintsbach a. Inn
+"7428","18211","Retschow, Admannshagen-Bargeshagen u.a."
+"2857","97534",Waigolshausen
+"3153","06636",Laucha an der Unstrut
+"5917","92242",Hirschau
+"5426","92536",Pfreimd
+"4942","99998","K�rner, Weinbergen"
+"3680","66885",Altenglan
+"6023","65326",Aarbergen
+"28672","76571",Gaggenau
+"11471","78239",Rielasingen-Worblingen
+"5662","74915",Waibstadt
+"6225","85235",Odelzhausen
+"18103","89407",Dillingen a.d. Donau
+"10292","35713",Eschenburg
+"6205","31079",Sibbesse
+"10914","24955",Harrislee
+"5081","97355",Kleinlangheim
+"936","25776","Sankt Annen, Rehm-Flehde-Bargen"
+"14214","57334",Bad Laasphe
+"5869","71726",Benningen am Neckar
+"2539","56295",Lonnig
+"6145","56355",Nast�tten u.a.
+"1185","29588",Oetzen
+"2973","82549",K�nigsdorf
+"2494","57587",Birken-Honigsessen
+"3804","69239",Neckarsteinach
+"4914","25482",Appen
+"9920","24161",Altenholz
+"5537","24601",Wankendorf
+"11317","68526",Ladenburg
+"1181","84097",Herrngiersdorf
+"9827","49751",S�gel u.a.
+"15061","93128",Regenstauf
+"2800","66916",Breitenbach
+"8841","21745",Hemmoor
+"2932","88633",Heiligenberg
+"1080","21649",Regesbostel
+"11267","93426",Roding
+"1282","97247",Eisenheim
+"8171","33449",Langenberg
+"8556","06463",Falkenstein
+"2891","73568","Durlangen, Weggen-Ziegelh�tte, Leinh�usle"
+"5215","63846",Laufach
+"1951","93476",Blaibach
+"13047","97437",Ha�furt
+"12589","91077",Neunkirchen a. Brand
+"2356","31632",Husum
+"3437","85661",Forstinning
+"5814","16248",Oderberg u.a.
+"11229","83308",Trostberg
+"3850","96364",Marktrodach
+"2065","27251","Neuenkirchen, Scholen"
+"1389","87663",Lengenwang
+"4159","97488",Stadtlauringen
+"15602","76344",Eggenstein-Leopoldshafen
+"1232","25849","S�deroog, Pellworm"
+"1832","67305",Ramsen
+"11696","01896",Pulsnitz
+"2166","87672",Ro�haupten
+"316","54586",Sch�ller
+"2621","67577",Alsheim
+"1750","21647",Moisburg
+"23731","63179",Obertshausen
+"7780","26897",Esterwegen u.a.
+"10491","64760",Oberzent
+"1924","22967",Tremsb�ttel
+"4028","76846",Hauenstein
+"33638","29525",Uelzen
+"5737","98716",Geschwenda
+"1455","03197",J�nschwalde
+"12968","83471",Berchtesgaden & Sch�nau
+"24119","25813","Husum, Schwesing u.a."
+"2923","85305",Jetzendorf
+"4257","67705",Trippstadt u.a.
+"3085","87645",Schwangau
+"10248","32676",L�gde
+"20751","01640",Coswig
+"2665","07926",Gefell
+"1761","97786",Motten
+"3436","04928","Plessa, Schraden"
+"8576","64385",Reichelsheim (Odenwald)
+"1518","89611",Obermarchtal
+"4057","94535",Eging a. See
+"763","72365",Ratshausen
+"4878","96158",Frensdorf
+"37700","82110",Germering
+"3395","72149",Neustetten
+"11626","53567","Asbach, Buchholz"
+"5268","83623",Dietramszell
+"4489","17217",Penzlin
+"2460","86500",Kutzenhausen
+"6184","92507",Nabburg
+"63272","50169",Kerpen
+"1236","97503",G�dheim
+"3390","94545",Hohenau
+"2693","88456",Ingoldingen
+"15220","49152",Bad Essen
+"12633","68789",Sankt Leon-Rot
+"10779","67117",Limburgerhof
+"18970","89537",Giengen an der Brenz
+"2495","88319",Aitrach
+"2802","92693",Eslarn
+"18771","67105",Schifferstadt
+"16540","58553",Halver
+"3902","95512",Neudrossenfeld
+"4851","83236",�bersee
+"1359","97289",Th�ngen
+"19975","31311",Uetze
+"3526","77889",Seebach
+"4231","83352",Altenmarkt a.d. Alz
+"41471","74321",Bietigheim-Bissingen
+"9051","91560",Heilsbronn
+"1932","84168",Aham
+"851","25729",Windbergen
+"12716","82216",Maisach
+"2748","91795",Dollnstein
+"5733","99819","Marksuhl, Krauthausen u.a."
+"1287","87657",G�risried
+"11517","59505",Bad Sassendorf
+"3378","86485",Biberbach
+"18041","86609",Donauw�rth
+"3803","25785",Nordhastedt
+"6564","85114",Buxheim
+"1532","88489",Wain
+"11495","89143",Blaubeuren
+"1947","24241",Blumenthal
+"4726","55442",Stromberg
+"1598","24799","Meggerdorf, Friedrichsholm, Friedrichsgraben u.a."
+"25698","27404","Zeven, Elsdorf"
+"16394","64720",Michelstadt
+"4471","76470",�tigheim
+"7421","83483",Bischofswiesen
+"1448","82439",Gro�weil
+"19713","48477",H�rstel
+"20492","01561","Gro�enhain, Ebersbach u.a."
+"5380","37696",Marienm�nster
+"1496","23827",Wensin
+"21749","33142",B�ren
+"5258","63694",Limeshain
+"15736","33161",H�velhof
+"1339","24245",Kirchbarkau
+"470","38325",Roklum
+"2320","94169",Thurmansbang
+"23588","34414",Warburg
+"32455","76356",Weingarten
+"3148","01847",Lohmen
+"31365","22926",Ahrensburg
+"6493","99444",Blankenhain
+"2553","83556",Griesst�tt
+"5684","67294",Bischheim u.a.
+"15320","06188",Landsberg
+"10143","01833","Stolpen, D�rrr�hrsdorf-Dittersbach"
+"15948","33442",Herzebrock-Clarholz
+"10236","49176",Hilter
+"4844","88518",Herbertingen
+"2904","63697",Hirzenhain
+"2442","36289",Friedewald
+"3663","83627",Warngau
+"59455","30823",Garbsen
+"8028","34292",Ahnatal
+"1503","26906",Dersum
+"14011","48336",Sassenberg
+"2399","35288",Wohratal
+"7905","16831",Rheinsberg
+"7286","29693",Hodenhagen u.a.
+"1483","31555",Suthfeld
+"4992","97714",Oerlenbach
+"6348","18586",Sellin
+"1794","97783",Karsbach
+"9254","55268",Nieder-Olm
+"2262","18314",L�bnitz
+"10071","06242",Braunsbedra
+"2300","55491",B�chenbeuren
+"2102","23775",Gro�enbrode
+"794","67826",Hallgarten
+"1006","54486",M�lheim (Mosel)
+"8450","34439",Willebadessen
+"4506","88267",Vogt
+"24574","24340",Eckernf�rde
+"1334","72537",Mehrstetten
+"3145","24357",Fleckeby u.a.
+"41178","38518",Gifhorn
+"5681","23689",Pansdorf
+"70016","21335",L�neburg
+"2870","25715","Eddelak, Averlak, Dingen, Ramhusen"
+"6482","01814",Bad Schandau
+"12441","86381",Krumbach (Schwaben)
+"16525","03222",L�bbenau/ Spreewald
+"23927","34346","Hann. M�nden, Gutsbezirk Reinhardswald"
+"4582","64401",Gro�-Bieberau
+"6048","54675",K�rperich u.a.
+"3064","67134",Birkenheide
+"28494","23730",Neustadt
+"5150","23881","Breitenfelde, Lankau"
+"5033","18573",Samtens
+"1295","97901",Altenbuch
+"13189","04916",Herzberg/ Elster
+"9811","35108",Allendorf
+"242670","38100",Braunschweig
+"1957","94149",K��larn
+"8102","35633",Lahnau
+"46772","58239",Schwerte
+"4414","86558",Hohenwart
+"26405","53359",Rheinbach
+"1568","27249","Maasen, Mellinghausen"
+"178764","55116",Mainz
+"14560","66780",Rehlingen-Siersburg
+"2464","86926",Greifenberg
+"660","29597",Stoetze
+"14","25869","Habel, Gr�de"
+"858","86750",Megesheim
+"2359","55569",Monzingen
+"868","25573","Beidenfleth, Klein Kampen"
+"8139","63801",Kleinostheim
+"3269","94249",Bodenmais
+"74446","59755",Arnsberg
+"4903","63853",M�mlingen
+"4883","63849",Leidersbach
+"3942","03119",Welzow
+"7171","99735",Werther Hohenstein Wolkramshausen
+"8498","66849",Landstuhl
+"1757","93089",Aufhausen
+"4974","34519",Diemelsee
+"2053","84335",Mitterskirchen
+"4434","95679",Waldershof
+"52159","97421",Schweinfurt
+"3675","07929",Saalburg-Ebersdorf
+"1807","83562",Rechtmehring
+"1384","91632",Wieseth
+"14589","64807",Dieburg
+"1872","57647","Nistertal, Enspel"
+"6462","69245",Bammental
+"3849","91583",Schillingsf�rst
+"3700","86949",Windach
+"91344","19053",Schwerin
+"12409","14715","Milower Land, Schollene, Nennhausen u.a."
+"4068","71570",Oppenweiler
+"5028","37359",K�llstedt
+"31733","79618",Rheinfelden (Baden)
+"16692","65343",Eltville am Rhein
+"30365","27711",Osterholz-Scharmbeck
+"1441","89347",Bubesheim
+"8978","63533",Mainhausen
+"3320","95671",B�rnau
+"15492","89129",Langenau
+"4625","29556",Suderburg
+"13276","86415",Mering
+"7478","64390",Erzhausen
+"1738","86498",Kettershausen
+"5253","91177",Thalm�ssing
+"6326","98593",Floh-Seligenthal
+"2989","24253",Probsteierhagen
+"641","78592",Egesheim
+"70831","95444",Bayreuth
+"10442","59609",Anr�chte
+"26246","58840",Plettenberg
+"1914","97840","Hafenlohr, Rothenbuch"
+"818","86741",Ehingen a. Ries
+"9026","35083",Wetter
+"1822","93090",Bach an der Donau
+"2198","09241",M�hlau
+"1015","29599",Weste
+"3837","63863",Eschau
+"21929","49525",Lengerich
+"2440","56754",Binningen
+"2259","92711",Parkstein
+"3734","27336","Rethem (Aller), H�uslingen, Frankenfeld"
+"15296","97816",Lohr a. Main
+"200963","99084",Erfurt
+"2533","89179",Beimerstetten
+"2365","86975",Bernbeuren
+"19707","82178",Puchheim
+"4877","91580",Petersaurach
+"3761","31707","Hee�en, Bad Eilsen"
+"3095","97522",Sand a. Main
+"1214","23813",Nehms
+"1296","91287",Plech
+"6324","94431",Pilsting
+"8911","69234",Dielheim
+"4008","97234","Reichenberg, Guttenberger Wald"
+"5355","17335",Strasburg
+"1391","49459","Lembruch, Burlage"
+"6547","15838",Am Mellensee
+"5480","88639",Wald
+"2916","17406",Usedom u.a.
+"14427","86391",Stadtbergen
+"7814","04539",Groitzsch
+"60534","71063",Sindelfingen
+"2072","84177",Gottfrieding
+"738","55499",Riesweiler
+"3661","83677",Reichersbeuern
+"3920","09439",Amtsberg
+"7862","65321",Heidenrod
+"3741","18279","Lalendorf, Langhagen"
+"109545","72760",Reutlingen
+"6470","79793",Wut�schingen
+"1212","24884","Selk, Geltdorf, Hahnekrug"
+"4760","67722",Winnweiler
+"4992","38836",Badersleben u.a.
+"457","78580",B�renthal
+"5156","67697",Otterberg
+"1695","07958",Hohenleuben
+"86084","06842",Dessau-Ro�lau
+"5626","83098",Brannenburg
+"3195","78343",Gaienhofen
+"2025","17326",Br�ssow
+"54463","02826",G�rlitz
+"155374","42651",Solingen
+"126030","64658",F�rth
+"29539","28832",Achim
+"4254","92436",Bruck i.d. OPf.
+"7367","34590",Wabern
+"17263","15806",Zossen
+"222356","47798",Krefeld
+"2188","86875",Waal
+"1644","84437",Reichertsheim
+"2010","31712",Niederw�hren
+"5023","88447",Warthausen
+"8623","79232",March
+"9454","02694","Gro�dubrau, Malschwitz"
+"1204","67728",M�nchweiler an der Alsenz
+"3709","67273",Weisenheim am Berg
+"4577","97833",Frammersbach
+"13016","06772",Gr�fenhainichen
+"9316","66809",Nalbach
+"1349","96167",K�nigsfeld
+"11067","97199",Ochsenfurt
+"2747","56427",Siershahn
+"1887","72419",Neufra
+"9669","37619","Bodenwerder, Pegestorf, Kirchbrak, Hehlen"
+"4706","53518","Adenau, Kottenborn u.a."
+"4763","77966",Kappel-Grafenhausen
+"1706","87751",Heimertingen
+"667","88373",Fleischwangen
+"1343","89194",Schn�rpflingen
+"2492","91466",Gerhardshofen
+"8006","92431",Neunburg vorm Wald
+"2054","94547",Iggensbach
+"5851","26548",Norderney
+"7665","26935",Stadland
+"7687","24392",S�derbrarup
+"4082","78564","Wehingen, Reichenbach"
+"5968","91448",Emskirchen
+"632","94366",Perasdorf
+"11105","24782","B�delsdorf, Rickert"
+"651","38376",S�pplingenburg
+"5531","93170",Bernhardswald
+"1384","31714",Lauenhagen
+"7104","97456",Dittelbrunn
+"1161","97729",Ramsthal
+"512829","01067",Dresden
+"1571","29499",Zernien
+"5895","78126",K�nigsfeld im Schwarzwald
+"3125","74246",Eberstadt
+"22518","42477",Radevormwald
+"4525","99631",Wei�ensee
+"6749","99837",Berka/ Werra
+"9232","24589",Nortorf
+"22729","53347",Alfter
+"12466","88499",Riedlingen
+"1722","25927","Neukirchen, Aventoft"
+"1663","73488",Ellenberg
+"2657","64405",Fischbachtal
+"7462","71131",Jettingen
+"23627","64331",Weiterstadt
+"36190","59269",Beckum
+"16941","08280",Aue
+"5253","83416",Saaldorf
+"27565","92421",Schwandorf
+"6437","73779",Deizisau
+"22755","03172","Guben, Schenkend�bern"
+"2732","79285",Ebringen
+"3972","91352",Hallerndorf
+"26709","95326",Kulmbach
+"1529","97239",Aub
+"2212","56767",Uersfeld
+"24261","96515",Sonneberg
+"9981","78176",Blumberg
+"115989","45657",Recklinghausen
+"2363","78089",Unterkirnach
+"5626","26939",Ovelg�nne
+"14097","49681",Garrel
+"3024","78087",M�nchweiler
+"2364","73113",Ottenbach
+"15752","32369",Rahden
+"6516","96138",Burgebrach
+"1292","95494",Gesees
+"10372","77716","Fischerbach, Haslach, Hofstetten"
+"645","54611",Hallschlag
+"19224","87616",Marktoberdorf
+"701","24897",Ulsnis
+"9984","39365","Harbke, Sommersdorf, Wefensleben, Ummendorf, Eilsleben"
+"3893","85643",Steinh�ring
+"2956","85417",Marzling
+"4565","85101",Lenting
+"1014","97849",Roden
+"7873","39397","Schwanebeck, Gr�ningen, Kroppenstedt"
+"3014","67258",He�heim
+"17023","16928","Pritzwalk, Gro� Pankow"
+"4842","35647",Waldolms
+"5329","79268",B�tzingen
+"476","54585",Esch
+"2506","74925",Epfenbach
+"11832","94227",Zwiesel
+"4453","02739",Kottmar
+"1590","86934",Reichling
+"1970","63879","Weibersbrunn, Rohrbrunner Forst"
+"15400","39343","Erxleben, Nordgermersleben u.a."
+"71204","46395",Bocholt
+"5236","85241",Hebertshausen
+"3763","76833",Frankweiler
+"4910","67714",Waldfischbach-Burgalben
+"4107","02899","Ostritz, Sch�nau-Berzdorf"
+"24700","75417",M�hlacker
+"4840","94508",Sch�llnach
+"2454","79862",H�chenschwand
+"7742","17111",Demmin u.a.
+"1874","57578",Elkenroth
+"1936","88486",Kirchberg an der Iller
+"7288","24111",Kiel Russee
+"3287","83629",Weyarn
+"8256","08396",Waldenburg
+"3257","38465",Brome
+"1608","92715",P�chersreuth
+"7907","96328",K�ps
+"9144","02991",Lauta
+"28664","86316",Friedberg
+"1420","87775",Salgen
+"20769","59590",Geseke
+"5248","86444",Affing
+"4224","87549",Rettenberg
+"18098","34246",Vellmar
+"2228","73569","Eschach, Obergr�ningen"
+"4536","83135",Schechen
+"4871","63691",Ranstadt
+"5545","73329",Kuchen
+"7265","34295",Ederm�nde
+"661","25590",Osterstedt
+"7390","91564",Neuendettelsau
+"2806","08236",Ellefeld
+"2893","49846",Hoogstede
+"4185","72585",Riederich
+"7367","49843","Uelsen, Halle, G�lenkamp, Getelo"
+"4958","92526",Oberviechtach
+"33351","15366","Neuenhagen, Hoppegarten"
+"40048","53639",K�nigswinter
+"803","24254",Rumohr
+"34093","04600",Altenburg
+"14413","17098",Friedland
+"4992","92358",Seubersdorf i.d. OPf.
+"7265","34626",Neukirchen (Kn�ll)
+"4699","89171",Illerkirchberg
+"3674","71292",Friolzheim
+"2034","74928",H�ffenhardt
+"15608","59597",Erwitte
+"15999","66578",Schiffweiler
+"12796","25348",Gl�ckstadt
+"19096","85368",Moosburg a.d. Isar
+"3319","09236",Clau�nitz
+"9113","06420",K�nnern
+"1642","84564",Oberbergkirchen
+"8588","04895",Falkenberg/ Elster
+"3522","79365",Rheinhausen
+"2518","79424",Auggen
+"995","97791",Obersinn
+"19807","67454",Ha�loch
+"1214","21734",Oederquart
+"2376","85462",Eitting
+"2921","86510",Ried
+"7954","75239",Eisingen
+"2266","94556",Neusch�nau
+"1308","56818",Klotten
+"4770","63546",Hammersbach
+"6365","85098",Gro�mehring
+"2254","92723",T�nnesberg
+"5944","97631",Bad K�nigshofen i. Grabfeld
+"2798","63699",Kefenrod
+"2505","91282",Betzenstein
+"2208","63875",Mespelbrunn
+"2031","97237",Altertheim
+"6349","09235",Burkhardtsdorf
+"5014","18334",Bad S�lze
+"22479","14513",Teltow
+"5017","02733",Cunewalde
+"8969","74629",Pfedelbach
+"3068","54492","Zeltingen-Rachtig, Erden, L�snich u.a."
+"6345","59969","Bromskirchen, Hallenberg"
+"6322","63633",Birstein
+"3279","67363",Lustadt
+"8783","17213",Malchow u.a.
+"2374","97288",Theilheim
+"2027","74934",Reichartshausen
+"6526","47509",Rheurdt
+"568","79695",Wieden
+"3322","78736",Epfendorf
+"12311","27239",Twistringen
+"4549","08349",Johanngeorgenstadt
+"17178","55278",Mommenheim
+"4944","24784",Westerr�nfeld
+"915","24872",Gro� Rheide
+"4474","31698",Lindhorst
+"27566","37308",Heiligenstadt
+"4300","73110",Hattenhofen
+"1651","82293",Mittelstetten
+"4469","97273",K�rnach
+"29754","66663",Merzig
+"2699","86871",Rammingen
+"5537","18292","Krakow, Dobbin-Linstow u.a."
+"2227","56648",Saffig
+"8505","91080","Uttenreuth, Marloffstein"
+"10962","37431",Bad Lauterberg
+"6325","56269",Dierdorf
+"4071","97720",N�dlingen
+"19709","08209",Auerbach/Vogtl.
+"1475","93195",Wolfsegg
+"108777","51427",Bergisch Gladbach
+"5651","56291",Leiningen
+"3821","79736",Rickenbach
+"6932","21709",Himmelpforten
+"848","67829",Callbach
+"985","91793",Alesheim
+"7495","49214",Bad Rothenfelde
+"3057","86695",Nordendorf
+"2884","76770",Hatzenb�hl
+"7002","07422",Bad Blankenburg
+"37746","16321",Bernau
+"3436","97535",Wasserlosen
+"7865","66957","Vinningen, Trulben, Ruppertsweiler u.a."
+"1774","38528",Adenb�ttel
+"5550","65396",Walluf
+"86084","71634",Ludwigsburg
+"2958","86874",Tussenhausen
+"15082","59939",Olsberg
+"8997","07333",Unterwellenborn
+"9692","31020",Salzhemmendorf
+"4406","86669",K�nigsmoos
+"3698","67229",Gerolsheim
+"1794","86754",Munningen
+"13331","65817",Eppstein
+"1383","29482",K�sten
+"2895","09477",J�hstadt
+"80220","32423",Minden
+"816","82349",Pentenried
+"4750","63939",W�rth a.Main
+"2521","67590",Monsheim
+"1954","79877",Friedenweiler
+"10404","38835",Osterwieck
+"19861","32120",Hiddenhausen
+"17133","83301",Traunreut
+"9500","66798",Wallerfangen
+"8830","06682",Teuchern
+"2307","63937",Weilbach
+"11251","85077",Manching
+"5914","03116",Drebkau
+"12891","24888",Steinfeld
+"11604","58739",Wickede (Ruhr)
+"5921","73663",Berglen
+"35951","73760",Ostfildern
+"6322","07356",Lobenstein
+"11790","15306","Seelow, Lietzen u.a."
+"5764","74635",Kupferzell
+"8798","03226",Vetschau
+"686","38384",Gevensleben
+"4209","79348",Freiamt
+"2584","08547",J��nitz
+"8179","97215",Uffenheim
+"10008","82211",Herrsching a. Ammersee
+"1295","21401",Thomasburg
+"5613","21720",Gr�nendeich
+"7137","16230","Melchow, Chorin u.a."
+"6121","55296",Harxheim
+"6818","57562",Herdorf
+"10505","97737",Gem�nden a. Main
+"16256","36341",Lauterbach
+"16327","36381",Schl�chtern
+"9177","75045",Walzbachtal
+"6124","53520","Reifferscheid, Kaltenborn, Wershofen u.a."
+"9321","49429",Visbek
+"5828","99826",Mihla
+"2070","73349",Wiesensteig
+"1663","83259",Schleching
+"2289","85137",Walting
+"11917","04924",Bad Liebenwerda
+"2707","17219",M�llenhagen
+"29659","59368",Werne
+"3497","17391",Krien u.a.
+"3221","21397","Barendorf, Vastorf"
+"17067","90522",Oberasbach
+"43425","85221",Dachau
+"1323","54524",Klausen
+"5228","92681",Erbendorf
+"6122","55494",Rheinb�llen
+"15298","42499",H�ckeswagen
+"3769","18249","Bernitt, Qualitz, Warnow, Zernin u.a."
+"2462","85120",Hepberg
+"33002","47608",Geldern
+"8572","88353",Ki�legg
+"6784","93449",Waldm�nchen
+"5092","72827",Wannweil
+"3846","56753","Mertloch, Welling u.a."
+"14255","37434","Gieboldehausen, Rhumequelle"
+"1996","84094",Elsendorf
+"925","24873",Havetoft
+"25140","85276",Pfaffenhofen a.d. Ilm
+"28412","65232",Taunusstein
+"443","37642",Holenberg
+"22634","22869",Schenefeld
+"5530","85110",Kipfenberg
+"3264","34599",Neuental
+"4456","85406",Zolling
+"6176","24790",Schacht-Audorf
+"5557","90602",Pyrbaum
+"4020","93455",Traitsching
+"1963","84178",Kr�ning
+"5228","34388",Trendelburg
+"5079","76835",Rhodt u.a.
+"29947","71083",Herrenberg
+"18091","74177",Bad Friedrichshall
+"23176","02943","Wei�wasser, Boxberg"
+"6942","83109",Gro�karolinenfeld
+"1706","29362",Hohne
+"54537","34582",Borken
+"3601","79369",Wyhl
+"6151","29339",Wathlingen
+"9372","67354",R�merberg
+"1638","54308",Langsur
+"868","86984",Prem
+"13306","98724","Neuhaus am Rennweg, Lauscha"
+"27596","24768",Rendsburg
+"6042","39317",Elbe-Parey
+"15926","86529",Schrobenhausen
+"10244","66589",Merchweiler
+"1595","91617",Oberdachstetten
+"1182","96197",Wonsees
+"13017","07768",Kahla
+"39861","09599",Freiberg
+"9183","34281",Gudensberg
+"1367","67725",B�rrstadt
+"1622","37620",Halle
+"20363","65760",Eschborn
+"18637","26624",S�dbrookmerland
+"2663","77740",Bad Peterstal-Griesbach
+"9698","71093",Weil im Sch�nbuch
+"7701","67122",Altrip
+"4093","07980",Berga/Elster
+"15157","18311",Ribnitz-Damgarten
+"948","56867",Briedel
+"12777","76698",Ubstadt-Weiher
+"2492","82393",Iffeldorf
+"1818","67595",Bechtheim
+"4692","84164",Moosthenning
+"3290","85302",Gerolsbach
+"41264","87700",Memmingen
+"2537","93474",Arrach
+"1620","79595",R�mmingen
+"865","93477",Glei�enberg
+"15200","37327","Leinefelde-Worbis, Wingerode, Hausen"
+"3725","97265",Hettstadt
+"362477","44787",Bochum
+"1031","86736",Auhausen
+"2548","36323",Grebenau
+"3306","39448",B�rde-Hakel
+"492","29491",Prezelle
+"9950","96528","Frankenblick, Schalkau, Bachfeld"
+"1233","84333",Malgersdorf
+"2174","63872",Heimbuchenthal
+"905","56862",P�nderich
+"1252","73101",Aichelberg
+"3647","09518",Gro�r�ckerswalde
+"7590","79843",L�ffingen
+"15767","26203",Wardenburg
+"1327","95706",Schirnding
+"5102","34628",Willingshausen
+"2176","23823",Seedorf
+"1630","94137",Bayerbach
+"8273","38536",Meinersen
+"19025","51545",Waldbr�l
+"2531","86920",Denklingen
+"27228","47506",Neukirchen-Vluyn
+"4329","56766",Ulmen
+"32784","47574",Goch
+"10644","63808",Haibach
+"5075","74861",Neudenau
+"18774","56412","Nentershausen, H�bingen, Niederelbert u.a."
+"20712","64823",Gro�-Umstadt
+"3660","74243",Langenbrettach
+"2027","91616",Neusitz
+"3683","74545",Michelfeld
+"2252","56825",Gevenich
+"941","87770",Obersch�negg
+"51932","49808",Lingen
+"4106","69517",Gorxheimertal
+"4236","97896","Freudenberg, Collenberg"
+"12736","16845",Neustadt (Dosse) u.a.
+"4686","31688",Nienst�dt
+"2543","82276",Adelshofen
+"12767","88677",Markdorf
+"3443","17337","Uckerland, Gro� Luckow, Sch�nhausen"
+"1287","94572",Sch�fweg
+"5186","24783",Osterr�nfeld
+"9315","79341",Kenzingen
+"11770","65582","Diez, Hambach, Aull"
+"2643","67468","Frankenstein, Neidenfels, Frankeneck"
+"11121","54317","Osburg, Gusterath, Farschweiler, Kasel u.a."
+"1780","56206",Hilgert
+"244","83256",Chiemsee
+"6981","19073",Wittenf�rden u.a.
+"2301","26909","Neub�rger, Neulehe"
+"14683","65824",Schwalbach am Taunus
+"1797","73486",Adelmannsfelden
+"4216","53949",Dahlem
+"4601","04774",Dahlen
+"2410","94529",Aicha vorm Wald
+"9758","54552",Mehren u.a.
+"6406","72348",Rosenfeld
+"2424","21256",Handeloh
+"17819","18528",Bergen/ R�gen
+"6629","83233",Bernau a. Chiemsee
+"31833","16303",Schwedt
+"10849","14797",Lehnin
+"39421","63303",Dreieich
+"8058","71723",Gro�bottwar
+"2586","25924",Roden�s
+"1451","86856",Hiltenfingen
+"3682","91230",Happurg
+"3369","94118",Jandelsbrunn
+"3070","63695",Glauburg
+"1380","08267",Klingenthal
+"16788","08289",Schneeberg
+"3294","17279",Lychen
+"13166","85072",Eichst�tt
+"1637","67366",Weingarten (Pfalz)
+"0","60308",Frankfurt
+"4468","89287",Bellenberg
+"18994","82194",Gr�benzell
+"5449","83229",Aschau i. Chiemgau
+"9278","84494",Neumarkt-Sankt Veit
+"3818","55239",Gau-Odernheim
+"13528","64846",Gro�-Zimmern
+"2016","56588","Waldbreitbach, Hasuen"
+"1794","24634",Padenstedt
+"7685","55452",Guldental
+"1738","89174",Altheim (Alb)
+"4887","54662",Speicher
+"17633","76327",Pfinztal
+"10614","51597",Morsbach
+"4700","73466",Lauchheim
+"5087","85652",Pliening
+"9452","37127",Dransfeld u.a.
+"3392","75248",�lbronn-D�rrn
+"1638","94548",Innernzell
+"15196","55758",Niederw�rresbach
+"2357","65627",Elbtal
+"9625","49767",Twist
+"4254","83115",Neubeuern
+"4872","83080",Oberaudorf
+"9977","06369",S�dliches Anhalt u.a.
+"1290","97497",Dingolshausen
+"6179","01619",Zeithain
+"4734","77728",Oppenau
+"1854","91477",Markt Bibart
+"5754","35794",Mengerskirchen
+"1627","74249",Jagsthausen
+"3307","19336","Legde/Quitz�bel, Bad Wilsnack"
+"3219","71739",Oberriexingen
+"845","89296",Osterberg
+"64187","87435",Kempten (Allg�u)
+"2114","24794",Borgstedt
+"2711","17248",Rechlin
+"2775","01906",Burkau
+"9852","63773",Goldbach
+"5018","64397",Modautal
+"7541","34379",Calden
+"6693","56290",Beltheim
+"4294","08459",Neukirchen/Plei�e
+"2301","25494",Borstel-Hohenraden
+"16849","84453",M�hldorf a. Inn
+"1755","94265",Patersdorf
+"7167","15295",Brieskow-Finkenheerd
+"14431","26427","Esens, Neuharlingersiel u.a."
+"4502","83707",Bad Wiessee
+"4740","06577",Heldrungen
+"8292","08258",Markneukirchen
+"904","25997",H�rnum (Sylt)
+"5825","78078",Niedereschach
+"2629","36325",Feldatal
+"3345","34396",Liebenau (Hessen)
+"6227","74385",Pleidelsheim
+"19457","89312",G�nzburg
+"11146","66399",Mandelbachtal
+"9262","19243",Wittenburg u.a.
+"9377","26434",Wangerland
+"20198","19230",Hagenow u.a.
+"12026","74405",Gaildorf
+"10150","86911",Die�en a. Ammersee
+"6726","73269",Hochdorf
+"9231","56203",H�hr-Grenzhausen
+"6016","39245","Gommern, Dannigkow"
+"48699","94032",Passau
+"5102","38822","Halberstadt, Gro� Quenstedt"
+"1688","25594",Vaale
+"11227","23970",Wismar
+"4431","23627",Gro� Gr�nau
+"1580","91734",Mitteleschenbach
+"12861","67269",Gr�nstadt
+"3341","97717",Euerdorf
+"3164","91344",Waischenfeld
+"1671","95689",Fuchsm�hl
+"2844","54422",Neuh�tten
+"1297","23815",Geschendorf
+"20638","04860","Torgau, Dreiheide"
+"4937","09427",Ehrenfriedersdorf
+"1348403","80331",M�nchen
+"5559","24610",Trappenkamp
+"1683","86863",Langenneufnach
+"4104","74592",Kirchberg an der Jagst
+"8468","55566",Sobernheim
+"4947","97996",Niederstetten
+"7485","85084",Reichertshofen
+"2888","29462",Wustrow
+"5442","82269",Geltendorf
+"1933","96185",Sch�nbrunn i. Steigerwald
+"2933","99996","Menteroda, Obermehler"
+"805","24402",Esgrus
+"10578","49577","Kettenkamp, Eggerm�hlen, Ankum"
+"1624","67598",Gundersheim
+"2602","84175",Gerzen
+"6057","88260",Argenb�hl
+"2090","84339",Unterdietfurt
+"12632","17438",Wolgast
+"9700","99718",Greu�en Clingen Gro�enehrich
+"9156","04932","R�derland, Gro�thiemig u.a."
+"1364","91608",Geslau
+"1467","67377",Gommersheim
+"1115","24813",Sch�lp bei Rendsburg
+"86789","73728",Esslingen am Neckar
+"17862","63150",Heusenstamm
+"8421","89160",Dornstadt
+"1203","75337",Enzkl�sterle
+"8521","22889",Tangstedt
+"3644","84332",Hebertsfelden
+"1402","86751",M�nchsdeggingen
+"5049","08301",Schlema
+"10307","06567",Bad Frankenhausen/Kyffh�user
+"2327","84387",Julbach
+"7066","89551",K�nigsbronn
+"3346","67575",Eich
+"1042","95362",Kupferberg
+"2627","54608",Bleialf
+"20735","35260",Stadtallendorf
+"7833","04523","Pegau, Elstertrebnitz"
+"6034","88171",Weiler-Simmerberg
+"1650","94255",B�brach
+"18900","16341",Panketal
+"1021","23749",Grube
+"20031","08451",Crimmitschau
+"17839","84130",Dingolfing
+"6478","35463",Fernwald
+"13433","36199",Rotenburg an der Fulda
+"4905","76549",H�gelsheim
+"4980","56477","Rennerod, Zehnhausen, Nister-M�hrendorf, Waigandshain"
+"9050","85591",Vaterstetten
+"8364","94086",Griesbach i. Rottal
+"2979","53539","Bodenbach, Kelberg, Kirsbach u.a."
+"2104","54306",Kordel
+"2246","91799",Langenaltheim
+"5747","92665",Altenstadt a.d. Waldnaab
+"7708","24223",Schwentinetal
+"25962","59929",Brilon
+"40962","73614",Schorndorf
+"7214","87534",Oberstaufen
+"13416","90556",Cadolzburg
+"2562","86688",Marxheim
+"6901","54338",Schweich
+"3337","18513",Glewitz
+"4071","91327",G��weinstein
+"2116","91472",Ipsheim
+"5523","95145",Oberkotzau
+"25591","15827",Blankenfelde-Mahlow
+"7820","71139",Ehningen
+"17062","82205",Gilching
+"5009","29392",Wesendorf
+"13608","25462",Rellingen
+"2531","85125",Kinding
+"2671","24632",Lentf�hrden
+"7648","14778","Beetzsee, Wollin, Wenzlow, Golzow u.a."
+"2142","72415",Grosselfingen
+"20772","23966","Wismar, Gro� Krankow u.a."
+"2679","85135",Titting
+"455","67745",Grumbach
+"9403","48356",Nordwalde
+"4472","31608",Marklohe
+"34712","63263",Neu-Isenburg
+"6169","76461",Muggensturm
+"2186","24997",Wanderup
+"33156","09669",Frankenberg
+"7425","95126",Schwarzenbach a.d. Saale
+"11523","38165",Lehre
+"6938","38312","Dorstadt, Fl�the, B�r�um u.a."
+"2832","91284",Neuhaus a.d.Pegnitz
+"5629","74214",Sch�ntal
+"12574","07907",Schleiz
+"3272","36280",Oberaula
+"2090","15868",Lieberose
+"9550","09322",Penig
+"4709","85139",Wettstetten
+"7207","84539",Ampfing
+"5069","74909",Meckesheim
+"157513","67059",Ludwigshafen am Rhein
+"24439","06366",K�then
+"11615","89547",Gerstetten
+"4153","69434","Hirschhorn, Brombach, Heddesbach"
+"5676","21385","Oldendorf (Luhe), Amelinghausen, Rehlingen"
+"3802","93093",Donaustauf
+"21982","06484",Quedlinburg
+"8729","15569",Woltersdorf
+"6635","71543","W�stenrot, Beilstein-Stocksberg"
+"6078","86441",Zusmarshausen
+"7251","98630",R�mhild
+"2177","97797",Wartmannsroth
+"3356","73492",Rainau
+"24234","99869",Drei Gleichen
+"41127","96450",Coburg
+"6209","23996",Bad Kleinen u.a.
+"2426","79739",Schw�rstadt
+"4501","85777",Fahrenzhausen
+"4714","72224",Ebhausen
+"3955","25364",Brande-H�rnerkirchen
+"5094","85391",Allershausen
+"11152","84137",Vilsbiburg
+"11907","25917",Leck
+"13788","35305",Gr�nberg
+"44346","99867",Gotha
+"23064","50181",Bedburg
+"13382","31162",Bad Salzdetfurth
+"1553","83254",Breitbrunn a. Chiemsee
+"11804","37124",Rosdorf
+"3214","36284",Hohenroda
+"25327","51674",Wiehl
+"20092","16259",Bad Freienwalde u.a.
+"1169","91460",Baudenbach
+"1272","96187",Stadelhofen
+"4919","85778",Haimhausen
+"13526","56459","Bellingen, K�lbingen, Gem�nden u.a."
+"19935","73527","Schw�bisch Gm�nd, T�ferrot"
+"12604","68775",Ketsch
+"10544","35625",H�ttenberg
+"2257","38531",R�tgesb�ttel
+"11053","86438",Kissing
+"6880","89601",Schelklingen
+"6319","64853",Otzberg
+"1774","25727",S�derhastedt
+"3566","74599",Wallhausen
+"2163","90617",Puschendorf
+"8145","37176",N�rten-Hardenberg
+"6029","67487",Maikammer
+"2948","49457",Drebber
+"10848","38524",Sassenburg
+"2992","06458",Hedersleben
+"1441","21441",Garstedt
+"34731","48268",Greven
+"655","72294",Gr�mbach
+"2033","85469",Walpertskirchen
+"1939","97499",Donnersdorf
+"2701","97531",Theres
+"7192","88138",Sigmarszell
+"7117","02689",Sohland a. d. Spree
+"3071","38271",Baddeckenstedt
+"3822","79426",Buggingen
+"5283","73326",Deggingen
+"4824","09392",Auerbach
+"18054","66450",Bexbach
+"759","89447",Z�schingen
+"1499","91350",Gremsdorf
+"10055","37581",Bad Gandersheim
+"1372","74255",Roigheim
+"10963","91541",Rothenburg ob der Tauber
+"2639","91619",Obernzenn
+"19853","77704",Oberkirch
+"7065","82229",Seefeld
+"13868","15732",Schulzendorf b. Eichenwade
+"19622","92237",Sulzbach-Rosenberg
+"4729","36154",Hosenfeld
+"17773","74722",Buchen
+"12558","27232",Sulingen
+"4513","86666",Burgheim
+"3834","93453",Neukirchen b. Hl. Blut
+"3786","49594",Alfhausen
+"25612","45549",Sprockh�vel
+"2116","29571",Rosche
+"42895","63110",Rodgau
+"25879","31737",Rinteln
+"4678","83339",Chieming
+"1704","63860","Rothenbuch, Rothenbucher Forst"
+"12241","28870",Ottersberg
+"7178","04575","Neukieritzsch, Deutzen"
+"6829","83410",Laufen
+"7131","77746",Schutterwald
+"4486","97708",Bad Bocklet
+"24843","33415",Verl
+"607","72367",Weilen unter den Rinnen
+"5446","83083",Riedering
+"23698","24837",Schleswig
+"2052","97271",Kleinrinderfeld
+"21896","16727","Velten, Oberkr�mer"
+"46616","33378",Rheda-Wiedenbr�ck
+"874","91743",Unterschwaningen
+"21077","78144",Schramberg
+"5588","84072",Au in der Hallertau
+"1836","63828",Kleinkahl
+"6651","27446",Selsingen
+"14883","89134",Blaustein
+"342920","42103",Wuppertal
+"11978","56479",Oberrod u.a.
+"10882","89150",Laichingen
+"8445","73650",Winterbach
+"19238","85540",Haar
+"3729","94130",Obernzell
+"7404","84061",Ergoldsbach
+"3975","83119",Obing
+"18941","48607",Ochtrup
+"2547","87757",Kirchheim in Schwaben
+"8275","90592",Schwarzenbruck
+"1960","95493",Bischofsgr�n
+"4340","55585",Norheim u.a.
+"4422","88437",Maselheim
+"3252","34637",Schrecksbach
+"3447","95173",Sch�nwald
+"13839","27619",Schiffdorf
+"245269","45879",Gelsenkirchen
+"12291","72393",Burladingen
+"28907","18273",G�strow
+"10006","86916",Kaufering
+"906","24893",Taarstedt
+"2506","47625",Kevelaer-Wetten
+"1105","79802",Dettighofen
+"1196","67706",Krickenbach
+"6753","97944",Boxberg
+"29948","46446",Emmerich am Rhein
+"5207","26757",Borkum
+"8906","33189",Schlangen
+"9261","96524","Neuhaus-Schierschnitz, Judenbach"
+"1986","67686",Mackenbach
+"1967","96175",Pettstadt
+"3805","64689",Grasellenbach
+"2948","25485",Hemdingen
+"29655","42781",Haan
+"2362","74392",Freudental
+"6304","56472",Nisterau u.a.
+"6503","74744",Ahorn
+"29037","59302",Oelde
+"2913","91094",Langensendelbach
+"2407","23826",Bark
+"4870","36358",Herbstein
+"10663","82031",Gr�nwald
+"1360","25889","Uelvesb�ll, Witzwort"
+"1193","84439",Steinkirchen
+"5769","72178",Waldachtal
+"10717","23714","Malente, Kirchn�chel"
+"4156","67466",Lambrecht (Pfalz)
+"7847","71720",Oberstenfeld
+"19713","25451",Quickborn
+"9424","73257",K�ngen
+"1336","56820",Senheim
+"1175","21386",Betzendorf
+"2454","87499",Wildpoldsried
+"4429","92690",Pressath
+"1283","97659",Sch�nau a.d. Brend
+"1284","83679",Sachsenkam
+"856","91796",Ettenstatt
+"2097","73105",D�rnau
+"8078","01612","N�nchritz, Glaubitz"
+"21726","14913",J�terbog
+"3636","84100",Niederaichbach
+"5159","88361",Altshausen
+"21813","88299",Leutkirch im Allg�u
+"11360","29683","Bad Fallingbostel, Osterheide"
+"1803","36287",Breitenbach am Herzberg
+"854","67715",Geiselberg
+"34071","26789",Leer
+"4420","83624",Otterfing
+"7645","08485",Lengenfeld
+"2918","67365",Schwegenheim
+"2570","76776",Neuburg am Rhein
+"22743","30916",Isernhagen
+"1752","54457",Wincheringen
+"9679","06317",Seegebiet Mansfelder Land
+"56730","18435",Stralsund
+"3121","79256",Buchenbach
+"12154","83512",Wasserburg a. Inn
+"5654","86650",Wemding
+"6840","09221",Neukirchen/Erzgeb.
+"1420","97842",Karbach
+"2087","71579",Spiegelberg
+"22351","23554",L�beck St. Lorenz Nord
+"2056","87734",Benningen
+"1375","83361",Kienberg
+"5871","09603",Gro�schirma
+"2902","83547",Babensham
+"3891","73340",Amstetten
+"3041","67310",Hettenleidelheim
+"1954","21447",Handorf
+"18535","31840",Hessisch Oldendorf
+"5695","19069",L�bstorf
+"6179","15328","Golzow, Zechin u.a."
+"21615","55129","Mainz Ebersheim, Hechtsheim"
+"8801","04442",Zwenkau
+"1787","87745",Eppishausen
+"4030","54576",Hillesheim
+"8743","37345","Am Ohmberg, Sonnenstein"
+"6743","49688",Lastrup
+"2347","25872",Ostenfeld
+"1146","78582",Balgheim
+"9121","25548",Kellinghusen
+"1069","95188",Issigau
+"4949","08304",Sch�nheide
+"1159","78585",Bubsheim
+"17848","01917",Kamenz
+"26473","33758",Schlo� Holte-Stukenbrock
+"6411","83324",Ruhpolding
+"23232","37520",Osterode am Harz
+"4487","97346",Iphofen
+"1024","91480",Markt Taschendorf
+"7559","21266",Jesteburg
+"2073","17328",Penkun u.a.
+"8731","71134",Aidlingen
+"12479","72355",Sch�mberg
+"7135","82054",Sauerlach
+"35948","99974","M�hlhausen, Unstruttal"
+"6067","06528","Wallhausen, Blankenheim"
+"11983","86807",Buchloe
+"4053","88175",Scheidegg
+"5357","03159",D�bern
+"1353","25870",Oldenswort
+"9914","63906",Erlenbach a.Main
+"888","56349",Kaub
+"10302","96231",Staffelstein
+"3277","57584",Scheuerfeld
+"18056","59199",B�nen
+"2080","83673",Bichl
+"497","21732",Krummendeich
+"48802","35576",Wetzlar
+"5880","56470",Bad Marienberg (Westerwald)
+"8230","39435","Egeln, Borne, Wolmirsleben u.a."
+"16582","56170",Bendorf
+"882","91802",Meinheim
+"323","24399","Arnis, Marienhof"
+"4117","82541",M�nsing
+"212222","46045",Oberhausen
+"1046","24989",Dollerup
+"4427","17194","Grabowh�fe, Moltzow u.a."
+"114522","75172",Pforzheim
+"1745","74595",Langenburg
+"13575","08527","Plauen, R��nitz"
+"5366","77880",Sasbach
+"16670","33813",Oerlinghausen
+"1993","91349",Egloffstein
+"2102","67716",Heltersberg
+"26761","14641",Nauen
+"10756","85283",Wolnzach
+"10666","59602",R�then
+"10845","27412","Tarmstedt, Breddorf u.a."
+"3533","17390",Klein B�nzow
+"11001","01945",Ruhland
+"4498","83334",Inzell
+"32608","68519",Viernheim
+"1549","09434",Zschopau
+"6070","85244",R�hrmoos
+"9330","09573","Leubsdorf, Gornau, Augustusburg"
+"1159","87743",Egg an der G�nz
+"19939","56727",Mayen
+"19120","31812",Bad Pyrmont
+"4200","74743",Seckach
+"1849","89191",Nellingen
+"9814","06895",Zahna-Elster
+"1608","54587",Lissendorf
+"27506","26160",Bad Zwischenahn
+"3549","92685",Flo�
+"5626","96132",Schl�sselfeld
+"23530","04416",Markkleeberg
+"10593","52388",N�rvenich
+"43657","40699",Erkrath
+"4529","89168",Niederstotzingen
+"7383","91785",Pleinfeld
+"8360","88427",Bad Schussenried
+"8714","19300",Grabow u.a.
+"2278","21227",Bendestorf
+"11057","56332","Lehmen, Niederfell, Oberfell, Wolken u.a."
+"9480","87561",Oberstdorf
+"3739","74673",Mulfingen
+"2344","09484",Oberwiesenthal
+"20825","50189",Elsdorf
+"49737","52525","Waldfeucht, Heinsberg"
+"6949","65606",Villmar
+"4509","96173",Oberhaid
+"5326","72644",Oberboihingen
+"2757","25884",Vi�l
+"12337","75217",Birkenfeld
+"1199","95199",Thierstein
+"14609","27721",Ritterhude
+"1370","21439",Marxen
+"1579","25852",Bordelum
+"1411","79299",Wittnau
+"5161","74572",Blaufelden
+"7303","39619",Arendsee
+"2504","92709",Moosbach
+"9370","03099",Kolkwitz
+"18805","51702",Bergneustadt
+"1578","93177",Altenthann
+"4572","24811",Owschlag u.a.
+"4354","79677",Sch�nau im Schwarzwald
+"1440","92559",Winklarn
+"4218","37197",Hattorf
+"13779","56357",Miehlen u.a.
+"2664","67283",Obrigheim (Pfalz)
+"4129","74541",Vellberg
+"9294","49201",Dissen
+"10283","83620",Feldkirchen-Westerham
+"2719","31036",Eime
+"16102","32479",Hille
+"1808","76777",Neupotz
+"5932","25557","Hanerau-Hademarschen, Seefeld u.a."
+"4626","91233",Neunkirchen am Sand
+"4662","84543",Winh�ring
+"18675","33014",Bad Driburg
+"2882","88699",Frickingen
+"2844","88637","Leibertingen, Buchheim"
+"14408","65527",Niedernhausen
+"32295","74564",Crailsheim
+"3005","79276",Reute
+"8081","19406",Sternberg
+"4493","56321",Rhens
+"2341","77887",Sasbachwalden
+"11967","91438",Bad Windsheim
+"1535","92703",Krummennaab
+"21209","42489",W�lfrath
+"1170","95186",H�chst�dt
+"1821","94140",Ering
+"7174","79238",Ehrenkirchen
+"2474","55593",R�desheim
+"4833","17089",Burow
+"939","67827",Becherbach
+"899","92543",Guteneck
+"1267","97780",G�ssenheim
+"3118","87764",Legau
+"8777","92331",Parsberg
+"794","84171",Baierbach
+"2340","87778",Stetten
+"2447","86859",Igling
+"2375","29459",Clenze
+"4304","97261",G�ntersleben
+"742","24861",Bergenhusen
+"1031","54664",Preist
+"4918","24986",Mittelangeln
+"999","89299",Unterroth
+"8023","63791",Karlstein am Main
+"77562","26382",Wilhelmshaven
+"1649","86675",Buchdorf
+"1121","24867",Dannewerk
+"11878","02627","Wei�enberg, Hochkirch u.a."
+"15783","32825",Blomberg
+"5941","86470",Thannhausen
+"7377","99518",Bad Sulza
+"9600","95632",Wunsiedel
+"16412","36304",Alsfeld
+"7599","14929",Treuenbrietzen
+"518","67746",Langweiler
+"47485","06886",Wittenberg
+"7114","98597",Breitungen/Werra
+"6378","74706",Osterburken
+"24526","14712",Rathenow
+"13385","73630",Remshalden
+"1902","79682",Todtmoos
+"44596","85354",Freising
+"3703","97640",Oberstreu
+"30782","59872",Meschede
+"4032","86556",K�hbach
+"960","96161",Gerach
+"2252","92699",Bechtsried
+"77757","78462",Konstanz
+"1694","24882","Schaalby, Geelbek"
+"1466","67159",Friedelsheim
+"19558","98574",Schmalkalden
+"14164","04425",Taucha
+"2522","38373","S�pplingen, Frellstedt"
+"3666","06537",Kelbra (Kyffh�user)
+"1416","86735",Amerdingen
+"6351","99848",Wutha-Farnroda
+"1717","96190",Untermerzbach
+"565","96367",Tschirn
+"3408","97506",Grafenrheinfeld
+"8883","35085",Ebsdorfergrund
+"11613","21635",Jork
+"2558","72479",Stra�berg
+"1930","67821",Alsenz
+"26967","63165",M�hlheim am Main
+"1214","92720",Schwarzenbach
+"2143","94261",Kirchdorf i. Wald
+"1979","54526",Landscheid
+"862","56821",Ellenz-Poltersdorf
+"5592","76891",Bruchweiler-B�renbach u.a.
+"3930","24635",Rickling
+"1376","97857",Urspringen
+"1124","95680",Bad Alexandersbad
+"4461","79252",Stegen
+"6026","76877",Offenbach an der Queich
+"11114","59519",M�hnesee
+"3435","74382",Neckarwestheim
+"2588","67136",Fu�g�nheim
+"7594","97222",Rimpar
+"12453","59329",Wadersloh
+"31206","58285",Gevelsberg
+"4872","54538",Bausendorf
+"28344","58332",Schwelm
+"11934","63776",M�mbris
+"2922","87746",Erkheim
+"25516","64347",Griesheim
+"1872","38477",Jembke
+"46074","49324",Melle
+"1316","87653",Eggenthal
+"1496","79429",Malsburg-Marzell
+"4323","94089",Neureichenau
+"7605","63688",Gedern
+"6452","67259",Beindersheim
+"150403","26121",Oldenburg (Oldenburg)
+"3330","16949","Triglitz, Putlitz"
+"1890","73467",Kirchheim am Ries
+"2349","79688",Hausen im Wiesental
+"21213","26188",Edewecht
+"3958","72587",R�merstein
+"2505","93109",Wiesent
+"7184","18445",Prohn
+"3720","95500",Heinersreuth
+"0","30669",Langenhagen (Flughafen)
+"117471","46236",Bottrop
+"5750","74535",Mainhardt
+"16525","23617",Stockelsdorf
+"8983","63820",Elsenfeld
+"16798","23936","Grevesm�hlen, Stepenitztal, Upahl u.a."
+"5950","34393",Grebenstein
+"13591","97618",Hohenroth
+"13891","86836",Untermeitingen
+"789","29585",Jelmstorf
+"4532","67808","Steinbach, Weitersweiler, Bennhausen, M�rsfeld, W�rzweiler, Ruppertsecken u.a."
+"7985","69231",Rauenberg
+"6759","77963",Schwanau
+"1874","67823","Obermoschel, Schiersfeld"
+"3589","25361","Krempe, Grevenkop, S�derau, Muchelndorf"
+"6123","61206",W�llstadt
+"5960","34308",Bad Emstal
+"11047","24321",L�tjenburg
+"4239","36269",Philippsthal
+"4051","25836","Garding, Osterhever, Poppenb�ll u.a."
+"55731","84028",Landshut
+"4866","99988",S�deichsfeld
+"3272","79356",Eichstetten
+"5512","55299",Nackenheim
+"5901","29331",Lachendorf
+"16605","66280",Sulzbach/Saar
+"2632","87675",St�tten am Auerberg
+"744","29359",Habighorst
+"2609","97264",Helmstadt
+"7638","34621",Frielendorf
+"6624","96224",Burgkunstadt
+"3579","82299",T�rkenfeld
+"21070","86356",Neus��
+"4931","74417",Gschwend
+"178330","59063",Hamm
+"7340","57339",Erndtebr�ck
+"32168","17498",Neuenkirchen
+"6963","34376",Immenhausen
+"19845","26810",Westoverledingen
+"13645","49504",Lotte
+"17277","96317",Kronach
+"6867","64750",L�tzelbach
+"18661","55234",Albig
+"15379","27568","Bremerhaven, Bremen"
+"75005","41747",Viersen
+"893","94533",Buchhofen
+"9059","31249",Hohenhameln
+"8584","63785",Obernburg a.Main
+"841","67813","Schwarzengraben, St. Alban, Gerbach"
+"8812","99955",Bad Tennstedt
+"2232","01819",Bahretal
+"1375","91744",Weiltingen
+"7627","39524",Sandau
+"13535","85579",Neubiberg
+"12827","06868",Coswig (Anhalt)
+"13759","52382",Niederzier
+"82543","72070",T�bingen
+"1991","24649",Wiemersdorf
+"7897","91220",Schnaittach
+"16123","32278",Kirchlengern
+"3693","83670",Bad Heilbrunn
+"2276","96355",Tettau
+"2987","75385",Bad Teinach-Zavelstein
+"1971","97839",Esselbach
+"38390","92318",Neumarkt i.d. OPf.
+"14249","63517",Rodenbach
+"18675","63755",Alzenau
+"34881","38820",Halberstadt
+"3079","86476",Neuburg a.d. Kammel
+"2900","79279",V�rstetten
+"6540","68809",Neulu�heim
+"352","23629",Sarkwitz
+"8754","99752",Bleicherode
+"2850","96358",Teuschnitz
+"10823","97828",Marktheidenfeld
+"21787","51688",Wipperf�rth
+"7503","92648",Vohenstrau�
+"5434","02785",Olbersdorf
+"17236","26817",Rhauderfehn
+"2888","78269",Volkertshausen
+"10400","63679",Schotten
+"5266","24980","Schafflund, Meyn u.a."
+"11216","26689",Apen
+"7337","73453",Abtsgm�nd
+"5880","34516",V�hl
+"1821","74259",Widdern
+"12293","26632",Ihlow
+"10000","79336",Herbolzheim
+"5988","15526",Bad Saarow-Pieskow
+"971","25724","Neufeld, Schmedeswurth"
+"9470","38170",Sch�ppenstedt
+"1382","85408",Gammelsdorf
+"6140","97218",Gerbrunn
+"3874","55483",Dickenschied u.a.
+"6945","67141",Neuhofen
+"6616","16833",Fehrbellin
+"6044","71144",Steinenbronn
+"6106","88090",Immenstaad am Bodensee
+"2937","82449",Uffing a. Staffelsee
+"15676","90530",Wendelstein
+"13200","09526","Olbernhau, Pfaffroda, Heidersdorf"
+"1435","01825",Liebstadt
+"90441","07545",Gera
+"3230","77883",Ottenh�fen im Schwarzwald
+"1247","87769",Oberrieden
+"21179","82362",Weilheim i. OB
+"1995","25794",Pahlen
+"8188","24226",Heikendorf
+"2048","36326",Antrifttal
+"6162","01993",Schipkau
+"2486","79594",Inzlingen
+"3190","69259",Wilhelmsfeld
+"886","56829",Pommern
+"4074","90610",Winkelhaid
+"14772","39164",Wanzleben-B�rde
+"22576","97877",Wertheim
+"3233","76477",Elchesheim-Illingen
+"8087","36448",Bad Liebenstein
+"4386","18581",Putbus
+"4307","83454",Anger
+"2195","89198",Westerstetten
+"7128","06647","Bad Bibra, Finne u.a."
+"18072","79379",M�llheim
+"8701","82049",Pullach i. Isartal
+"8876","87448",Waltenhofen
+"1275","92275",Hirschbach
+"9705","79199",Kirchzarten
+"16267","91710",Gunzenhausen
+"697","96196",Wattendorf
+"3480","31606",Warmsen
+"9742","77767",Appenweier
+"3932","25826",Sankt Peter-Ording
+"18189","66265",Heusweiler
+"3046","84428",Buchbach
+"3568","91189",Rohr
+"2956","91593",Burgbernheim
+"5806","35638",Leun
+"4190","38895","Langenstein, Derenburg"
+"22830","58313",Herdecke
+"11786","76337",Waldbronn
+"3491","35719",Angelburg
+"597","89605",Altheim
+"6881","49692",Cappeln (Oldenburg)
+"2949","66981",M�nchweiler an der Rodalb
+"1032","25597",Westermoor
+"5686","86647",Buttenwiesen
+"21473","55270",Ober-Olm
+"3564","09488",Wiesa
+"2310","85411",Hohenkammer
+"1777","24628",Hartenholm
+"24829","72160",Horb am Neckar
+"1980","24626",Gro� Kummerfeld
+"5157","37287",Wehretal
+"2270","29364",Langlingen
+"8389","76756",Bellheim
+"2357","84389",Postm�nster
+"12062","26345",Bockhorn
+"963","23824",Tensfeld
+"13063","26529","Upgant-Schott, Osteel u.a."
+"3292","91281",Kirchenthumbach
+"1370","83371",Stein a.d. Traun
+"2498","86946",Vilgertshofen
+"14301","56220",Urmitz
+"9126","72406",Bisingen
+"14497","57299",Burbach
+"1791","29356",Br�ckel
+"9653","61200",W�lfersheim
+"1530","38474",T�lau
+"1840","72362",Nusplingen
+"3248","36399",Freiensteinau
+"28126","39418",Sta�furt
+"4917","63843",Niedernberg
+"2463","95194",Regnitzlosau
+"24747","65795",Hattersheim
+"1421","85656",Buch a. Buchrain
+"3745","67583",Guntersblum
+"10956","27419",Sittensen u.a.
+"11471","93077",Bad Abbach
+"2416","06648",Eckartsberga
+"4145","79689",Maulburg
+"7345","91083",Baiersdorf
+"4126","24855","Bollingstedt, J�bek"
+"10510","84416",Taufkirchen (Vils)
+"2624","94154",Neukirchen vorm Wald
+"9694","59394",Nordkirchen
+"17865","08393",Meerane
+"10220","47559",Kranenburg
+"3669","54311",Trierweiler
+"3042","83569",Vogtareuth
+"4660","87477",Sulzberg
+"1397","94164",Sonnen
+"20356","30938",Burgwedel
+"7104","94491",Hengersberg
+"2118","96193",Wachenroth
+"3890","96352",Wilhelmsthal
+"3281","86757",Wallerstein
+"2244","98743",Gr�fenthal
+"27018","04808",Wurzen
+"1338","31638",St�ckse
+"8968","32816",Schieder-Schwalenberg
+"4787","78098",Triberg im Schwarzwald
+"322","29472",Damnatz
+"1234","91628",Steinsfeld
+"6784","66453",Gersheim
+"12828","48480","L�nne, Schapen, Spelle"
+"4380","73333",Gingen an der Fils
+"1571","54647",Dudeldorf
+"4554","25782",Tellingstedt
+"14409","78112",St. Georgen
+"2436","94360",Mitterfels
+"8193","14550",Gro� Kreutz
+"10832","73072",Donzdorf
+"8262","88079",Kressbronn am Bodensee
+"33591","65549",Limburg
+"9801","65597",H�nfelden
+"786","21710",Engelschoff
+"1769","92712",Pirk
+"26274","01809",Heidenau
+"2393","85467",Neuching
+"12607","86637",Wertingen
+"6762","88356",Ostrach
+"2063","25495",Kummerfeld
+"2286","86706",Weichering
+"1586","82294",Oberschweinbach
+"15130","52152",Simmerath
+"5816","24222",Schwentinental
+"8940","27305","Bruchhausen-Vilsen, S�stedt"
+"8132","65618",Selters
+"9315","33184",Altenbeken
+"9105","63897",Miltenberg
+"5930","06249",M�cheln/ Geiseltal
+"2360","39217",Sch�nebeck (Elbe)
+"11758","72574",Bad Urach
+"5657","09387",Jahnsdorf
+"4064","88284",Wolpertswende
+"9189","07554",Brahmenau
+"5283","93342",Saal a.d. Donau
+"2392","94143",Grainet
+"1712","94345",Aholfing
+"1809","95704",Pullenreuth
+"3893","01616",Strehla
+"4028","74850",Schefflenz
+"2920","86517",Wehringen
+"1918","17154",Neukalen
+"1224","08144",Hirschfeld
+"2874","36167",N�sttal
+"4107","63868",Gro�wallstadt
+"17960","08340",Schwarzenberg/Erzgeb.
+"8834","33829",Borgholzhausen
+"2529","49596",Gehrde
+"971","38556",Bokensdorf
+"14001","79206",Breisach am Rhein
+"6900","94078",Freyung
+"3892","97532",�chtelhausen
+"5018","57572",Niederfischbach
+"22996","24568",Kaltenkirchen
+"7809","88690",Uhldingen-M�hlhofen
+"3265","56182",Urbar (bei Koblenz)
+"4637","85653",Aying
+"953","95356",Grafengehaig
+"4108","31603",Diepenau
+"3072","88289",Waldburg
+"8408","71111",Waldenbuch
+"13536","64367",M�hltal
+"9906","76689",Karlsdorf-Neuthard
+"26642","27283",Verden
+"4636","85298",Scheyern
+"17976","55232",Alzey
+"2411","79859",Schluchsee
+"2019","96182",Reckendorf
+"21501","97318",Kitzingen
+"6520","35764",Sinn
+"5416","74912",Kirchardt
+"2258","72532",Gomadingen
+"2309","74397",Pfaffenhofen
+"1434","97782",Gr�fendorf
+"12654","08297",Zw�nitz
+"11177","73765",Neuhausen auf den Fildern
+"4919","56424","Mogendorf, Ebernhahn, Staudt u.a."
+"2987","09432",Gro�olbersdorf
+"33737","15711",K�nigs Wusterhausen
+"20648","35745",Herborn
+"2650","78604",Rietheim-Weilheim
+"1683","57583",Nauroth
+"2957","85662",Hohenbrunn
+"22583","99706",Sondershausen
+"8304","65843",Sulzbach (Taunus)
+"1400","67737",Olsbr�cken
+"5001","91174",Spalt
+"20192","48703",Stadtlohn
+"26561","26954",Nordenham
+"1587","97282",Retzstadt
+"6974","39539",Havelberg
+"2230","89568",Hermaringen
+"13810","47546",Kalkar
+"5211","79224",Umkirch
+"2593","97291",Th�ngershem
+"10375","90579",Langenzenn
+"8753","23669",Timmendorfer Strand
+"1843","27254","Siedenburg, Staffhorst"
+"2917","74747",Ravenstein
+"23917","26316",Varel
+"2388","84385",Egglham
+"1178","91747",Westheim
+"2519","23867",S�lfeld
+"14608","72270",Baiersbronn
+"9584","73079",S��en
+"3360","94152",Neuhaus a. Inn
+"2216","77975",Ringsheim
+"13241","79211",Denzlingen
+"2260","91356",Kirchehrenbach
+"3720","22929","Hamfelde, Kasseburg, K�thel, Rausdorf, Sch�nberg"
+"1973","91598",Colmberg
+"5819","74575",Schrozberg
+"1383","54687",Arzfeld
+"81327","42549",Velbert
+"16951","41849",Wassenberg
+"7336","37191",Katlenburg-Lindau
+"2935","83626",Valley
+"5899","94116",Hutthurm
+"2603","63928",Eichenb�hl
+"135593","93047",Regensburg
+"3426","73277",Owen
+"17093","27639",Wurster Nordseek�ste
+"2213","15757",Halbe
+"3170","82441",Ohlstadt
+"4728","85123",Karlskron
+"935","94250",Achslach
+"1757","08373",Remse
+"25527","16761",Hennigsdorf
+"1121","21765",Nordleda
+"6272","92521",Schwarzenfeld
+"1706","91462",Dachsbach
+"2823","07387",Kr�lpa
+"1263","92705",Leuchtenberg
+"737","79597",Schallbach
+"5419","94104",Tittling
+"3708","23919",Berkenthin
+"13765","26209",Hatten
+"2090","89182",Bernstadt
+"20800","79183",Waldkirch
+"1844","85413",H�rgertshausen
+"6368","67245",Lambsheim
+"31790","55743",Idar-Oberstein
+"3383","99198","Udestedt, M�nchenholzhausen u.a."
+"1808","56589",Niederbreitbach
+"20467","34431",Marsberg
+"8525","65599",Dornburg
+"18724","54516",Wittlich
+"8111","46359",Heiden
+"14993","37412","Herzberg, Elbingerode, H�rden"
+"7772","88167",R�thenbach (Allg�u)
+"3549","94544",Hofkirchen
+"6384","85630",Grasbrunn
+"4997","23942",Dassow
+"908","38467",Bergfeld
+"3314","07330",Probstzella
+"849","84552",Geratskirchen
+"1030","97773",Aura i. Sinngrund
+"2722","56736",Kottenheim
+"9180","06246",Bad Lauchst�dt
+"11118","84051",Essenbach
+"1594","24894","Tolk, Twedt"
+"1821","86862",Lamerdingen
+"25565","15344",Strausberg
+"13750","30982",Pattensen
+"34612","74889",Sinsheim
+"21340","78166",Donaueschingen
+"5503","99100","Gro�fahner, Dachwig u.a."
+"9892","18276","Reimershagen, Lohmen, Zehna, H�gerfelde u.a."
+"7081","37351",Dingelst�dt
+"28932","06526",Sangerhausen
+"25519","32312",L�bbecke
+"9060","15859",Storkow
+"4706","85646",Anzing
+"796","26474",Spiekeroog
+"3936","17454",Zinnowitz
+"1274","91749",Wittelshofen
+"6048","18233","Neubukow, Ravensberg u.a."
+"11815","01723",Wilsdruff
+"86037","44532",L�nen
+"1777","21403",Wendisch Evern
+"8027","83734",Hausham
+"2085","73271",Holzmaden
+"1924","93179",Brennberg
+"5551","67360",Lingenfeld
+"3427","87642",Halblech
+"257363","55246",Wiesbaden
+"8072","29323",Wietze
+"2352","73489",Jagstzell
+"2365","67150",Niederkirchen bei Deidesheim
+"5403","34474",Diemelstadt
+"7399","24848",Kropp u.a.
+"3105","38533",Vordorf
+"8730","54470",Bernkastel-Kues u.a.
+"2629","71299",Wimsheim
+"2035","03103","Neu-Seeland, Neupetershain"
+"2359","82433",Bad Kohlgrub
+"12160","71088",Holzgerlingen
+"7549","83075",Bad Feilnbach
+"25793","23795",Bad Segeberg
+"3532","09548",Seiffen/Erzgeb.
+"11803","73249",Wernau (Neckar)
+"35141","47906",Kempen
+"1861","86576",Schiltberg
+"5394","88521",Ertingen
+"4207","92439",Bodenw�hr
+"1661","36169",Rasdorf
+"33366","72336",Balingen
+"19204","66346",P�ttlingen
+"43349","06749",Bitterfeld-Wolfen
+"20043","68753",Wagh�usel
+"24797","82140",Olching
+"74807","35390",Gie�en
+"21315","46509",Xanten
+"5681","09430",Drebach
+"2895","36329",Romrod
+"3165","97357",Prichsenstadt
+"2326","54689","Daleiden, Preischeid u.a."
+"2716","72535",Heroldstatt
+"19307","82131",Gauting
+"8868","06905",Bad Schmiedeberg
+"2282","54424",Thalfang
+"5662","93080",Pentling
+"2444","83365",Nu�dorf
+"7434","91187",R�ttenbach
+"1939","97539",Wonfurt
+"13776","55606",Kirn
+"9699","06779",Raguhn-Je�nitz
+"3325","17349",Gro� Miltzow
+"869","01776",Hermsdorf/Erzgeb.
+"2086","94148",Kirchham
+"4599","54426",Malborn
+"14444","64372",Ober-Ramstadt
+"4704","84076",Pfeffenhausen
+"21744","08412",Werdau
+"1572","18317",Saal
+"24399","91154",Roth
+"2591","92539",Sch�nsee
+"11743","74354",Besigheim
+"11163","31028",Gronau (Leine)
+"1893","79872",Bernau im Schwarzwald
+"1114","95192",Lichtenberg
+"6851","09380",Thalheim/Erzgebirge
+"2935","55596",Waldb�ckelheim
+"4816","08237",Steinberg
+"5353","04639",G��nitz
+"1940","95700",Neusorg
+"4912","25581",Hennstedt
+"1256","57636",Mammelzen
+"33481","17291","Prenzlau, Nordwestuckermark u.a."
+"4114","17129",Bentzin
+"2694","24361",Gro� Wittensee
+"3904","74376",Gemmrigheim
+"3857","63867",Johannesberg
+"1484","86935",Rott
+"2495","97253",Gauk�nigshofen
+"11510","82223",Eichenau
+"6765","19357","Karst�dt, Dambeck, Kl��"
+"7386","37136","Seulingen, Waake u.a."
+"12315","78073",Bad D�rrheim
+"15918","27798",Hude (Oldenburg)
+"1096","97537",Wipfeld
+"2359","97334",Sommerach
+"1980","31715",Meerbeck
+"3298","22952",L�tjensee
+"5048","17367",Eggesin
+"3260","84104",Rudelzhausen
+"14717","73770",Denkendorf
+"15198","34369",Hofgeismar
+"9215","39167","Eichenbarleben, Irxleben, Niederndodeleben u.a."
+"44503","94315",Straubing
+"1301","67472",Esthal
+"13669","16792",Zehdenick
+"1466","86744",Hainsfarth
+"22645","26802",Moormerland
+"5860","02923","H�hnichen, Horka, Kodersdorf"
+"14986","33175",Bad Lippspringe
+"1441","29490",Neu Darchau
+"1941","37199",Wulften
+"2522","78588",Denkingen
+"2477","92361",Berngau
+"4891","35644",Hohenahr
+"4059","09429",Wolkenstein
+"16749","71272",Renningen
+"1172","94562",Oberp�ring
+"17194","57413",Finnentrop
+"2841","36214",Nentershausen
+"3800","95490",Mistelgau
+"12926","29690",Schwarmstedt u.a.
+"16557","01665","K�bsch�tztal, Klipphausen, Diera-Zehren"
+"5680","17087",Altentreptow
+"5363","09481",Scheibenberg
+"2340","25845","Nordstrand, Elisabeth-Sophien-Koog, S�dfall"
+"1188","85129",Oberdolling
+"13507","90547",Stein
+"3566","25840","Friedrichstadt, Koldenb�ttel u.a."
+"1420","87660",Irsee
+"2172","91286",Obertrubach
+"14547","97922",Lauda-K�nigshofen
+"3097","56865",Blankenrath u.a.
+"3475","84172",Buch a. Erlbach
+"660","21358",Mechtersen
+"662","38327",Semmenstedt
+"3755","86690",Mertingen
+"592","29493",Schnackenburg
+"7349","82481",Mittenwald
+"2152","97268",Kirchheim
+"3163","97276",Margetsh�chheim
+"2606","97657",Sandberg
+"11767","26340",Zetel
+"1315","86869",Oberostendorf
+"13309","96472",R�dental
+"2538","85669",Pastetten
+"8359","66887",Rammelsbach u.a.
+"2709","69253",Heiligkreuzsteinach
+"12168","76669",Bad Sch�nborn
+"984","31700",Heuer�en
+"3517","83530",Schnaitsee
+"8577","92342",Freystadt
+"32387","98617",Meiningen
+"24728","69168",Wiesloch
+"7597","93083",Obertraubling
+"3303759","10115",Berlin
+"7421","79771",Klettgau
+"8539","77709","Wolfach, Oberwolfach"
+"1221","38329",Wittmar
+"1425","86759",Wechingen
+"2239","65624",Altendiez
+"3388","72658",Bempflingen
+"11652","09376",Oelsnitz/Erzgebirge
+"12202","06792",Sandersdorf-Brehna
+"9764","14822","Br�ck, Borkheide u.a."
+"3919","79353",Bahlingen am Kaiserstuhl
+"5249","06642","Nebra, Kaiserpfalz"
+"30209","37671",H�xter
+"1474","78583",B�ttingen
+"41780","99817",Eisenach
+"8227","01904",Neukirch/Lausitz
+"2991","27259","Freistatt, Varrel, Wehrbleck"
+"2347","74931",Lobbach
+"1415","94375",Stallwang
+"3444","88457",Kirchdorf an der Iller
+"8757","29549",Bad Bevensen
+"6654","86842",T�rkheim
+"13190","33178",Borchen
+"214611","24103",Kiel
+"1971","93488",Sch�nthal
+"735","67759",Nu�bach
+"2740","85414",Kirchdorf a.d. Amper
+"12245","63683",Ortenberg
+"25521","57392",Schmallenberg
+"2235","25876",Schwabstedt
+"6406","29336",Nienhagen
+"35548","06193",Petersberg
+"1862","73572",Heuchlingen
+"6988","24960","Gl�cksburg, Munkbrarup"
+"3547","86925",Fuchstal
+"30552","06449",Aschersleben
+"10126","21365",Adendorf
+"1582","93182",Duggendorf
+"9179","82327",Tutzing
+"5469","16562",Hohen Neuendorf OT Bergfelde
+"5980","17209",Wredenhagen
+"12748","35418",Buseck
+"9199","06686",L�tzen
+"4183","73563",M�gglingen
+"4974","02633",G�da
+"1587","25862",Joldelund
+"2423","73669",Lichtenwald
+"9858","63589",Linsengericht
+"105704","54290",Trier
+"1006","87781",Ungerhausen
+"1624","92696",Flossenb�rg
+"3683","29345",Unterl��
+"7967","04741",Ro�wein
+"10313","04849",Bad D�ben
+"3329","34399",Oberweser
+"21526","88662",�berlingen
+"3234","95346",Stadtsteinach
+"4731","49774",L�hden
+"3599","34385",Bad Karlshafen
+"4020","55430",Oberwesel
+"900","89617",Untermarchtal
+"6743","36163",Poppenhausen
+"7585","53947",Nettersheim
+"20276","22941","Bargteheide, Delingsdorf u.a."
+"1351","83458",Schneizlreuth
+"6345","14669",Ketzin
+"6883","35753",Greifenstein
+"4800","09471",B�renstein
+"3512","83671",Benediktbeuern
+"1454","84432",Hohenpolding
+"4071","04613",Lucka
+"6778","61203",Reichelsheim (Wetterau)
+"4354","86919",Utting a. Ammersee
+"2990","96271",Grub a. Forst
+"14663","23758",Oldenburg in Holstein
+"21640","31655",Stadthagen
+"652","29487",Luckau (Wendland)
+"15644","34454",Bad Arolsen
+"2309","93486",Runding
+"11855","58802",Balve
+"3519","56587",Stra�enhaus
+"3296","99636",Rastenberg
+"21005","97688",Bad Kissingen
+"2520","25853",Ahrensh�ft
+"10396","65307",Bad Schwalbach
+"7198","21391","Reppenstedt, L�neburg"
+"33455","48565",Steinfurt
+"1863","57581",Katzwinkel (Sieg)
+"1654","83544",Albaching
+"2898","94439",Ro�bach
+"1327","53534","Barweiler, Bauler, Hoffeld, Pomster, Wiesemscheid, Wirft"
+"8661","85604",Zorneding
+"12779","32361",Preu�isch Oldendorf
+"1899","38557",Oslo�
+"1297","57642",Alpenrod
+"16293","49401",Damme
+"8229","32694",D�rentrup
+"959","25371",Seesterm�he
+"6247","34286",Spangenberg
+"12662","49413",Dinklage
+"2087","78664",Eschbronn
+"2674","74391",Erligheim
+"14026","72525",M�nsingen
+"4535","07366",Rosenthal am Rennsteig
+"585","54610",B�desheim
+"7968","95666",Mitterteich
+"3484","22955",Hoisdorf
+"2500","37697",Lauenf�rde
+"27004","51491",Overath
+"33084","30890",Barsinghausen
+"3334","86932",P�rgen
+"11302","06258",Schkopau
+"4189","72663",Gro�bettlingen
+"1056","84181",Neufraunhofen
+"1056","25379","Herzhorn, Kamerlanderdeich"
+"468","72361",Hausen am Tann
+"39303","16225",Eberswalde
+"44790","95028",Hof
+"3832","97892",Kreuzwertheim
+"8577","16269",Wriezen
+"1647","79874",Breitnau
+"15363","57271",Hilchenbach
+"5486","74369",L�chgau
+"5747","17375","Vogelsang-Warsin, Meiersberg, M�nkebude u.a."
+"2625","79271",Sankt Peter
+"1269","15748",M�rkisch Buchholz
+"2854","07619",Schk�len
+"12731","25355",Barmstedt
+"7890","49434",Neuenkirchen-V�rden
+"13477","04654",Frohburg
+"6620","15741",Bestensee
+"5206","18609",Binz
+"1428","67707",Schopp
+"99597","31134",Hildesheim
+"52729","89231",Neu-Ulm
+"12092","57399",Kirchhundem
+"8288","52159",Roetgen
+"3008","82402",Seeshaupt
+"15926","66679",Losheim
+"8634","26532",Gro�heide
+"13358","66793",Saarwellingen
+"13419","12529",Sch�nefeld
+"746","25591",Ottenb�ttel
+"9764","31180",Giesen
+"5063","64678",Lindenfels
+"7436","78183",H�fingen
+"10162","31167",Bockenem
+"7138","96110",Sche�litz
+"14066","69412",Eberbach
+"6193","38489","Beetzendorf, Rohrberg, J�bar"
+"4198","88696",Owingen
+"8040","79400",Kandern
+"2536","73574",Iggingen
+"3123","18465",Tribsees
+"11009","99976","Rodeberg, D�nwald u.a."
+"11900","64380",Ro�dorf
+"2540","94146",Hinterschmiding
+"3532","37691","Boffzen, Derental"
+"3327","36160",Dipperz
+"2038","57589",Pracht
+"3190","77797",Ohlsbach
+"6190","94424",Arnstorf
+"1093","67361",Freisbach
+"5746","74842",Billigheim
+"538","89183",Breitingen
+"2123","29351",Eldingen
+"5781","84419",Schwindegg
+"8956","85092",K�sching
+"41978","68723",Schwetzingen
+"1801","73272",Neidlingen
+"18134","09496",Marienberg
+"5868","56370",Sch�nborn
+"1543","91613",Marktbergel
+"2051","84384",Wittibreut
+"20750","86368",Gersthofen
+"13972","34576",Homberg
+"2472","97270","Kist, Irtenberger Wald"
+"2142","55459","Aspisheim, Grolsheim"
+"5110","97493",Bergrheinfeld
+"99246","57072",Siegen
+"13944","87719",Mindelheim
+"2675","92367",Pilsach
+"5092","73092",Heiningen
+"42969","41812",Erkelenz
+"18658","38889","Blankenburg, Oberharz am Brocken"
+"3673","72475",Bitz
+"3321","96170",Lisberg
+"602","82445",Schwaigen
+"4008","96148",Baunach
+"2670","74389",Cleebronn
+"1576","24256",Fargau-Pratjau
+"1016","57641",Oberlahr
+"1933","95519",Vorbach
+"1666","01829",Wehlen
+"2434","92263",Ebermannsdorf
+"4833","87541",Bad Hindelang
+"5289","87730",Bad Gr�nenbach
+"14071","49828","Esche, Georgsdorf, Lage, Neuenhaus, Osterwald"
+"13156","56414","Meudt, Molsberg, Hundsangen, Niederahr u.a."
+"4203","21483",G�lzow
+"7557","24235",Laboe
+"5090","17321","L�cknitz, Rothenklempenow"
+"1484","31699",Beckedorf
+"10811","38875",Oberharz am Brocken
+"3681","87656",Germaringen
+"27890","71665",Vaihingen an der Enz
+"2615","84571",Reischach
+"1008","95499",Harsdorf
+"6610","61479",Glash�tten
+"9263","35630",Ehringshausen
+"4140","95676",Wiesau
+"1117","06408",Ilberstedt
+"3189","24796",Bredenbek
+"6141","72175",Dornhan
+"15253","71672",Marbach am Neckar
+"1819","63874",Dammbach
+"39264","72622",N�rtingen
+"13190","07751","Jena, Bucha, Gro�p�rsch�tz u.a."
+"4006","91788",Pappenheim
+"13094","49624",L�ningen
+"5255","18519",Miltzow u.a.
+"2733","91238",Engelthal/Offenhausen
+"1219","95514",Neustadt a. Kulm
+"10284","38173","Sickte, Dettum u.a."
+"19149","46414",Rhede
+"6522","04886","Arzberg, Beilrode"
+"9311","27726",Worpswede
+"9656","85614",Kirchseeon
+"2033","92718",Schirmitz
+"8298","04874",Belgern-Schildau
+"27681","03130","Spremberg, Tschernitz u.a."
+"946","26489",Ochtersum
+"4326","63927",B�rgstadt
+"3589","96349",Steinwiesen
+"46553","52477",Alsdorf
+"6930","19273","Amt Neuhaus, Stapel"
+"1143","97513","Michelau i. Steigerwald, Hundelshausen"
+"8893","76879",Hochstadt
+"2322","86568",Hollenbach
+"1966","85128",Nassenfels
+"1958","21449",Radbruch
+"3953","63857","Waldaschaff, Waldaschaffer Forst"
+"12388","85551",Kirchheim b. M�nchen
+"6476","84144",Geisenhausen
+"999","24407",Rabenkirchen-Faul�ck
+"8107","99625",K�lleda
+"15796","83395",Freilassing
+"1718","85307",Paunzhausen
+"929","54612",Lasel
+"13873","37688",Beverungen
+"5174","91334",Hemhofen
+"25560","82467",Garmisch-Partenkirchen
+"30528","58256",Ennepetal
+"11403","53925",Kall
+"16885","33034",Brakel
+"1013","29355",Beedenbostel
+"4159","54578","Walsdorf, Nohn u.a."
+"1316","14828",G�rzke
+"2787","08499",Mylau
+"13272","37120",Bovenden
+"18377","34613",Schwalmstadt
+"13213","86830",Schwabm�nchen
+"1745","79868",Feldberg
+"20015","15848",Beeskow
+"1540","26571","Juist, Memmert"
+"7059","99765",Heringen/ Helme
+"2064","98746",Katzh�tte
+"2836","97292","�ttingen, Holzkirchen"
+"1082","25719","Barlt, Busenwurth"
+"2340","88459",Tannheim
+"13210","32609",H�llhorst
+"5213","56422","Wirges, Stadt"
+"5017","76596",Forbach
+"8650","14624",Dallgow-D�beritz
+"12049","06231",Bad D�rrenberg
+"2242","25368",Kiebitzreihe
+"5430","04936",Schlieben
+"1195","31868",Ottenstein
+"4316","92364",Deining
+"4931","74740",Adelsheim
+"14764","66292",Riegelsberg
+"1737","84092",Bayerbach bei Ergoldsbach
+"1359","89185",H�ttisheim
+"7150","93444",K�tzting
+"4785","79249",Merzhausen
+"11432","19205",Gadebusch
+"4915","24969","Gro�enwiehe, Lindewitt"
+"3034","92557",Weiding
+"9496","29439",L�chow
+"47480","47533",Kleve
+"7680","56751",Polch
+"5073","38547",Calberlah
+"571465","44135",Dortmund
+"2846","21714",Hammah
+"6652","06628","Lanitz-Hassel-Tal, Molauer Land"
+"38064","40822",Mettmann
+"3606","73274",Notzingen
+"4131","71566",Alth�tte
+"1012","38462",Grafhorst
+"1765","23899",Gudow
+"2247","21360",V�gelsen
+"7735","73447",Oberkochen
+"628","91620",Ohrenbach
+"1649","54318",Mertesdorf
+"15435","47638",Straelen
+"18532","01920","Elstra, O�ling u.a."
+"9829","67240",Bobenheim-Roxheim
+"56810","31785",Hameln
+"5210","65529",Waldems
+"6172","89564",Nattheim
+"9293","39393","H�tensleben, V�lpke, Ottleben u.a."
+"5899","23683",Scharbeutz
+"784","91605",Gallmersgarten
+"3036","96369",Wei�enbrunn
+"6415","98744",Oberwei�bach u.a.
+"12222","02681",Wilthen
+"7241","56814",Ediger-Eller
+"11813","08223",Falkenstein/Vogtl.
+"2658","66904",Br�cken (Pfalz)
+"393","55621",Hundsbach
+"2092","97959",Assamstadt
+"3459","67822","Winterborn, Waldgrehweiler, Niedermoschel, u.a."
+"10548","95213",M�nchberg
+"1090","95185",Gattendorf
+"2539","23896",Nusse
+"1695","95234",Sparneck
+"1678","96272",Hochstadt a. Main
+"10915","58579",Schalksm�hle
+"5003","92256",Hahnbach
+"20703","26409",Wittmund
+"1116","82435",Bayersoien
+"6025","74388",Talheim
+"3727","61138",Niederdorfelden
+"6704","04564",B�hlen
+"20220","74653","K�nzelsau, Ingelfingen"
+"1785","87754",Kammlach
+"1855","97836",Bischbrunn
+"1322","21400",Reinstorf
+"3813","25569",Kremperheide
+"1162","86682",Genderkingen
+"12400","90537","N�rnberg-Feucht, Feuchter Forst"
+"4027","16945","Meyenburg, K�mmernitztal u.a."
+"8991","49762","Sustrum, Lathen u.a."
+"4770","82237",W�rthsee
+"8862","68647",Biblis
+"2641","79295",Sulzburg
+"12494","34260",Kaufungen
+"544","95358",Guttenberg
+"19768","53909",Z�lpich
+"6663","07819",Triptis
+"8745","57548",Kirchen (Sieg)
+"6453","76706",Dettenheim
+"17665","72793",Pfullingen
+"1646","23820",Pronstorf
+"6010","35716",Dietzh�lztal
+"29366","37154",Northeim
+"3212","82281",Egenhofen
+"2202","73469",Riesb�rg
+"8110","76887",Bad Bergzabern u.a.
+"7783","74219",M�ckm�hl
+"11653","38364",Sch�ningen
+"4067","99897",Tambach-Dietharz/ Th�r.
+"11568","48329",Havixbeck
+"1872","91361",Pinzberg
+"7664","35315",Homberg (Ohm)
+"1597","93356",Teugn
+"1983","97529",Sulzheim
+"1080","87748",Fellheim
+"23286","14542",Werder/ Havel
+"1125","86674",Baar
+"1802","97491",Aidhausen
+"6103","88271",Wilhelmsdorf
+"39242","64625",Bensheim
+"14392","71706",Markgr�ningen
+"1575","27252",Schwaf�rden
+"32632","06712","Zeitz, Gutenborn u.a."
+"6798","17207",R�bel/M�ritz
+"10969","31855",Aerzen
+"2678","09399",Niederw�rschnitz
+"21810","63571",Gelnhausen
+"9257","89278",Nersingen
+"4487","35282",Rauschenberg
+"2529","76597",Loffenau
+"7660","21762",Otterndorf
+"3061","91611",Lehrberg
+"2056","54320",Waldrach
+"26208","17192",Waren/ M�ritz
+"10644","49186",Bad Iburg
+"3610","86929",Penzing
+"11620","96114",Hirschaid
+"2340","54657","Badem, Gindorf, Neidenbach"
+"1931","73495",St�dtlen
+"3049","79286",Glottertal
+"1280","29394",L�der
+"19908","01877",Bischofswerda u.a.
+"1338","94145",Haidm�hle
+"734","25575",Beringstedt
+"1822","34329",Nieste
+"3373","97647",Nordheim v.d. Rh�n
+"1382","97859",Wiesthal
+"9073","59889",Eslohe
+"4352","15324",Letschin
+"1165","91798",H�ttingen
+"2354","91604",Flachslanden
+"7417","75305",Neuenb�rg
+"738","78597",Irndorf
+"1130","91478",Markt Nordheim
+"7876","73262",Reichenbach an der Fils
+"6351","24787",Fockbek
+"5653","97475",Zeil a. Main
+"6432","49549",Ladbergen
+"4779","97993",Creglingen
+"2908","35329",Gem�nden (Felda)
+"14713","69214",Eppelheim
+"2035","78354",Sipplingen
+"1385","92268",Etzelwang
+"6705","94522",Wallersdorf
+"13702","51709",Marienheide
+"28240","30900",Wedemark
+"9583","56179",Vallendar
+"7308","64673",Zwingenberg
+"11767","75223",Niefern-�schelbronn
+"29569","78315",Radolfzell am Bodensee
+"1957","93480",Hohenwarth
+"17677","83059",Kolbermoor
+"1056","25791","Linden, Barkenholm"
+"6042","74363",G�glingen
+"5969","79227",Schallstadt
+"17080","53489",Sinzig
+"7621","56379",Singhofen
+"7050","01774",Klingenberg
+"26300","52511",Geilenkirchen
+"2621","72661",Grafenberg
+"34924","63225",Langen
+"58450","29221",Celle
+"1181","67693","Waldleiningen, Fischbach"
+"1796","82278",Althegnenberg
+"20602","16356",Werneuchen
+"4124","97508",Grettstadt
+"5342","78345",Moos
+"6854","67677",Enkenbach-Alsenborn
+"1786","93358",Train
+"1627","92694",Etzenricht
+"1188","82387",Antdorf
+"2922","76479",Steinmauern
+"2596","29562",Suhlendorf
+"1309","24405","Mohrkirch, R�gge"
+"21247","26180",Rastede
+"17346","16775","Gransee, L�wenberg"
+"17173","82515",Wolfratshausen
+"6303","08344",Gr�nhain-Beierfeld
+"3560","21641",Apensen
+"4590","97520",R�thlein
+"13840","25980",Sylt
+"4618","74238",Krautheim
+"24878","64646",Heppenheim (Bergstra�e)
+"20511","32130",Enger
+"2612","84549",Engelsberg
+"53983","53757",Sankt Augustin
+"3923","19077",Rastow
+"9973","78234",Engen
+"1907","38459",Bahrdorf
+"3378","36320",Kirtorf
+"5276","92355",Velburg
+"15053","78647",Trossingen
+"5130","57632",Flammersfeld
+"27389","34225",Baunatal
+"25991","59581",Warstein
+"13809","78727",Oberndorf am Neckar
+"14027","84048",Mainburg
+"1593","17214",Nossentiner H�tte
+"3365","75053",Gondelsheim
+"3762","64409",Messel
+"7873","21376",Salzhausen
+"1134","39579",Rochau
+"12416","66636",Tholey
+"14023","32351",Stemwede
+"6766","74206",Bad Wimpfen
+"3706","09579",Gr�nhainichen
+"13336","01844",Neustadt i. Sa.
+"3021","67376",Harthausen
+"13765","73066",Uhingen
+"5469","15326","Zeschdorf, Podelzig, Lebus"
+"4454","93086",W�rth an der Donau
+"9235","26931",Elsfleth
+"1589","06259",Frankleben
+"2246","75057",K�rnbach
+"3503","78570",M�hlheim an der Donau
+"8590","72810",Gomaringen
+"3025","56746",Kempenich
+"80254","78048",Villingen-Schwenningen
+"11124","68542",Heddesheim
+"3766","07368",Remptendorf
+"37269","46562",Voerde (Niederrhein)
+"8051","25712",Burg (Dithmarschen)
+"2018","93494",Waffenbrunn
+"9953","07806",Neustadt/ Orla
+"9214","19089","Crivitz, Friedrichsruhe u.a."
+"6878","09465",Sehma
+"2586","86983",Lechbruck
+"1522","65626",Birlenbach
+"3040","56338",Braubach
+"23987","71254",Ditzingen
+"20831","64832",Babenhausen
+"13755","76593",Gernsbach
+"2102","38461",Danndorf
+"7670","48496",Hopsten
+"11696","84347",Pfarrkirchen
+"2144","91731",Langfurth
+"2482","29352",Adelheidsdorf
+"2260","89614",�pfingen
+"1074","56861",Reil
+"1014","94350",Falkenfels
+"12032","74626",Bretzfeld
+"16449","47623",Kevelaer-Mitte
+"142380","33098",Paderborn
+"4045","18574",Garz/ R�gen
+"3492","36457","Stadtlengsfeld, Weilar, Urnshausen"
+"1784","38324",Kissenbr�ck
+"4924","67582",Mettenheim
+"46728","59494",Soest
+"20059","63500",Seligenstadt
+"7992","25551",Hohenlockstedt
+"5346","94239",Zachenberg
+"31847","30926",Seelze
+"10932","46419",Isselburg
+"6006","71717",Beilstein
+"23728","28857",Syke
+"15627","65462",Ginsheim-Gustavsburg
+"5870","84529",Tittmoning
+"1979","86505",M�nsterhausen
+"2681","67752",Wolfstein
+"9936","39264","G�tergl�ck, Lindau, Deetz u.a."
+"2926","19376","Marnitz, Siggelkow"
+"2356","85304",Ilmm�nster
+"2000","31604",Raddestorf
+"3657","86676",Ehekirchen
+"1156","96169",Lauter
+"7273","63594",Hasselroth
+"9548","22949",Ammersbek
+"839","24814",Sehestedt
+"11362","49685",Emstek
+"2295","56191",Weitersburg
+"8321","94501",Aldersbach
+"9243","39171",S�lzetal
+"11895","49497",Mettingen
+"6409","48629",Metelen
+"23823","64319",Pfungstadt
+"668","76779",Scheibenhardt
+"4510","25920","Risum-Lindholm, Stedesand"
+"11541","79822",Titisee-Neustadt
+"12449","84503",Alt�tting
+"8349","66352",Gro�rosseln
+"3627","75391",Gechingen
+"9773","18546",Sassnitz
+"5879","24598",Boostedt
+"8786","66806",Ensdorf
+"3087","84544",Aschau a. Inn
+"11348","24306",Pl�n
+"4389","15377","Oberbarnim, M�rkische H�he u.a."
+"1706","91247",Vorra
+"13427","63505",Langenselbold
+"10514","39175","Biederitz, Gerwisch, Menz u.a."
+"1253","91364",Unterleinleiter
+"16598","89257",Illertissen
+"1038","29594",Soltendiek
+"1480","36219",Cornberg
+"607","06255",M�cheln
+"1187","25878","Drage, Seeth"
+"4657","93354",Siegenburg
+"19860","61130",Nidderau
+"3244","93352",Rohr i. NB
+"1015","92554",Thanstein
+"1444","73108",Gammelshausen
+"11601","24119",Kronshagen
+"30011","28844",Weyhe
+"2587","88525",D�rmentingen
+"17573","24576",Bad Bramstedt
+"7274","36132",Eiterfeld
+"15732","83052",Bruckm�hl
+"3530","82239",Alling
+"6591","29386","Hankensb�ttel, Obernholz, Dedelstorf"
+"7098","34513",Waldeck
+"2501","94559",Niederwinkling
+"49834","26721",Emden
+"27988","24558",Henstedt-Ulzburg
+"3767","77770",Durbach
+"1345","22958",Kuddew�rde
+"14361","69207",Sandhausen
+"23136","74821",Mosbach
+"531","54617",L�tzkampen
+"51397","61348",Bad Homburg v.d. H�he
+"10337","34266",Niestetal
+"1773","94371",Rattenberg
+"4764","74586",Frankenhardt
+"48059","91126",Schwabach
+"5028","73087",Bad Boll
+"822","66501",Kleinbundenbach
+"2981","67592",Fl�rsheim-Dalsheim
+"1750","97519",Riedbach
+"9232","26452",Sande
+"6264","08538",Weischlitz u.a.
+"2855","67127",R�dersheim-Gronau
+"27928","04838",Eilenburg u.a.
+"3539","19209",L�tzow
+"11550","07607","Eisenberg, G�sen, Hainspitz"
+"3784","08428",Langenbernsdorf
+"23012","87527",Sonthofen
+"2161","97654",Bastheim
+"3104","99638",Kindelbr�ck
+"9431","27442",Gnarrenburg
+"1708","91807",Solnhofen
+"5912","75228",Ispringen
+"17490","19370",Parchim
+"3928","77761",Schiltach
+"73879","32756",Detmold
+"2417","49847",Itterbeck/Wielen
+"4676","06313",Hergisdorf
+"3588","02742",Neusalza-Spremberg
+"9054","32683",Barntrup
+"6386","97478",Knetzgau
+"1877","21756",Osten
+"15993","49356",Diepholz
+"2151","91746",Weidenbach
+"92676","27570",Bremerhaven
+"1013","92542",Dieterskirchen
+"12786","71679",Asperg
+"1218","87752",Holzg�nz
+"19474","31061",Alfeld (Leine)
+"3756","19071",Br�sewitz
+"9403","04736",Waldheim
+"15080","90518",Altdorf bei N�rnberg
+"1695","91369",Wiesenthau
+"1394","79280",Au (Breisgau)
+"17208","74343",Sachsenheim
+"10500","69226",Nu�loch
+"888","24637",Schillsdorf
+"7110","36419",Geisa
+"5173","74847",Obrigheim
+"26998","02708","L�bau, Kottmar u.a."
+"7924","87724",Ottobeuren
+"2629","23744",Sch�nwalde am Bungsberg
+"1930","94563",Otzing
+"19607","16909","Wittstock/Dosse, Heiligengrabe"
+"10039","66459",Kirkel
+"3772","73278",Schlierbach
+"6315","36148",Kalbach
+"1203","38277",Heere
+"3148","14823",Niemegk
+"7026","21726",Oldendorf
+"16080","24631",Langwedel
+"26089","73312",Geislingen an der Steige
+"2541","76599",Weisenbach
+"17979","21224",Rosengarten
+"4387","21368",Dahlenburg
+"32984","49661",Cloppenburg
+"4607","14827",Wiesenburg
+"2443","87497",Wertach
+"2643","88099",Neukirch
+"16887","65239",Hochheim am Main
+"5234","34302",Guxhagen
+"33252","78532",Tuttlingen
+"3322","35799",Merenberg
+"14353","63584",Gr�ndau
+"1993","86573",Obergriesbach
+"8849","61389",Schmitten
+"4990","85107",Baar-Ebenhausen
+"14718","07937","Zeulenroda-Triebes, Langenwolschendorf"
+"1376","87547",Missen-Wilhams
+"14969","47929",Grefrath
+"1166","91741",Theilenhofen
+"9782","72218",Wildberg
+"2605","22964",Steinburg
+"12911","69151",Neckargem�nd
+"7578","48499",Salzbergen
+"2371","47624",Kevelaer-Twisteden
+"467","21712",Gro�enw�rden
+"1715","02796",Jonsdorf
+"5931","92660",Neustadt a.d. Waldnaab
+"4574","55578",Wallertheim
+"506672","30159",Hannover
+"4200","47626",Kevelaer-Winnekendonk
+"3067","36166",Haunetal
+"9743","02829","Markersdorf, Nei�eaue u.a."
+"12813","49163",Bohmte
+"4842","36456",Barchfeld-Immelborn
+"1119","79686",Hasel
+"18024","02906","Niesky, Hohendubrau u.a."
+"19762","09648","Mittweida, Kriebstein"
+"12225","94447",Plattling
+"14966","41372",Niederkr�chten
+"2634","21643",Beckdorf
+"9748","06780",Z�rbig
+"1922","24791",Alt Duvenstedt
+"654","88376",K�nigseggwald
+"3361","95163",Wei�enstadt
+"6477","93164","Laaber, Brunn"
+"4294","82266",Inning a. Ammersee
+"18037","51399",Burscheid
+"7042","02692","Doberschau-Gau�ig, Gro�postwitz, Obergurig"
+"5522","84364",Bad Birnbach
+"6937","76751",Jockgrim
+"972","97243",Bieberehren
+"2554","83134",Prutting
+"5143","07589","M�nchenbernsdorf, Schwarzbach, Bocka"
+"20481","57234",Wilnsdorf
+"13988","85570",Markt Schwaben
+"15679","27211",Bassum
+"1338","91347",Aufse�
+"1229","86562",Berg im Gau
+"21162","33790",Halle (Westfalen)
+"3043","78669",Wellendingen
+"6261","91085",Weisendorf
+"3610","95497",Goldkronach
+"2398","67374",Hanhofen
+"4607","34359",Reinhardshagen
+"3143","21727",Estorf
+"6484","73557",Mutlangen
+"2440","21272",Eggestorf
+"2621","93466",Chamerau
+"4242","75331",Engelsbrand
+"6819","88709",Meersburg
+"2990","92708",Mantel
+"4492","09575",Eppendorf
+"1354","57638",Neitersen
+"1726055","20095",Hamburg
+"17504","84489",Burghausen
+"22222","91074",Herzogenaurach
+"20446","26419",Schortens
+"26779","53894",Mechernich
+"42982","92637","Weiden in der OPf., Theisseil"
+"11507","65366",Geisenheim
+"2208","63869",Heigenbr�cken
+"4860","74855",Ha�mersheim
+"5412","84424",Isen
+"13763","46569",H�nxe
+"15865","36093",K�nzell
+"1437","54666",Irrel
+"35018","42929",Wermelskirchen
+"4999","76359",Marxzell
+"6019","34508",Willingen (Upland)
+"3269","86513",Ursberg
+"4557","17159",Dargun
+"8688","65835",Liederbach am Taunus
+"6337","29328",Fa�berg
+"3108","21775",Ihlienworth
+"12986","88316",Isny im Allg�u
+"3350","63864",Glattbach
+"1059","63831","Wiesen, Wiesener Forst"
+"12512","26676",Bar�el
+"2473","92714",Pleystein
+"4201","38838",Huy
+"1689","88371",Ebersbach-Musbach
+"3321","96361",Steinbach a. Wald
+"7334","64747",Breuberg
+"6464","17121",Loitz
+"3545","73342",Bad Ditzenbach
+"6348","96476",Rodach b. Coburg
+"5196","63543",Neuberg
