@@ -25,9 +25,19 @@ x,y,airportcode
 
 # Airports
 
+curl http://localhost:8002/route --data '{"locations":[{"lat":52.42428441929931,"lon":13.37224784993865,"type":"break"},{"type":"break","lat":52.41429936656083,"lon":13.363986646180326}],"costing":"auto_co2","directions_options":{"units":"km", "directions_type":"none"}}' | jq '.'
+
+curl http://localhost:8002/isochrone --data '{"locations":[{"lat":52.42428441929931,"lon":13.37224784993865}],"costing":"auto_co2","contours":[{"time":164,"color":"ff0000"}]}' | jq '.'
 
 
 # Upload to S3
 
 Set   Content-Type = Actual mime type
 Set   Content-Encoding = gzip
+
+RegiostarGem5
+51	Metropole
+52	Regiopole, Großstadt
+53	Zentrale Stadt, Mittelstadt
+54	Städtischer Raum
+55	Kleinstädtischer, dörflicher Raum

@@ -18,7 +18,11 @@
   "homepage": "https://github.com/sebastian-meier/LoCobSS-co2-data#readme",
   "dependencies": {
     "@turf/distance": "^6.0.1",
+    "@turf/simplify": "^5.1.5",
+    "aws-sdk": "^2.797.0",
+    "chaikin-smooth": "^1.0.4",
     "csv-parse": "^4.14.0",
+    "dotenv": "^8.2.0",
     "node-fetch": "^2.6.1",
     "node-gzip": "^1.1.2",
     "vptree": "^1.0.0"
