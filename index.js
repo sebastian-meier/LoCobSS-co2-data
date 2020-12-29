@@ -80,48 +80,48 @@ postcodes_large.forEach((postcode) => {
 });
 
 // postcode processing
-(async () => {
-  // airport file
-  const airports_zip = await gzip(airports.map((airport) => {
-    return `${airport.iata_code},${(airport.name.indexOf(',') !== -1) ? `"${airport.name}"` : airport.name},${airport.geom.geometry.coordinates[0].toFixed(coord_precision)},${airport.geom.geometry.coordinates[1].toFixed(coord_precision)}`
-  }).join('\n'));
-  fs.writeFileSync('./output/airports.csv', airports_zip);
+// (async () => {
+//   // airport file
+//   const airports_zip = await gzip(airports.map((airport) => {
+//     return `${airport.iata_code},${(airport.name.indexOf(',') !== -1) ? `"${airport.name}"` : airport.name},${airport.geom.geometry.coordinates[0].toFixed(coord_precision)},${airport.geom.geometry.coordinates[1].toFixed(coord_precision)}`
+//   }).join('\n'));
+//   fs.writeFileSync('./output/airports.csv', airports_zip);
 
-  // postcode validation file
-  const postcode_zip = await gzip(postcodes.map((code) => code.plz.trim()).join(','));
-  fs.writeFileSync('./output/postcodes.txt', postcode_zip);
+//   // postcode validation file
+//   const postcode_zip = await gzip(postcodes.map((code) => code.plz.trim()).join(','));
+//   fs.writeFileSync('./output/postcodes.txt', postcode_zip);
   
-  // individual postcode coordinates
-  for (let i = 0; i < postcodes.length; i += 1) {
-    // TODO: Based on population density generate travel profiles
-    const airport = airportTree.search({
-      geom: {
-        type: 'Feature',
-        properties: {},
-        geometry: {
-          type: 'Point',
-          coordinates: [postcodes[i].X, postcodes[i].Y]
-        }
-      }
-    })[0].i;
+//   // individual postcode coordinates
+//   for (let i = 0; i < postcodes.length; i += 1) {
+//     // TODO: Based on population density generate travel profiles
+//     const airport = airportTree.search({
+//       geom: {
+//         type: 'Feature',
+//         properties: {},
+//         geometry: {
+//           type: 'Point',
+//           coordinates: [postcodes[i].X, postcodes[i].Y]
+//         }
+//       }
+//     })[0].i;
 
-    // using the iata_code as a key (maybe use index of airport in file instead > no need for keymap in application?)
-    const coordinates = {
-      x: parseFloat(postcodes[i].X.toFixed(coord_precision)),
-      y: parseFloat(postcodes[i].Y.toFixed(coord_precision)),
-      airport: airport,
-      plz: postcodes[i].plz,
-      name: postcodes[i].RS_gemname,
-      population: parseInt(postcodes[i].einwohner),
-      regiostar: parseInt(postcodes[i].RS_RegioStaRGem5),
-      mobility:mobilityTypes[postcodes[i].RS_RegioStaRGem5]
-    };
+//     // using the iata_code as a key (maybe use index of airport in file instead > no need for keymap in application?)
+//     const coordinates = {
+//       x: parseFloat(postcodes[i].X.toFixed(coord_precision)),
+//       y: parseFloat(postcodes[i].Y.toFixed(coord_precision)),
+//       airport: airport,
+//       plz: postcodes[i].plz,
+//       name: postcodes[i].RS_gemname,
+//       population: parseInt(postcodes[i].einwohner),
+//       regiostar: parseInt(postcodes[i].RS_RegioStaRGem5),
+//       mobility:mobilityTypes[postcodes[i].RS_RegioStaRGem5]
+//     };
 
-    const coordinates_zip = await gzip(JSON.stringify(coordinates));
+//     const coordinates_zip = await gzip(JSON.stringify(coordinates));
 
-    fs.writeFileSync(`./output/centroids/${postcodes[i].plz}.json`, coordinates_zip);
-  }
-})();
+//     fs.writeFileSync(`./output/centroids/${postcodes[i].plz}.json`, coordinates_zip);
+//   }
+// })();
 
 // calculate co2 values for all postcode centroids to 
 // (async () => {
@@ -231,53 +231,70 @@ const sets = {
   'bike': ['car_2020', 'car_2050_min', 'car_2050_max', 'bike_2050_car_min', 'bike_2050_car_max', 'bike_2050_public_min', 'bike_2050_public_max']
 };
 
-// (async () => {
-//   // for each postcode we calculate the distance to all major cities
-//   for (let i = 0; i < postcodes.length; i += 1) {
-//     for (let set_key in sets) {
-//       let isochrones = {
-//         "type": "FeatureCollection",
-//         "features": []
-//       };
-//       for (let key in sets[set_key]) {
+(async () => {
+  // for each postcode we calculate the distance to all major cities
+  for (let i = 0; i < postcodes.length; i += 1) {
+    for (let set_key in sets) {
+      let isochrones = {
+        "type": "FeatureCollection",
+        "features": []
+      };
+      for (let key in sets[set_key]) {
 
-//         const route = await fetch('http://localhost:8002/isochrone', {
-//           headers: { 'Content-Type': 'application/json' },
-//           method: 'POST', 
-//           body: JSON.stringify({
-//             locations:[
-//               {lat: postcodes[i].Y, lon: postcodes[i].X}
-//             ],
-//             polygons: true,
-//             denoise: 1,
-//             generalize: 1,
-//             costing: 'auto_co2',
-//             contours: [{ time: iso_definitions[sets[set_key][key]]/60 }]
-//           })
-//         }).then(res => res.json());
+        const route = await fetch('http://localhost:8002/isochrone', {
+          headers: { 'Content-Type': 'application/json' },
+          method: 'POST', 
+          body: JSON.stringify({
+            locations:[
+              {lat: postcodes[i].Y, lon: postcodes[i].X}
+            ],
+            polygons: true,
+            denoise: 1,
+            generalize: 1,
+            costing: 'auto_co2',
+            // divided by 2 to include return trip...
+            contours: [{ time: iso_definitions[sets[set_key][key]]/60/2 }]
+          })
+        }).then(res => res.json());
 
-//         isochrones.features.push(route.features[0]);
-//       }
+        isochrones.features.push(route.features[0]);
+      }
 
-//       const options = {tolerance: 0.005, highQuality: true};
-//       isochrones = simplify(isochrones, options);
+      isochrones.features.forEach((feature, fi) => {
+        feature.geometry.coordinates.forEach((coords, cis) => {
+          isochrones.features[fi].geometry.coordinates[cis].forEach((coord, ci) => {
+            coord.forEach((num, ni) => {
+              isochrones.features[fi].geometry.coordinates[cis][ci][ni] = parseFloat(num.toFixed(3));
+            });
+          });
+        });
+      });
 
-//       const isochrone_export = {};
+      const options = {tolerance: 0.005, highQuality: true};
+      isochrones = simplify(isochrones, options);
 
-//       isochrones.features.forEach((feature, fi) => {
-//         if (isochrones.features[fi].geometry.coordinates.length > 1) {
-//           console.log('SHIT');
-//         }
-//         feature.geometry.coordinates.forEach((coord, ci) => {
-//           isochrones.features[fi].geometry.coordinates[ci] = smooth(coord);
-//         });
-//         isochrone_export[sets[set_key][fi]] = feature.geometry.coordinates[0].map((coordinate) => `${coordinate[0]},${coordinate[0]}`).join(';');
-//       });
+      const isochrone_export = {};
 
-//       const isochrones_zip = await gzip(JSON.stringify(isochrone_export));
-//       fs.writeFileSync(`./output/isochrones/${postcodes[i].plz}_${set_key}.json`, isochrones_zip);
-//       // fs.writeFileSync(`./output/isochrones/${postcodes[i].plz}_${set_key}.json`, JSON.stringify(isochrones), 'utf8');
-//     }
-//     console.log(postcodes.length, i);
-//   }
-// })();
+      isochrones.features.forEach((feature, fi) => {
+        if (isochrones.features[fi].geometry.coordinates.length > 1) {
+          console.log('SHIT');
+        }
+        feature.geometry.coordinates.forEach((coords, cis) => {
+          isochrones.features[fi].geometry.coordinates[cis] = smooth(coords);
+          isochrones.features[fi].geometry.coordinates[cis].forEach((coord, ci) => {
+            coord.forEach((num, ni) => {
+              isochrones.features[fi].geometry.coordinates[cis][ci][ni] = parseFloat(num.toFixed(3));
+            });
+          });
+        });
+        isochrone_export[sets[set_key][fi]] = feature.geometry.coordinates[0].map((coordinate) => `${coordinate[0]},${coordinate[1]}`).join(';');
+      });
+
+      const isochrones_zip = await gzip(JSON.stringify(isochrone_export));
+      // fs.writeFileSync(`./output/isochrones/${postcodes[i].plz}_${set_key}.json`, isochrones_zip);
+      fs.writeFileSync(`./output/isochrones/${postcodes[i].plz}_${set_key}.json`, JSON.stringify(isochrones), 'utf8');
+      process.exit();
+    }
+    console.log(postcodes.length, i);
+  }
+})();
