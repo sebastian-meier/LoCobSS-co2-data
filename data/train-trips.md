@@ -11,7 +11,15 @@ Hamburg, 256, 0.03, 1:55, Only ICE
 Münster, 398, 1.7, 3:36, ICE + RE
 
 
+https://www.umweltmobilcheck.de/
 https://www.bahn.de/wmedia/view/mdb/media/intern/umc-grundlagenbericht.pdf
+
+
+https://www.umweltbundesamt.de/bild/vergleich-der-durchschnittlichen-emissionen-0
+
+
+
+
 Fernverkehr > ökostrom: 0.003
 0,519 kg CO2 pro kWh
 

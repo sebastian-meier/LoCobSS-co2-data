@@ -12,13 +12,13 @@ const s3 = new AWS.S3({
 const folder = './output';
 
 const files = [
-  // ['airports.csv', true, 'text/csv'],
+  ['airports.csv', true, 'text/csv'],
   // ['postcodes.txt', true, 'text/plain']
 ];
 
 const folders = [
-  ['centroids', true, 'application/json'],
-  // ['distances', false, 'application/json'],
+  // ['centroids', true, 'application/json'],
+  ['distances', true, 'application/json'],
   // ['isochrones', true, 'application/json']
 ];
 
