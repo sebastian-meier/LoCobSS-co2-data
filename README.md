@@ -38,3 +38,4 @@ This will generate a GeoJSON for viewing.
 - https://www.umweltmobilcheck.de/
 - https://www.bahn.de/wmedia/view/mdb/media/intern/umc-grundlagenbericht.pdf
 - https://www.umweltbundesamt.de/bild/vergleich-der-durchschnittlichen-emissionen-0
+- https://raw.githubusercontent.com/datasets/airport-codes/master/data/airport-codes.csv
