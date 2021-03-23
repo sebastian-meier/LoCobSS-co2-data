@@ -17,8 +17,8 @@ const files = [
 ];
 
 const folders = [
-  // ['centroids', true, 'application/json'],
-  ['distances', true, 'application/json'],
+  ['centroids', true, 'application/json'],
+  // ['distances', true, 'application/json'],
   // ['isochrones', true, 'application/json']
 ];
 
