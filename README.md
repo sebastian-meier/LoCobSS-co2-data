@@ -31,6 +31,9 @@ node iso2geojson.js NAME_OF_GZIP_POSTCODE_FILE.json
 ```
 This will generate a GeoJSON for viewing.
 
+## Fixing broken geometries
+We had some problems with some geometries and had to apply custom fixes. You can find some exemplary code for that in the **./fixes/** folder.
+
 ## Sources
 
 - https://mobilitaet-in-tabellen.dlr.de/mit/login.html?brd
