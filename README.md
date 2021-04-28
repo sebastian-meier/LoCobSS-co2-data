@@ -1,3 +1,5 @@
+This repo is part of the LoCobSS research project. More details about the project and dependencies to other repos can be found [here](https://github.com/sebastian-meier/LoCobSS-documentation).
+
 # LoCobSS-co2-data
 Part of the LoCobSS project. Tool to generate the data required for the CO2 [storytelling use case](https://github.com/sebastian-meier/locobss-story-climate-risk-zones).
 
